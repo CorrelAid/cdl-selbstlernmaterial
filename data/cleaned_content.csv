@@ -486,138 +486,279 @@ Wenn du noch mehr über DNS erfahren möchtest, schaue dir die folgenden Ressour
 "
 5,Zertifikat,5-zertifikat.md,"# Zertifikat
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Auch bekannt unter: Digitale Zertifikate, SSL/TLS-Zertifikate
+
+### Definition
+
+Digitale Zertifikate sind elektronische Dateien, die die Identität oder bestimmte Eigenschaften des Zertifikat-Inhabers (das kann eine Person, eine Organisation oder ein IT-System sein) bestätigen; sie dienen also der [Authentifizierung](https://civic-data.de/selbstlernmaterial/#authentifizierung) des Inhabers. Zertifikate werden von vertrauenswürdigen Zertifizierungsstellen (CA, en: Certificate Authority) ausgestellt und dienen als digitaler Ausweis im Internet. Ihr benötigt Zertifikate außerdem, um sichere Verbindungen herzustellen und Daten zu verschlüsseln.
+
+### Beispiele
+
+- E-Mail-Signatur: Das digitale Zertifikat bestätigt die Echtheit der E-Mail sowie deren Sender und garantiert die sichere Übertragung an den Empfänger.
+
+- Digitale Signatur: Das digitale Zertifikat identifiziert die unterzeichnende Person oder das unterzeichnende Unternehmen.
+
+- Der Aufruf einer Webseite: Das digitale Zertifikat garantiert, dass der Inhalt wirklich von der Web-Adresse stammt, die man sieht (via HTTPS).
+
+  
 ## Wann ist Zertifikat für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Zertifikat für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Zertifikat   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 6,Authentifizierung,6-authentifizierung.md,"# Authentifizierung
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Deutsche Übersetzung**:** -
+
+Auch bekannt als**:** -
+
+### Definition
+
+Authentifizierung ist der Prozess, bei dem überprüft wird, ob eine Person, ein System oder eine Maschine tatsächlich die behauptete Identität besitzt. Dabei kommen unterschiedliche Methoden wie Passwörter, biometrische Daten oder digitale Token zum Einsatz.
+
+### Beispiele
+
+- Passwortbasierte Authentifizierung (z.B. Login in Online-Diensten)
+
+- Zwei-Faktor-Authentifizierung (2FA) mittels SMS oder Authenticator-App
+
+- Biometrische Authentifizierung (z.B. Fingerabdruck oder Gesichtserkennung)
+
+  
 ## Wann ist Authentifizierung für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Authentifizierung für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Authentifizierung   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 7,Permission Management,7-permission-management.md,"# Permission Management
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+**Synonyme**: Zugriffsverwaltung, Rechteverwaltung, Zugriffskontrolle
+
+**Englische Übersetzung**: Permission Management
+
+Auch bekannt als: Access Control, Rollen- und Rechteverwaltung (Role-based Access Control, RBAC), Autorisierungsmanagement
+
+### Definition
+
+Permission Management, oder Berechtigungsverwaltung, bezeichnet die Kontrolle darüber, welche Nutzer\*innen oder Systeme Zugriff auf welche Daten, Funktionen oder Ressourcen haben. Es stellt sicher, dass nur autorisierte Personen bestimmte Aktionen durchführen können. Typischerweise basiert Permission Management auf Benutzerrollen (z. B. Administrator, Editor, Leser).
+
+### Beispiele
+
+**Dateisysteme**: Wer darf Dateien lesen, bearbeiten oder löschen? (z. B. Google Drive: Nur bestimmte Personen können ein Dokument bearbeiten, andere nur lesen.)
+
+**NGO-Software**: Ein Fundraising-Team darf Spenderdaten sehen, aber nur die Finanzabteilung kann Zahlungsdetails ändern.
+
+**Cloud-Dienste**: Admins können Benutzerkonten erstellen, während normale Nutzer\*innen nur ihre eigenen Daten verwalten dürfen.
+
+**Soziale Netzwerke**: Nutzer\*innen legen fest, wer ihre Beiträge sehen oder kommentieren darf.
+
+  
 ## Wann ist Permission Management für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Permission Management für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Permission Management   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 8,Terminal,8-terminal.md,"# Terminal
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Auch bekannt unter: Shell, Konsole, Kommandozeile (en: Command Line oder Command Line Interface (CLI))
+
+### Definition
+
+Die Begriffe Terminal, Shell, Konsole und Kommandozeile werden häufig synonym für ein Programm verwendet, mit dem man über Textbefehle mit dem Betriebssystem eines Computers interagieren kann. In den Anfängen der Computer-Entwicklung war das Benutzen eines Terminals die einzige Möglichkeit, mit einem Computer zu kommunizieren. Hier als Beispiel für ein solches Programm ein Screenshot vom Windows Terminal:  
+  
+  
+Quelle: [https://devblogs.microsoft.com/commandline/windows-terminal-1-0/](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)  
+Tatsächlich haben die verschiedenen Begriffe jedoch (leicht) unterschiedliche Bedeutungen, mehr dazu erfährst du im Abschnitt *Mehr zum Terminal*.
+
+### Beispiele
+
+Ein Beispiel für einen Befehl, den man einem solchen Programm geben kann, ist ls (für ‘list’), welcher dem Benutzer alle Dateien im aktuellen Ordner anzeigt.  
+Ein weiteres Beispiel ist der Befehl cd (für ‘change directory’) mit dem man in einen anderen Ordner wechseln kann.  
+Das folgende Bild zeigt, wie diese zwei Kommandos im Terminal eines Macbooks benutzt werden können, um in den Ordner “e-learning” zu wechseln und alle Dateien in diesem Ordner anzuzeigen:
+
+
+
+Hier ein Screenshot desselben Ordners in der grafischen Oberfläche ‘Finder’ im Apple Betriebssystem MacOS:  
+
+
+Man sieht, dass in beiden Varianten dieselben vier Dateien angezeigt werden - wir sind auf zwei unterschiedlichen Wegen zum selben Ergebnis gekommen.
+
+  
 ## Wann ist Terminal für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Terminal für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Terminal   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 9,Bug,9-bug.md,"# Bug
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Deutsche Übersetzung: Insekt (nicht gebräuchlich)
+
+Synonyme: Programmfehler, Softwarefehler, Software-Anomalie
+
+### Definition
+
+Bugs oder Fehler sind unerwartete Probleme in Software oder Systemen, die dazu führen, dass diese nicht wie vorgesehen funktionieren. Fehlermanagement umfasst alle Prozesse zur systematischen Erfassung, Priorisierung, Analyse, Behebung und Dokumentation dieser Probleme, um die Stabilität und Qualität eurer digitalen Lösungen zu verbessern.
+
+### Beispiele
+
+- Fehler in eurer Spendenformular-Funktion: Ihr bemerkt, dass Spender mit Umlauten in ihren Namen eine Fehlermeldung bekommen.
+
+- Datenbank-Synchronisierungsproblem: Mitarbeitende melden, dass manchmal Kontaktdaten doppelt in eurer Datenbank erscheinen.
+
+- Anzeigeprobleme in eurem Newsletter: Empfänger\*innen mit Gmail-Adressen berichten, dass euer Newsletter seltsam formatiert erscheint.
+
+  
 ## Wann ist Bug für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Bug für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Bug   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 10,User Experience (UX),10-user-experience-ux.md,"# User Experience (UX)
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+**User Experience Design**
+
+Deutsche Übersetzung: Benutzer-Erfahrungs-Design (nicht gebräuchlich)
+
+Auch bekannt unter: UX-Design, UXD, Nutzerzentrisches Design
+
+**User Interface Design**
+
+Deutsche Übersetzung: Benutzer-Oberflächen-Design (nicht gebräuchlich)
+
+Auch bekannt unter: UI-Design, UID
+
+### Definition
+
+**User Experience Design** beschäftigt sich mit dem gesamten Erlebnis, das ein Mensch bei der Nutzung eines digitalen Produkts oder einer Dienstleistung hat. Es geht darum, wie sich die Nutzung anfühlt und wie gut Nutzer ihre Ziele erreichen können.  
+  
+**User Interface Design** umfasst die visuelle und interaktive Gestaltung von Benutzeroberflächen, also alles, was Nutzer sehen und womit sie interagieren, wie Buttons, Menüs, Farben und Bilder. User Interface Design ist ein Teil von User Experience Design.
+
+### Beispiele
+
+- Eine gut gestaltete UX wäre eine Spenden-App, bei der Nutzer mit nur drei Klicks eine Spende abschließen können, ohne sich zu “verlaufen”.
+
+- Schlechte UX wäre eine Website, auf der Interessierte lange suchen müssen, um Informationen zu euren Projekten zu finden.
+
+- Ein durchdachtes UI könnte ein großer, deutlich sichtbarer ""Spenden""-Button in eurer Vereinsfarbe sein, der sofort ins Auge fällt.
+
+- Ein mangelhaftes UI wäre eine Anmeldeseite mit schwer lesbarer Schrift auf unruhigem Hintergrund.
+
+  
 ## Wann ist User Experience (UX) für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von User Experience (UX) für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu User Experience (UX)   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 11,CI/CD,11-cicd.md,"# CI/CD
 ## Erklärung
-An dieser Seite arbeiten wir noch.
+### Definition
+Hieran arbeiten wir noch.
 
 ## Wann ist CI/CD für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von CI/CD für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu CI/CD   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 12,Deployment,12-deployment.md,"# Deployment
 ## Erklärung
-An dieser Seite arbeiten wir noch.
+### Definition
+Hieran arbeiten wir noch.
 
 ## Wann ist Deployment für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Deployment für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Deployment   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 13,Git,13-git.md,"# Git
 ## Erklärung
-An dieser Seite arbeiten wir noch.
+### Definition
+Hieran arbeiten wir noch.
 
 ## Wann ist Git für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Git für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Git   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 14,DevOps,14-devops.md,"# DevOps
 ## Erklärung
@@ -856,18 +997,37 @@ Wenn du noch mehr über agil erfahren möchtest, schaue dir die folgenden Ressou
 "
 16,Wasserfall,16-wasserfall.md,"# Wasserfall
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Auch bekannt als “Wasserfallmodell” oder im Englischen “Waterfall Model”.
+
+### Definition
+
+Das Wasserfallmodell ist ein **sequenzieller Projektmanagementansatz**, der ursprünglich in der Softwareentwicklung entwickelt wurde, aber auch in anderen Branchen und Projekten Anwendung findet. Ziel dieser Methode ist es, Projekte strukturiert und in klar definierten Phasen durchzuführen, wobei jede Phase abgeschlossen sein muss, bevor die nächste beginnt.
+
+Im Gegensatz zu [agilen](https://civic-data.de/selbstlernmaterial/#agil) Methoden, die iterativ und inkrementell arbeiten, folgt das Wasserfallmodell einem linearen Prozess – bildlich wie ein Wasserfall, der nur in eine Richtung fließt. Typische Phasen sind z. B. Anforderungsanalyse, Planung, Umsetzung, Test, Bereitstellung und Wartung. Diese klare Struktur ermöglicht eine genaue Zeit- und Kostenplanung, kann aber problematisch werden, wenn späte Änderungen notwendig werden. Kommt es z.B. bei der Anforderungsanalyse einer Software zu Missverständnissen mit dem Kunden oder den zukünftigen Nutzer\*innen, kann dies erst bei den Abnahmetests am Ende des Projekts auffallen - eine Korrektur ist dann meist teuer und aufwändig.
+
+Das Wasserfallmodell wird häufig in Projekten eingesetzt, bei denen die Anforderungen und Ziele von Anfang an klar definiert sind und sich während der Projektlaufzeit voraussichtlich nicht ändern, z.B. in Förderprojekten mit klaren Vorgaben.
+
+### Beispiele
+
+Eine NGO entwickelt eine Software zur Verwaltung von Spenderdaten unter Einhaltung strenger Datenschutzbestimmungen (z.B. DSGVO). Nach dem Wasserfallmodell beginnt das Projekt mit einer detaillierten Anforderungsanalyse, in der alle Sicherheits- und Compliance-Anforderungen definiert werden. Anschließend wird ein technisches Design erstellt, das Verschlüsselung, Zugriffsbeschränkungen und Backups umfasst.
+
+Nach der Implementierung folgt eine umfangreiche Testphase mit Datenschutzaudits und Sicherheitstests. Erst danach wird die Software ausgeliefert. Dieses Vorgehen stellt sicher, dass alle Sicherheitsanforderungen von Anfang an erfüllt werden. Allerdings kann das Modell unflexibel sein, wenn sich regulatorische Anforderungen oder Nutzerbedürfnisse im Laufe der Zeit ändern.
+
+  
 ## Wann ist Wasserfall für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Wasserfall für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Wasserfall   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 17,SCRUM,17-scrum.md,"# SCRUM
 ## Erklärung
@@ -1012,33 +1172,37 @@ Wenn ihr euch dafür interessiert, agiles Arbeiten in eurer Organisation einzuf�
 "
 18,Sprint,18-sprint.md,"# Sprint
 ## Erklärung
-An dieser Seite arbeiten wir noch.
+### Definition
+Hieran arbeiten wir noch.
 
 ## Wann ist Sprint für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Sprint für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Sprint   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 19,Backlog,19-backlog.md,"# Backlog
 ## Erklärung
-An dieser Seite arbeiten wir noch.
+### Definition
+Hieran arbeiten wir noch.
 
 ## Wann ist Backlog für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Backlog für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Backlog   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 20,WebApp,20-webapp.md,"# WebApp
 ## Erklärung
@@ -1122,78 +1286,217 @@ Wenn du noch mehr über WebApps erfahren möchtest, schaue dir die folgenden Res
 - [Everything You NEED to Know About WEB APP Architecture](https://youtu.be/sDlCSIDwpDs) (YouTube, en)"
 21,Mobile App,21-mobile-app.md,"# Mobile App
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+App (kurz für Application (deutsch: Anwendung))
+
+Mobile (kurz für Mobile Phone (deutsch: Handy/ Smartphone))
+
+(mobile) Anwendung, Applikation
+
+### Definition
+
+Eine Mobile App ist eine Anwendung, die auf mobilen Endgeräten, häufig Smartphones aber auch Tablets oder Smartwatches, installiert und verwendet werden kann. Sie wird häufig über App Stores installiert und kann auf Android und/oder iOS verwendet werden. Im Gegensatz zur Mobile App werden Desktop-Anwendungen für die Verwendung auf Laptops oder PC entwickelt. Die Anwendungsfälle für mobile Apps sind vielfältig und reichen von Spielen über Messenger bis hin zu Dienstprogrammen zum Online-Banking oder Office-Anwendungen.
+
+### Beispiele
+
+Auf viele moderne Anwendungen kann auch über eine App zugegriffen werden
+
+- Slack oder Nextcloud Talk zur Kommunikation im Verein
+
+- Google Drive für die Verarbeitung von Dokumenten
+
+- 
+
+  
 ## Wann ist Mobile App für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Mobile App für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Mobile App   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 22,API,22-api.md,"# API
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+API (Application Programming Interface) wörtlich ‚Anwendungs­programmier­schnittstelle‘
+
+(Programmier)schnittstelle
+
+Webservice, Web-API
+
+### Definition
+
+Eine API ist eine Schnittstelle zwischen zwei Anwendungen. Sie ermöglicht es der einen Anwendung (Client) in einer strukturierten Form die Funktion einer anderen Anwendung (Server) zu nutzen. Eine API strukturiert so die Kommunikation zwischen Client und Server. Man kann sich das in etwa so vorstellen wie die Bedienung in einem Restaurant. Der Kunde kann ein Gericht bestellen und bekommt dieses an den Tisch gebracht, ohne dass er in direkten Austausch mit dem Koch/ der Köchin treten muss. Er braucht sich nicht mit den Herausforderungen in der Küche beschäftigen. In dieser Analogie steht das Menü eines Restaurants für die Schnittstellendokumentation einer API.
+
+[https://miro.medium.com/v2/resize:fit:720/format:webp/1\*8ywfmyq56ELNs0-zHOxeLw.png](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8ywfmyq56ELNs0-zHOxeLw.png)
+
+### Beispiele
+
+Wir haben eine Umfrage durchgeführt und einige Teilnehmende haben in anderen Sprachen geantwortet. Wir wollten alle Antworten auf Deutsch übersetzen, bevor wir die Antworten auswerten. Bei wenigen Einträgen können diese manuell in ein Online Übersetzungstool eingetragen und die Ergebnisse kopiert werden. Bei vielen Einträgen macht es Sinn, eine Übersetzungschnittstelle zu nutzen. Wir können automatisiert den Text an die Schnittstelle schicken und bekommen die Übersetzungen von der API zurück.
+
+APIs können so komplexe Aufgaben für uns lösen oder Daten für uns Abrufen:
+
+- Zugverbindungen zwischen zwei Bahnhöfen
+
+- Wettervorhersage für einen bestimmten Ort
+
+- Georeferenzierung von Ortsnamen
+
+  
 ## Wann ist API für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von API für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu API   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 23,Desktop-Anwendung,23-desktopanwendung.md,"# Desktop-Anwendung
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Desktop-Software, lokale Anwendung, Standalone-Anwendung, PC-Anwendung, Offline-Software
+
+### Definition
+
+Desktop-Anwendungen sind Softwareprogramme, die direkt auf einem Computer installiert und ausgeführt werden, anstatt über einen Webbrowser zu laufen. Sie sind meist für spezifische Betriebssysteme wie Windows, macOS oder Linux entwickelt. Sie bieten eine umfassende Funktionalität und sind auf die Hardwareressourcen (CPU, Arbeitsspeicher, Festplatte) des Geräts angewiesen. Beispiele sind Textverarbeitungsprogramme, Tabellenkalkulationssoftware und Grafikdesign-Tools.
+
+### Beispiele
+
+**Adobe Photoshop**: Bildbearbeitung und Grafikdesign.
+
+**LibreOffice**: Open-Source-Alternative für Büroanwendungen.
+
+**Zoom Desktop App**: Videokonferenzsoftware.
+
+  
 ## Wann ist Desktop-Anwendung für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Desktop-Anwendung für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Desktop-Anwendung   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 24,Frontend und Backend,24-frontend-und-backend.md,"# Frontend und Backend
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+**Frontend**
+
+- Übersetzung: “Vorderes Ende""
+
+- **Synonyme**: Benutzeroberfläche, UI (User Interface)
+
+**Backend**
+
+- Übersetzung: “Hinteres Ende""
+
+- **Synonyme**: Server-Seite, Datenbanklogik
+
+### Definition
+
+Frontend und Backend sind zwei zentrale Begriffe in der Softwareentwicklung. Sie beschreiben die unterschiedlichen Bereiche einer Anwendung: Das Frontend umfasst die sichtbaren und interaktiven Teile einer Anwendung, die direkt mit den Nutzenden kommunizieren (z.B. Layout, Buttons, Formulare).
+
+Das Backend bezieht sich auf die Server-Seite, die Daten verarbeitet, speichert und die Geschäftslogik der Anwendung bereitstellt. Die Kommunikation zwischen Frontend und Backend erfolgt meist über APIs.
+
+Grafik: https://www.seobility.net/de/wiki/images/0/04/Frontend-vs-Backend.png
+
+### Beispiele
+
+**Frontend:**
+
+- Eine Website mit einer Suchfunktion (z.B. Eingabefeld, Buttons).
+
+- Apps mit interaktiven Karten (z.B. Zoom- und Klickfunktion in Google Maps).
+
+**Backend:**
+
+- Datenbanken, die Benutzerinformationen speichern.
+
+- Server, die Suchanfragen verarbeiten und Ergebnisse an das Frontend liefern.
+
+- Geschäftsanwendungen wie Buchhaltungs- oder Analysesysteme.
+
+  
 ## Wann ist Frontend und Backend für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Frontend und Backend für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Frontend und Backend   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 25,Local vs Remote,25-local-vs-remote.md,"# Local vs Remote
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+**Synonyme für Local**: Lokal, vor Ort, Offline
+
+**Synonyme für Remote**: Fernzugriff, aus der Ferne, Online
+
+### Definition
+
+Die Begriffe ""Local"" und ""Remote"" beschreiben, wo Software, Daten oder Prozesse ausgeführt oder gespeichert werden.
+
+- **Local**: Alles, was direkt auf einem Gerät wie einem Computer oder Server läuft oder gespeichert wird.
+
+- **Remote**: Alles, was über das Internet auf einem externen Server, in der Cloud oder auf einem anderen entfernten Gerät betrieben wird.
+
+### Beispiele
+
+**Local**:
+
+- Dateien, die auf einem Laptop gespeichert sind.
+
+- Eine Desktop-Anwendung, die offline arbeitet (z.B. Microsoft Excel).
+
+- Ein interner Server in einem Büro.
+
+**Remote**:
+
+- Cloud-Speicher wie Google Drive oder Dropbox.
+
+- Anwendungen, die in der Cloud laufen (z.B. Google Docs).
+
+- Serverzugriff über eine VPN-Verbindung.
+
+  
 ## Wann ist Local vs Remote für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Local vs Remote für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Local vs Remote   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 26,Chatbot,26-chatbot.md,"# Chatbot
 ## Erklärung
@@ -1419,18 +1722,39 @@ Wenn du noch mehr über Datenbanken erfahren möchtest, schaue dir die folgenden
 "
 28,Datenbankmanagementsystem (DBMS),28-datenbankmanagementsystem-dbms.md,"# Datenbankmanagementsystem (DBMS)
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Deutsche Übersetzung: -
+
+Auch bekannt unter: Database Management System
+
+### Definition
+
+Mit einem DBMS können Administrator\*innen [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank) erstellen, strukturieren, ändern und verwalten. Es regelt Zugriffsrechte, kümmert sich um Datensicherheit und sorgt für korrekte sowie konsistente Speicherung.
+
+### Beispiele
+
+Beispiele für DBMS sind unter anderem:
+
+- MySQL, PostgreSQL (Open-Source)
+
+- Microsoft SQL Server, Oracle Database (kommerziell)
+
+- SQLite (oft für kleine, lokale Anwendungen)
+
+  
 ## Wann ist Datenbankmanagementsystem (DBMS) für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Datenbankmanagementsystem (DBMS) für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Datenbankmanagementsystem (DBMS)   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 29,Data Warehouse (DWH),29-data-warehouse-dwh.md,"# Data Warehouse (DWH)
 ## Erklärung
@@ -1515,48 +1839,109 @@ Wenn du noch mehr über Data Warehouses erfahren möchtest, schaue dir die folge
 "
 30,Data Lake,30-data-lake.md,"# Data Lake
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Deutsche Übersetzung**:** Daten-See (praktisch nicht wirklich verwendet)
+
+Auch bekannt als**:** Big Data Storage (manchmal, aber unscharf)
+
+### Definition
+
+Ein Data Lake ist ein Speicherort, in dem große Mengen unstrukturierter, halbstrukturierter und strukturierter Daten im Originalformat bzw. unverarbeitet liegen.
+
+### Beispiele
+
+- Eine NGO speichert Rohdaten von Social Media, Sensordaten etc. in einem Data Lake
+
+- Cloud-basierte Data Lakes (Amazon S3, Azure Data Lake Storage)
+
+  
 ## Wann ist Data Lake für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Data Lake für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Data Lake   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 31,SQL,31-sql.md,"# SQL
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Deutsche Übersetzung**:** Strukturierte Abfragesprache (meist nur als SQL bezeichnet)
+
+Auch bekannt als**:** „Sequel“ (umgangssprachliche Aussprache)
+
+### Definition
+
+SQL (Structured Query Language) ist eine Programmiersprache zum Abrufen, Bearbeiten und Verwalten von Daten in relationalen Datenbanken.
+
+Sie besteht aus Befehlen wie SELECT, INSERT, UPDATE oder DELETE, um [Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank)-Tabellen zu erstellen, abzufragen, zu verändern oder zu löschen.
+
+### Beispiele
+
+- SELECT \* FROM Spender WHERE Spendenbetrag &gt; 100;  
+  Dieser Befehl entnimmt der Tabelle *Spender* alle Einträge (Spender), bei denen der Spendenbetrag größer als 100 ist
+
+  
 ## Wann ist SQL für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von SQL für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu SQL   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 32,ETL,32-etl.md,"# ETL
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Deutsche Übersetzung**:** Extrahieren, Transformieren, Laden
+
+Auch bekannt als**:** ETL-Prozess, Data Pipeline
+
+### Definition
+
+ETL steht für **Extract, Transform, Load** – ein Prozess, um Daten aus diversen Quellen zu entnehmen, aufzubereiten und in ein Zielsystem (z. B. Data Warehouse) zu laden.
+
+Daten werden erst gesammelt (extract), dann in das gewünschte Format gebracht oder bereinigt (transform) und schließlich ins Zielsystem geladen (load). Das Ziel ist eine konsistente, für Analysen nutzbare Datenbasis.
+
+### Beispiele
+
+- Spenderdatenmanagement**:**
+
+  - Extraktion**:**  
+    Sammeln von Daten aus verschiedenen Quellen wie Online-Spendenformularen, E-Mail-Kampagnen, Veranstaltungsregistrierungen und Social-Media-Plattformen.
+
+  - Transformation**:**  
+    Bereinigung und Validierung der Spenderinformationen, Segmentierung nach Spendenverhalten und -häufigkeit, sowie Anreicherung der Daten mit zusätzlichen Informationen wie z.B. Demografie und Kommunikationspräferenzen.
+
+  - Laden**:**  
+    Überführen der bereinigten und angereicherten Daten in das [DWH](https://civic-data.de/selbstlernmaterial/#data-warehouse), um eine gezielte Spenderpflege, personalisierte Kommunikationskampagnen und fundierte Fundraising-Strategien zu ermöglichen.
+
+  
 ## Wann ist ETL für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von ETL für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu ETL   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 33,Datenvisualisierung,33-datenvisualisierung.md,"# Datenvisualisierung
 ## Erklärung
@@ -1854,18 +2239,37 @@ Wenn du noch mehr über Datenanalyse erfahren möchtest, schaue dir die folgende
 "
 35,Programmiersprache,35-programmiersprache.md,"# Programmiersprache
 ## Erklärung
-An dieser Seite arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Deutsche Übersetzung**:** -
+
+Auch bekannt als**:** -
+
+### Definition
+
+Programmiersprachen sind spezielle Sprachen, mit denen man Computern präzise Anweisungen gibt. Sie übersetzen komplexe Abläufe in klar strukturierte, maschinenlesbare Befehle, sodass Software entwickelt werden kann, die auch für Laien zugänglich ist.
+
+### Beispiele
+
+- Python (beliebt für Webentwicklung, [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) und [maschinelles Lernen](https://civic-data.de/selbstlernmaterial/#ml))
+
+- JavaScript (zentral für Webentwicklung und interaktive Benutzeroberflächen)
+
+- SQL (Abfragesprache für [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank))
+
+  
 ## Wann ist Programmiersprache für euch relevant?
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
 ## Was sind die Implikationen von Programmiersprache für euch? 
-An dieser Seite arbeiten wir noch.
+Hieran arbeiten wir noch.
 
-## Mehr zu Datenanalyse   
-An dieser Seite arbeiten wir noch.
+## Mehr zu Programmiersprache   
+Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien
+Hieran arbeiten wir noch.
 "
 36,Künstliche Intelligenz (KI),36-künstliche-intelligenz-ki.md,"# Künstliche Intelligenz (KI)
 ## Erklärung
