@@ -8,13 +8,13 @@ id,title,file_name,md
 
 ### Definition
 
-Hosting bezeichnet die Bereitstellung und den Betrieb von IT-Infrastruktur und Rechenressourcen, um Websites, [WebApps](https://civic-data.de/selbstlernmaterial/#webapp), [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank) und andere Anwendungen zugänglich zu machen. Hierfür werden meistens [Server](https://civic-data.de/selbstlernmaterial/#server) verwendet.
+Hosting bezeichnet die **Bereitstellung und den Betrieb von IT-Infrastruktur und Rechenressourcen**, um Websites, [WebApps](https://civic-data.de/selbstlernmaterial/#webapp), [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank) und andere Anwendungen zugänglich zu machen. Hierfür werden meistens [Server](https://civic-data.de/selbstlernmaterial/#server) verwendet.
 
 - Beim **Self-Hosting** (de: selbst hosten, Eigenhosting) betreibt und wartet man selbst nötige Infrastruktur und Anwendungen.
 
 - Beim **Managed Hosting** übernimmt ein externer Anbieter den Betrieb und die Wartung der Infrastruktur und Anwendungen.
 
-Unabhängig davon, **wer** das Hosting übernimmt, spielt auch das “**Wo**” eine Rolle – die benötigten Rechenressourcen können entweder in der [Cloud](https://civic-data.de/selbstlernmaterial/#cloud) liegen (**Cloud Computing**, z.B. ein virtueller Server) oder physisch vor Ort sein (**“on premise”**, z.B. Server in einem eigenen Data-Center oder in einem separaten Raum im Büro). Mit der zunehmenden Verfügbarkeit von Cloud Computing und damit verbundenen Geschäftsmodellen nimmt der Anteil von Hosting in der Cloud in den letzten Jahren stetig zu.
+Unabhängig davon, **wer** das Hosting übernimmt, spielt auch das “**Wo**” eine Rolle – die benötigten Rechenressourcen können entweder in der [**Cloud**](https://civic-data.de/selbstlernmaterial/#cloud) liegen (Cloud Computing, z.B. ein virtueller Server) oder physisch vor Ort sein (**“on premise”**, z.B. Server in einem eigenen Data-Center oder in einem separaten Raum im Büro). Mit der zunehmenden Verfügbarkeit von Cloud Computing und damit verbundenen Geschäftsmodellen nimmt der Anteil von Hosting in der Cloud in den letzten Jahren stetig zu.
 
 ### Beispiele
 
@@ -66,15 +66,15 @@ Hosting ist für euch relevant, …
 
 - … wenn ihr eine Website für euren Verein hosten lassen wollt
 
-- … wenn ihr digital zusammenarbeitet und dafür Tools benötigt (z.B. ein Projektmanagement-Tool, einen Team-Chat oder einen Email-Server)
+- … wenn ihr **digital zusammenarbeitet** und dafür Tools benötigt (z.B. ein Projektmanagement-Tool, einen Team-Chat oder einen Email-Server)
 
-- … wenn ihr Daten in der Cloud speichern wollt, z.B. in einer SQL-Datenbank oder in einer online Excel-Datei, um besser auf sie zugreifen zu können
+- … wenn ihr **Daten in der Cloud speichern** wollt, z.B. in einer SQL-Datenbank oder in einer online Excel-Datei, um besser auf sie zugreifen zu können
 
-- … wenn ihr eine Datenanwendung, z.B. ein Dashboard oder einen Chatbot, entwickeln (lassen) wollt und diese im Internet oder in einem internen Netzwerk bereitstellen wollt
+- … wenn ihr eine Datenanwendung, z.B. ein Dashboard oder einen Chatbot, entwickeln (lassen) wollt und diese im in einem internen Netzwerk oder **im Internet bereitstellen** wollt
 
-- … wenn ihr KI-Technologien nutzen wollt, die nicht auf eurem eigenen Rechner laufen, wie z.B. Large Language Models oder größere Machine-Learning-Modelle
+- … wenn ihr **KI-Technologien nutzen** wollt, die nicht auf eurem eigenen Rechner laufen, wie z.B. Large Language Models oder größere Machine-Learning-Modelle
 
-In all diesen Fällen - und vielen anderen - werden IT-Infrastruktur und Rechenressourcen benötigt – es muss gehostet werden. Für euch sind dann die zwei Entscheidungen relevant:
+In all diesen Fällen - und vielen anderen - werden IT-Infrastruktur und Rechenressourcen benötigt – es muss gehostet werden. Für euch sind dann die **zwei Entscheidungen relevant**:
 
 - Self-Hosting oder Managed Hosting?
 
@@ -86,57 +86,57 @@ Welche Faktoren bei diesen Entscheidungen wichtig sind und welche Implikationen 
 
 **Implikationen von Self-Hosting:**
 
-- Ihr benötigt technische Kompetenzen und zeitliche Kapazitäten, um Infrastruktur und Anwendungen aufzusetzen und zu betreiben (z.B. Wartungsaufgaben wie Sicherheitsupdates).
+- Ihr benötigt **technische Kompetenzen und zeitliche Kapazitäten**, um Infrastruktur und Anwendungen aufzusetzen und zu betreiben (z.B. Wartungsaufgaben wie Sicherheitsupdates).
 
-- Ihr seid selbst für die (Daten)-Sicherheit, Verfügbarkeit (en: Availability) und Qualität der gehosteten Infrastruktur verantwortlich. Diese Verantwortung kann eine Belastung sein, gerade wenn nur eine Person oder sehr wenige Personen die nötigen Kompetenzen haben. Es ist wichtig, gemeinsam realistische Erwartungen zu formulieren und festzuhalten (z.B. wird am Wochenende gearbeitet, wenn ein Server ausfällt, oder wartet das bis Montag?).
+- Ihr seid selbst für die (Daten)-Sicherheit, Verfügbarkeit (en: Availability) und Qualität der gehosteten Infrastruktur verantwortlich. Diese **Verantwortung** **kann eine Belastung sein**, gerade wenn nur eine Person oder sehr wenige Personen die nötigen Kompetenzen haben. Es ist wichtig, gemeinsam realistische Erwartungen zu formulieren und festzuhalten (z.B. wird am Wochenende gearbeitet, wenn ein Server ausfällt, oder wartet das bis Montag?).
 
-- Wenn ihr selbst eure Infrastruktur hostet, seid ihr unabhängig(er) von großen IT-Konzernen und verfügt selbstständig und souverän über eure Daten.
+- Wenn ihr selbst eure Infrastruktur hostet, seid ihr unabhängig(er) von großen IT-Konzernen und verfügt **selbstständig und souverän** über eure Daten.
 
 - In der Cloud:
 
-  - Es fallen monatliche Kosten an, um Server und andere Cloud-Technologien bei einem Cloud-Anbieter zu mieten.
+  - Es fallen **monatliche Kosten** an, um Server und andere Cloud-Technologien bei einem Cloud-Anbieter zu mieten.
 
 - On premise:
 
-  - Es entstehen initiale Anschaffungskosten um einen Server und weitere benötigte Geräte zu kaufen
+  - Es entstehen **initiale Anschaffungskosten** um einen Server und weitere benötigte Geräte zu kaufen
 
   - Ihr benötigt einen Raum, wo Server stehen
 
-  - Ihr müsst sicherstellen, dass die Geräte und die darauf lagernden Daten vor unbefugtem Zugriff (z.B. Diebstahl) geschützt sind
+  - **Verantwortung für Sicherheit:** Ihr müsst sicherstellen, dass die Geräte und die darauf lagernden Daten vor unbefugtem Zugriff (z.B. Diebstahl) geschützt sind
 
 **Implikationen von Managed Hosting:**
 
-- Managed Hosting ist komfortabel, da sich der Anbieter um Wartung und Betrieb kümmert. Der Anbieter ist verantwortlich dafür, dass die Anwendung verfügbar und sicher ist.
+- Managed Hosting ist **komfortabel**, da sich der Anbieter um Wartung und Betrieb kümmert. Der **Anbieter ist verantwortlich** dafür, dass die Anwendung verfügbar und sicher ist.
 
-- Wenn ihr einen Dienstleister mit dem Hosting einer (entwickelten) Anwendung oder von sonstiger digitaler Infrastruktur beauftragt, schließt ihr meistens einen Service-/Wartungsvertrag über eine bestimmte Anzahl von Personenstunden ab, die der Dienstleister für euch reserviert. Hierbei fallen monatliche Kosten an.
+- Bei **Managed-Hosting-Angeboten**, die nicht auf einem individuellen Vertragsverhältnis basieren (siehe SaaS/PaaS/IaaS unten), solltet ihr sorgfältig den Funktionsumfang und die Preismodelle prüfen. Viele Angebote bieten zwar einen kostenlosen Free Plan an, setzen darüber hinaus aber häufig auf **“pro-Benutzer\*in-pro-Monat” Preismodelle**, die schnell teuer werden können. Hier ist es wichtig, genau hinzuschauen, ob der kostenlose Plan für eure Bedarfe ausreicht oder ob ihr doch Geld ausgeben müsst.
 
-- Bei Managed-Hosting-Angeboten, die nicht auf einem individuellen Vertragsverhältnis basieren (siehe SaaS/PaaS/IaaS unten), solltet ihr sorgfältig den Funktionsumfang und die Preismodelle prüfen. Viele Angebote bieten zwar einen kostenlosen Free Plan an, setzen darüber hinaus aber häufig auf “pro-Benutzer\*in-pro-Monat” Preismodelle, die schnell teuer werden können. Hier ist es wichtig, genau hinzuschauen, ob der kostenlose Plan für eure Bedarfe ausreicht oder ob ihr doch Geld ausgeben müsst.
+  - Viele dieser Managed-Hosting-Angebote kommen aus den USA oder anderen nicht-europäischen Ländern, was **Herausforderungen in Bezug auf DSGVO-Konformität** bedeuten kann.
 
-  - Viele dieser Managed-Hosting-Angebote kommen aus den USA oder anderen nicht-europäischen Ländern, was Herausforderungen in Bezug auf DSGVO-Konformität bedeuten kann.
+- Wenn ihr einen **Dienstleister** mit dem Hosting einer (entwickelten) Anwendung oder von sonstiger digitaler Infrastruktur beauftragt, schließt ihr meistens einen **Service-/Wartungsvertrag** über eine bestimmte Anzahl von Personenstunden ab, die der Dienstleister für euch reserviert. Hierbei fallen **monatliche Kosten** an.
 
-Um zu entscheiden, wie und wo ihr bestimmte Anwendungen hosten möchtet, ist es sinnvoll, sich über die folgenden Aspekte Gedanken zu machen.
+Um zu entscheiden, wie und wo ihr bestimmte Anwendungen hosten möchtet, ist es sinnvoll, sich über die folgenden Aspekte Gedanken zu machen:
 
 - **Datenschutz**: Arbeitet ihr mit personenbezogenen Daten? Sind sie besonders schützenswert ([Art. 9 DSGVO](https://www.buzer.de/9_DSGVO.htm))?
 
-- **Datensicherheit**: Wie stellt ihr sicher, dass eure Daten und Anwendungen vor unbefugtem Zugriff geschützt sind? Wer soll hierfür verantwortlich sein?
+- **Datensicherheit**: Wie stellt ihr sicher, dass eure Daten und Anwendungen vor unbefugtem Zugriff geschützt sind? Wer soll hierfür **verantwortlich** sein?
 
-- Vertrauen und Verantwortung: Wem vertraut ihr mit euren Daten und euren Anwendungen? Wollt und könnt ihr selbst Verantwortung übernehmen und wenn ja, in welchem Maß?
+- **Vertrauen und Verantwortung**: Wem vertraut ihr mit euren Daten und euren Anwendungen? Wollt und könnt ihr selbst Verantwortung übernehmen und wenn ja, in welchem Maß?
 
 - **Digitale Souveränität**: Wie wichtig ist es euch, von großen Konzernen (insb. aus den USA) unabhängig zu sein?
 
 - **Kosten**: Wie viel Geld könnt und wollt ihr in Hosting investieren? Ist die Minimierung der Kosten die einzige Maxime bei der Auswahl von Angeboten oder spielen andere Aspekte auch eine Rolle?
 
-- Kompetenzen und zeitliche Kapazitäten: Wie viele Kompetenzen und zeitliche Kapazitäten habt ihr realistisch im Team, um euch mit Hosting auseinanderzusetzen?
+- **Kompetenzen und zeitliche Kapazitäten:** Wie viele Kompetenzen und zeitliche Kapazitäten habt ihr realistisch im Team, um euch mit Hosting auseinanderzusetzen?
 
 - **Skalierbarkeit & Verfügbarkeit:** Muss eure Anwendung ständig verfügbar sein oder ist es ok, wenn sie mal für ein paar Tage nicht online ist? Muss eure Anwendung schnell mit steigenden Nutzungszahlen “wachsen” können?
 
 ## Mehr zu Hosting
 
-Durch die zunehmende Bedeutung des Internets und des digitalen Arbeitens sind in den letzten 10-15 Jahren webbasierte Anwendungen (vgl. WebApps) relevanter geworden. Da diese Anwendungen gehostet werden müssen, um sie Nutzer\*innen zugänglich zu machen, ist Hosting deshalb eigentlich ständig präsent, auch wenn es selten explizit benannt wird.
+Durch die zunehmende Bedeutung des Internets und des digitalen Arbeitens sind in den letzten 10-15 Jahren webbasierte Anwendungen (vgl. [WebApps](https://civic-data.de/selbstlernmaterial/#webapp)) relevanter geworden. Da diese Anwendungen gehostet werden müssen, um sie Nutzer\*innen zugänglich zu machen, ist **Hosting** deshalb eigentlich **ständig präsent**, auch wenn es selten explizit benannt wird.
 
 Vor allem zugenommen haben “as-a-Service” Geschäftsmodelle:
 
-- **Software-as-a-Service (SaaS):** SaaS beschreibt die Bereitstellung von einzelnen Anwendungen z.B. als [WebApps](https://civic-data.de/selbstlernmaterial/#webapp) über die Cloud.
+- **Software-as-a-Service (SaaS):** SaaS beschreibt die Bereitstellung von einzelnen Anwendungen z.B. als WebApps über die Cloud.
 
 - **Platform-as-a-Service (PaaS):** PaaS beschreibt die Bereitstellung einer Entwicklungsumgebung (z.B. Server mit Betriebssystem und installierter Python Umgebung) über die Cloud. Die Verwaltung der Entwicklungsumgebung (z.B. Updates) werden vom Cloudanbieter übernommen.
 
@@ -144,9 +144,9 @@ Vor allem zugenommen haben “as-a-Service” Geschäftsmodelle:
 
 ### Verwandte Begriffe
 
-- [Server](https://civic-data.de/selbstlernmaterial/#server) (in der Bedeutung “Server als Rechner”): Rechenressourcen und IT-Infrastruktur werden meistens mithilfe von Servern bereitgestellt. Server spielen daher eine zentrale Rolle im Hosting, entweder als konkrete physische Rechner vor Ort oder als virtuelle Server in der Cloud (siehe local vs. remote).
+- [Server](https://civic-data.de/selbstlernmaterial/#server) (in der Bedeutung “Server als Rechner”): Rechenressourcen und IT-Infrastruktur werden meistens mithilfe von Servern bereitgestellt. **Server spielen daher eine zentrale Rolle im Hosting**, entweder als konkrete physische Rechner vor Ort oder als virtuelle Server in der Cloud (siehe local vs. remote).
 
-- **Local vs. Remote:** Die Begriffe local und remote beziehen sich darauf, ob Daten, Prozesse oder Anwendungen auf einem Rechner “vor Ort” oder über “Fernzugriff” über das Internet ausgeführt werden. Local Hosting ist also beschränkt auf den eigenen Computer oder das eigene Netzwerk. So kann eine Anwendung zu Test- und Entwicklungszwecken auf dem eigenen Computer oder aus Sicherheitsgründen auf einem On-Premise Server im Firmennetzwerk gehostet werden. Remote Hosting bedeutet im Gegensatz dazu, dass eine Anwendung auf einem Server im Internet gehostet wird.
+- **[Local vs. Remote](https://civic-data.de/selbstlernmaterial/#local-remote):** Die Begriffe local und remote beziehen sich darauf, ob Daten, Prozesse oder Anwendungen auf einem Rechner “vor Ort” (local) oder über “Fernzugriff” (remote) über das Internet ausgeführt werden. Local Hosting ist also beschränkt auf den eigenen Computer oder das eigene Netzwerk. So kann eine Anwendung zu Test- und Entwicklungszwecken auf dem eigenen Computer oder aus Sicherheitsgründen auf einem On-Premise Server im Firmennetzwerk gehostet werden. Remote Hosting bedeutet im Gegensatz dazu, dass eine Anwendung auf einem Server im Internet gehostet wird.
 
 - **[Cloud](https://civic-data.de/selbstlernmaterial/#cloud):** Die Cloud bezeichnet IT-Dienste und -Ressourcen, die von spezialisierten Anbietern bereitgestellt werden, meistens über das Internet. Hosting findet heutzutage häufig in der Cloud statt, muss es aber nicht (vgl. On-Premise).
 
@@ -283,7 +283,7 @@ Auch bekannt unter: Datenwolke, Online-Speicher, Cloud Computing
 
 ### Definition
 
-Der Begriff Cloud bezeichnet IT-Dienste und -Ressourcen, die zeitnah und mit wenig Aufwand als Dienstleistung bereitgestellt (vgl. [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)) werden - meistens über das Internet. Diese Ressourcen umfassen Speicherplatz, Rechenleistung wie [Server](https://civic-data.de/selbstlernmaterial/#server) und Anwendungen, die von den Anbietern in geographisch verteilten Daten- und Rechenzentren betrieben werden.
+Der Begriff Cloud bezeichnet **IT-Dienste und -Ressourcen,** die **zeitnah** und **mit wenig Aufwand** als **Dienstleistung** bereitgestellt (vgl. [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)) werden - meistens über das **Internet**. Diese Ressourcen umfassen Speicherplatz, Rechenleistung wie [Server](https://civic-data.de/selbstlernmaterial/#server) und Anwendungen, die von den Anbietern in geographisch verteilten Daten- und Rechenzentren betrieben werden.
 
 ![](https://civic-data.de/app/uploads/cloud.svg)
 
@@ -311,13 +311,13 @@ Die Cloud wird häufig in drei Hauptkategorien unterteilt, je nachdem, was an Di
 
 ## Wann ist die Cloud für euch relevant? 
 
-- Wenn eure Organisation an mehreren Standorten oder im Homeoffice arbeitet und einen zentralen Datenzugriff und/oder Echtzeitkollaboration benötigt. Mithilfe von Cloud-Anwendungen könnt ihr über das Internet zusammenarbeiten.
+- Wenn eure Organisation an mehreren Standorten oder im Homeoffice arbeitet und einen zentralen Datenzugriff und/oder Echtzeitkollaboration benötigt. Mithilfe von Cloud-Anwendungen könnt ihr **über das Internet zusammenarbeiten**.
 
-- Wenn ihr Datenanwendungen entwickeln (lassen) wollt, die ihr über das Internet bereitstellen wollt. In diesem Fall ist es (fast immer) notwendig, auf Cloud-Angebote zurückzugreifen, entweder um sie selbst zu hosten oder sie von einem Dienstleister hosten zu lassen (vgl. [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)).
+- Wenn ihr **Datenanwendungen** entwickeln (lassen) wollt, die ihr **über das Internet bereitstellen** wollt. In diesem Fall ist es (fast immer) notwendig, auf Cloud-Angebote zurückzugreifen, entweder um sie selbst zu hosten oder sie von einem Dienstleister hosten zu lassen (vgl. [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)).
 
-- Für die Entwicklung von Datenanwendungen, die auf ressourcenintensive Methoden des [Machine Learnings](https://civic-data.de/selbstlernmaterial/#ml) oder der [Künstlichen Intelligenz](https://civic-data.de/selbstlernmaterial/#ki) zurückgreifen, sind Cloud-Angebote häufig wichtig, um Zugang zu den benötigten Rechenressourcen zu erhalten, zum Beispiel um ein eigenes Modell zu trainieren oder um die API eines [LLMs](https://civic-data.de/selbstlernmaterial/#llm) zu nutzen.
+- Für die Entwicklung von Datenanwendungen, die auf ressourcenintensive Methoden des **[Machine Learnings](https://civic-data.de/selbstlernmaterial/#ml) oder der [Künstlichen Intelligenz](https://civic-data.de/selbstlernmaterial/#ki)** zurückgreifen, sind Cloud-Angebote häufig wichtig, um **Zugang zu den benötigten Rechenressourcen** zu erhalten, zum Beispiel um ein eigenes Modell zu trainieren oder um die API eines [LLMs](https://civic-data.de/selbstlernmaterial/#llm) zu nutzen.
 
-- ist die Cloud ist häufig auch relevant sein, um Datenanwendungen zu entwickeln. Gerade für ressourcenintensive Anwendungsfälle wie LLMs
+- Wenn eure Datenanwendung vorübergehend stark ausgelastet ist - z.B. während einer Kampagne - könnt ihr eure **Cloud-Ressourcen flexibel anpassen** (“skalieren”) und zum Beispiel den Arbeitsspeicher vorübergehend vergrößern lassen.
 
 - Wenn ihr Datensicherung und Wiederherstellungsprozesse professionalisieren möchtet, kann es sinnvoll sein, auf Cloud-Lösungen zurückzugreifen (z.B. Backups in der Cloud).
 
@@ -327,21 +327,23 @@ Die Cloud wird häufig in drei Hauptkategorien unterteilt, je nachdem, was an Di
 
   - Ihr benötigt eine stabile Internetverbindung für den Zugriff auf eure Daten und für die Nutzung von Cloud-Anwendungen
 
-  - Die Nutzung von technisch orientierten Cloud-Angeboten wie Infrastruktur-as-a-Service – mit Abstrichen auch von Platform-as-a-Service – setzt meistens gewisse technische Kompetenzen voraus (z.B. Befehle in ein [Terminal](https://civic-data.de/selbstlernmaterial/#terminal) eingeben)
+  - Die **Nutzung von technisch orientierten Cloud-Angeboten** wie Infrastruktur-as-a-Service – mit Abstrichen auch von Platform-as-a-Service – setzt meistens gewisse **technische Kompetenzen** voraus (z.B. Befehle in ein [Terminal](https://civic-data.de/selbstlernmaterial/#terminal) eingeben)
 
-  - Ihr müsst euch mit Datenschutz und Datensicherheit in der Cloud auseinandersetzen.
+  - Ihr müsst euch mit **Datenschutz und Datensicherheit** in der Cloud auseinandersetzen. Eure potentiell sensiblen Daten liegen auf fremden Servern - das ist in Anbetracht der DSGVO gerade bei Servern, die außerhalb der EU liegen oder einer Firma außerhalb der EU gehören, kritisch.
 
   - Möglicherweise ändert sich die Art, wie ihr zusammenarbeitet (mehr Kollaboration in Echtzeit)
 
-  - Ihr solltet Nutzerrechte und Zugriffsberechtigungen sinnvoll einrichten
+  - Ihr solltet **Nutzerrechte und Zugriffsberechtigungen** sinnvoll einrichten
+
+  - Wenn ihr eure Arbeitsweise zu stark auf einen bestimmten Anbieter ausrichtet, kann es zu einem **“Vendor Lock-In”** (“Anbieterabhängigkeit”) kommen. Dieser Begriff beschreibt eine Situation, wenn die Abhängigkeit von Diensten oder Technologien eines bestimmten Cloud-Anbieters so groß ist, dass ein Wechsel zu einem anderen Anbieter nur mit erheblichem Aufwand und hohen Kosten möglich wäre. Achtet daher schon bei der Auswahl von Cloud-Technologien darauf, dass es gute Exportmöglichkeiten und Schnittstellen gibt.
 
 - **Kosten**:
 
-  - Ihr zahlt oft regelmäßige (monatliche) Nutzungsgebühren statt einmaliger Anschaffungskosten. Gerade bei Software-as-a-Service Angeboten können “pro-Nutzer\*in-pro-Monat” Preismodelle eine finanzielle Herausforderung darstellen.
+  - Ihr zahlt oft **regelmäßige (monatliche/jährliche) Nutzungsgebühren** statt einmaliger Anschaffungskosten. Gerade bei Software-as-a-Service Angeboten können “pro-Nutzer\*in-pro-Monat” Preismodelle eine finanzielle Herausforderung darstellen.
 
-  - Bei Machine Learning und Künstlicher Intelligenz gilt prinzipiell die folgende Faustregel: je mächtiger das Modell, desto mehr Rechenressourcen werden benötigt. Das bedeutet, dass Cloud-Kosten steigen. Denkt daher genau darüber nach, ob ihr wirklich das große Modell braucht oder ob ein einfacherer Ansatz auch geeignet ist, um eure Herausforderung zu lösen.
+  - Bei Machine Learning und Künstlicher Intelligenz gilt prinzipiell die folgende Faustregel: je mächtiger das Modell, desto mehr Rechenressourcen werden benötigt. Das bedeutet, dass Cloud-Kosten steigen. Denkt daher genau darüber nach, ob ihr **wirklich das große Modell braucht oder ob ein einfacherer Ansatz auch geeignet** ist, um eure Herausforderung zu lösen.
 
-- **Ressourcenverbrauch**: Cloud-Technologien benötigen nicht nur eure finanziellen Ressourcen, sondern auch viel Strom und natürliche Ressourcen für die Server in den Rechenzentren. Das solltet ihr gerade bei der Verwendung von PaaS- und IaaS-Angeboten berücksichtigen und sparsam umgehen.
+- **Ressourcenverbrauch**: Cloud-Technologien benötigen nicht nur eure finanziellen Ressourcen, sondern auch viel Strom und natürliche Ressourcen für die Server in den Rechenzentren. Das solltet ihr gerade bei der Verwendung von PaaS- und IaaS-Angeboten berücksichtigen und sparsam mit ihnen umgehen.
 
 ## Mehr zur Cloud
 
@@ -355,43 +357,19 @@ Die Cloud lässt sich nicht nur nach Servicemodellen (SaaS, PaaS, IaaS) untersch
 
 - **Community Cloud**: Ein weniger bekanntes Modell ist die Community Cloud. Hierbei teilen sich mehrere Organisationen mit ähnlichen Anforderungen und Zielen eine Cloud-Infrastruktur. Für NPOs im selben Themenfeld kann dies eine kosteneffiziente Lösung sein, die gleichzeitig mehr Kontrolle ermöglicht als eine reine Public Cloud.
 
-Das Servicemodell (*was* wird bereitgestellt) und das Bereitstellungsmodell (*wie* wird es bereitgestellt) können unterschiedlich kombiniert werden. So kann beispielsweise Software as a Service sowohl in einer Public als auch in einer Private Cloud angeboten werden. Die Wahl des geeigneten Modells hängt von den spezifischen Anforderungen eurer Organisation ab, insbesondere hinsichtlich Budget, Datenschutz, Sicherheitsanforderungen und vorhandener IT-Kompetenz.
-
-### Vorteile der Cloud
-
-- Kostenersparnis: Ihr müsst keine großen Anfangsinvestitionen in Hardware und Software tätigen
-
-- Flexibilität: Ihr könnt von jedem Gerät mit Internetverbindung auf die Cloud Services zugreifen
-
-- Skalierbarkeit: Ihr könnt eure Cloud Ressourcen flexibel anpassen und zum Beispiel den Arbeitsspeicher vergrößern lassen, ohne dass ihr dafür selber neue Komponenten kaufen und einbauen müsst
-
-- Automatische Updates: Der Anbieter kümmert sich um Aktualisierungen und die Wartung (bei Saas/PaaS)
-
-- Datensicherung: Professionelle Backup-Systeme schützen vor Datenverlust
-
-- Gemeinsame Nutzung: Ihr könnt Dateien, die in der Cloud liegen gemeinsam nutzen und bearbeiten
-
-### Nachteile der Cloud
-
-- Abhängigkeit vom Internet: Bei Verbindungsproblemen habt ihr keinen Zugriff auf eure Daten
-
-- Datenschutzbedenken: Eure potentiell sensiblen Daten liegen auf fremden Servern - das ist in Anbetracht der DSGVO gerade bei Servern, die außerhalb der EU liegen oder einer Firma außerhalb der EU gehören, kritisch.
-
-- Laufende Kosten: Cloud-Dienst werden oft als Abo-Modell angeboten - so entstehen euch monatliche/jährliche Gebühren.
-
-- Potenzielle Anbieterabhängigkeit (sogenannter “vendor lock-in”): Der Umzug zu einem anderen Anbieter kann kompliziert und sehr aufwendig sein.
+Das **Servicemodell** (*was* wird bereitgestellt) und das **Bereitstellungsmodell** (*wie* wird es bereitgestellt) können **unterschiedlich kombiniert** werden. So kann beispielsweise Software as a Service sowohl in einer Public als auch in einer Private Cloud angeboten werden. Die Wahl des geeigneten Modells hängt von den spezifischen Anforderungen eurer Organisation ab, insbesondere hinsichtlich Budget, Datenschutz, Sicherheitsanforderungen und vorhandener IT-Kompetenz.
 
 ### Verwandte Begriffe
 
-- [Hosting](https://civic-data.de/selbstlernmaterial/#hosting) bezeichnet die Bereitstellung und Verwaltung von IT-Infrastruktur für Websites oder Anwendungen. Hosting wird heutzutage häufig mit Cloud-Technologien umgesetzt.
+- [**Hosting**](https://civic-data.de/selbstlernmaterial/#hosting) bezeichnet die Bereitstellung und Verwaltung von IT-Infrastruktur für Websites oder Anwendungen. Hosting wird heutzutage häufig mit Cloud-Technologien umgesetzt.
 
-- Ein [Server](https://civic-data.de/selbstlernmaterial/#server) ist ein Computer, der anderen Computern (sogenannten Clients) Dienste oder Daten zur Verfügung stellt. In der Cloud-Welt sind Server Rechner, die in speziellen Rechenzentren stehen und auf denen eure Programme und Daten gespeichert werden.
+- Ein [**Server**](https://civic-data.de/selbstlernmaterial/#server) ist ein Computer, der anderen Computern (sogenannten Clients) Dienste oder Daten zur Verfügung stellt. In der Cloud-Welt sind Server Rechner, die in speziellen Rechenzentren stehen und auf denen eure Programme und Daten gespeichert werden.
 
-- [Lokal (On-Premise)](https://civic-data.de/selbstlernmaterial/#local-remote) bezeichnet IT-Ressourcen, die physisch in der eigenen Organisation betrieben werden, während [Remote](https://civic-data.de/selbstlernmaterial/#local-remote) auf entfernt zugängliche Ressourcen verweist. Cloud-Computing ist ein Remote-Modell, bei dem Ressourcen über das Internet bereitgestellt werden.
+- **[Lokal (On-Premise)](https://civic-data.de/selbstlernmaterial/#local-remote)** bezeichnet IT-Ressourcen, die vor Ort in der eigenen Organisation betrieben werden, während **[Remote](https://civic-data.de/selbstlernmaterial/#local-remote)** auf entfernt zugängliche Ressourcen verweist. Cloud-Computing ist ein Remote-Modell, bei dem Ressourcen über das Internet bereitgestellt werden.
 
-- Eine [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) ist eine Anwendung, die über einen Webbrowser ausgeführt wird und typischerweise auf Cloud-Servern gehostet wird – im Gegensatz zu klassischen Anwendungen läuft bei WebApps die Hauptverarbeitung auf entfernten Cloud-Servern statt auf dem lokalen Gerät des Nutzers.
+- Eine [**WebApp**](https://civic-data.de/selbstlernmaterial/#webapp) ist eine Anwendung, die über einen Webbrowser ausgeführt wird und typischerweise auf Cloud-Servern gehostet wird – im Gegensatz zu klassischen [Desktop-Anwendungen](https://civic-data.de/selbstlernmaterial/#desktop-anwendung) läuft bei WebApps die Hauptverarbeitung auf entfernten Cloud-Servern statt auf dem lokalen Gerät des Nutzers.
 
-- Edge Computing ist ein Ansatz, bei dem die Datenverarbeitung näher am Ort der Datenentstehung stattfindet (z.B. bei Sensoreinheiten oder Kameras) und nicht in zentralisierten Cloud-Rechenzentren.Dies ist besonders wichtig für zeitkritische Anwendungen oder Regionen mit eingeschränkter Internetverbindung.
+- **Edge Computing** ist ein Ansatz, bei dem die Datenverarbeitung näher am Ort der Datenentstehung stattfindet (z.B. bei Sensoreinheiten oder Kameras) und nicht in zentralisierten Cloud-Rechenzentren. Dies ist besonders wichtig für zeitkritische Anwendungen oder Regionen mit eingeschränkter Internetverbindung.
 
 ## Weiterführende Materialien
 
@@ -486,24 +464,9 @@ Wenn du noch mehr über DNS erfahren möchtest, schaue dir die folgenden Ressour
 "
 5,Zertifikat,5-zertifikat.md,"# Zertifikat
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Auch bekannt unter: Digitale Zertifikate, SSL/TLS-Zertifikate
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Digitale Zertifikate sind elektronische Dateien, die die Identität oder bestimmte Eigenschaften des Zertifikat-Inhabers (das kann eine Person, eine Organisation oder ein IT-System sein) bestätigen; sie dienen also der [Authentifizierung](https://civic-data.de/selbstlernmaterial/#authentifizierung) des Inhabers. Zertifikate werden von vertrauenswürdigen Zertifizierungsstellen (CA, en: Certificate Authority) ausgestellt und dienen als digitaler Ausweis im Internet. Ihr benötigt Zertifikate außerdem, um sichere Verbindungen herzustellen und Daten zu verschlüsseln.
-
-### Beispiele
-
-- E-Mail-Signatur: Das digitale Zertifikat bestätigt die Echtheit der E-Mail sowie deren Sender und garantiert die sichere Übertragung an den Empfänger.
-
-- Digitale Signatur: Das digitale Zertifikat identifiziert die unterzeichnende Person oder das unterzeichnende Unternehmen.
-
-- Der Aufruf einer Webseite: Das digitale Zertifikat garantiert, dass der Inhalt wirklich von der Web-Adresse stammt, die man sieht (via HTTPS).
-
-  
 ## Wann ist Zertifikat für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -518,26 +481,9 @@ Hieran arbeiten wir noch.
 "
 6,Authentifizierung,6-authentifizierung.md,"# Authentifizierung
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Deutsche Übersetzung**:** -
-
-Auch bekannt als**:** -
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Authentifizierung ist der Prozess, bei dem überprüft wird, ob eine Person, ein System oder eine Maschine tatsächlich die behauptete Identität besitzt. Dabei kommen unterschiedliche Methoden wie Passwörter, biometrische Daten oder digitale Token zum Einsatz.
-
-### Beispiele
-
-- Passwortbasierte Authentifizierung (z.B. Login in Online-Diensten)
-
-- Zwei-Faktor-Authentifizierung (2FA) mittels SMS oder Authenticator-App
-
-- Biometrische Authentifizierung (z.B. Fingerabdruck oder Gesichtserkennung)
-
-  
 ## Wann ist Authentifizierung für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -552,30 +498,9 @@ Hieran arbeiten wir noch.
 "
 7,Permission Management,7-permission-management.md,"# Permission Management
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-**Synonyme**: Zugriffsverwaltung, Rechteverwaltung, Zugriffskontrolle
-
-**Englische Übersetzung**: Permission Management
-
-Auch bekannt als: Access Control, Rollen- und Rechteverwaltung (Role-based Access Control, RBAC), Autorisierungsmanagement
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Permission Management, oder Berechtigungsverwaltung, bezeichnet die Kontrolle darüber, welche Nutzer\*innen oder Systeme Zugriff auf welche Daten, Funktionen oder Ressourcen haben. Es stellt sicher, dass nur autorisierte Personen bestimmte Aktionen durchführen können. Typischerweise basiert Permission Management auf Benutzerrollen (z. B. Administrator, Editor, Leser).
-
-### Beispiele
-
-**Dateisysteme**: Wer darf Dateien lesen, bearbeiten oder löschen? (z. B. Google Drive: Nur bestimmte Personen können ein Dokument bearbeiten, andere nur lesen.)
-
-**NGO-Software**: Ein Fundraising-Team darf Spenderdaten sehen, aber nur die Finanzabteilung kann Zahlungsdetails ändern.
-
-**Cloud-Dienste**: Admins können Benutzerkonten erstellen, während normale Nutzer\*innen nur ihre eigenen Daten verwalten dürfen.
-
-**Soziale Netzwerke**: Nutzer\*innen legen fest, wer ihre Beiträge sehen oder kommentieren darf.
-
-  
 ## Wann ist Permission Management für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -590,33 +515,9 @@ Hieran arbeiten wir noch.
 "
 8,Terminal,8-terminal.md,"# Terminal
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Auch bekannt unter: Shell, Konsole, Kommandozeile (en: Command Line oder Command Line Interface (CLI))
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Die Begriffe Terminal, Shell, Konsole und Kommandozeile werden häufig synonym für ein Programm verwendet, mit dem man über Textbefehle mit dem Betriebssystem eines Computers interagieren kann. In den Anfängen der Computer-Entwicklung war das Benutzen eines Terminals die einzige Möglichkeit, mit einem Computer zu kommunizieren. Hier als Beispiel für ein solches Programm ein Screenshot vom Windows Terminal:  
-  
-  
-Quelle: [https://devblogs.microsoft.com/commandline/windows-terminal-1-0/](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)  
-Tatsächlich haben die verschiedenen Begriffe jedoch (leicht) unterschiedliche Bedeutungen, mehr dazu erfährst du im Abschnitt *Mehr zum Terminal*.
-
-### Beispiele
-
-Ein Beispiel für einen Befehl, den man einem solchen Programm geben kann, ist ls (für ‘list’), welcher dem Benutzer alle Dateien im aktuellen Ordner anzeigt.  
-Ein weiteres Beispiel ist der Befehl cd (für ‘change directory’) mit dem man in einen anderen Ordner wechseln kann.  
-Das folgende Bild zeigt, wie diese zwei Kommandos im Terminal eines Macbooks benutzt werden können, um in den Ordner “e-learning” zu wechseln und alle Dateien in diesem Ordner anzuzeigen:
-
-
-
-Hier ein Screenshot desselben Ordners in der grafischen Oberfläche ‘Finder’ im Apple Betriebssystem MacOS:  
-
-
-Man sieht, dass in beiden Varianten dieselben vier Dateien angezeigt werden - wir sind auf zwei unterschiedlichen Wegen zum selben Ergebnis gekommen.
-
-  
 ## Wann ist Terminal für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -631,26 +532,9 @@ Hieran arbeiten wir noch.
 "
 9,Bug,9-bug.md,"# Bug
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Deutsche Übersetzung: Insekt (nicht gebräuchlich)
-
-Synonyme: Programmfehler, Softwarefehler, Software-Anomalie
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Bugs oder Fehler sind unerwartete Probleme in Software oder Systemen, die dazu führen, dass diese nicht wie vorgesehen funktionieren. Fehlermanagement umfasst alle Prozesse zur systematischen Erfassung, Priorisierung, Analyse, Behebung und Dokumentation dieser Probleme, um die Stabilität und Qualität eurer digitalen Lösungen zu verbessern.
-
-### Beispiele
-
-- Fehler in eurer Spendenformular-Funktion: Ihr bemerkt, dass Spender mit Umlauten in ihren Namen eine Fehlermeldung bekommen.
-
-- Datenbank-Synchronisierungsproblem: Mitarbeitende melden, dass manchmal Kontaktdaten doppelt in eurer Datenbank erscheinen.
-
-- Anzeigeprobleme in eurem Newsletter: Empfänger\*innen mit Gmail-Adressen berichten, dass euer Newsletter seltsam formatiert erscheint.
-
-  
 ## Wann ist Bug für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -665,38 +549,9 @@ Hieran arbeiten wir noch.
 "
 10,User Experience (UX),10-user-experience-ux.md,"# User Experience (UX)
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-**User Experience Design**
-
-Deutsche Übersetzung: Benutzer-Erfahrungs-Design (nicht gebräuchlich)
-
-Auch bekannt unter: UX-Design, UXD, Nutzerzentrisches Design
-
-**User Interface Design**
-
-Deutsche Übersetzung: Benutzer-Oberflächen-Design (nicht gebräuchlich)
-
-Auch bekannt unter: UI-Design, UID
-
 ### Definition
+Hieran arbeiten wir noch.
 
-**User Experience Design** beschäftigt sich mit dem gesamten Erlebnis, das ein Mensch bei der Nutzung eines digitalen Produkts oder einer Dienstleistung hat. Es geht darum, wie sich die Nutzung anfühlt und wie gut Nutzer ihre Ziele erreichen können.  
-  
-**User Interface Design** umfasst die visuelle und interaktive Gestaltung von Benutzeroberflächen, also alles, was Nutzer sehen und womit sie interagieren, wie Buttons, Menüs, Farben und Bilder. User Interface Design ist ein Teil von User Experience Design.
-
-### Beispiele
-
-- Eine gut gestaltete UX wäre eine Spenden-App, bei der Nutzer mit nur drei Klicks eine Spende abschließen können, ohne sich zu “verlaufen”.
-
-- Schlechte UX wäre eine Website, auf der Interessierte lange suchen müssen, um Informationen zu euren Projekten zu finden.
-
-- Ein durchdachtes UI könnte ein großer, deutlich sichtbarer ""Spenden""-Button in eurer Vereinsfarbe sein, der sofort ins Auge fällt.
-
-- Ein mangelhaftes UI wäre eine Anmeldeseite mit schwer lesbarer Schrift auf unruhigem Hintergrund.
-
-  
 ## Wann ist User Experience (UX) für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -997,26 +852,9 @@ Wenn du noch mehr über agil erfahren möchtest, schaue dir die folgenden Ressou
 "
 16,Wasserfall,16-wasserfall.md,"# Wasserfall
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Auch bekannt als “Wasserfallmodell” oder im Englischen “Waterfall Model”.
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Das Wasserfallmodell ist ein **sequenzieller Projektmanagementansatz**, der ursprünglich in der Softwareentwicklung entwickelt wurde, aber auch in anderen Branchen und Projekten Anwendung findet. Ziel dieser Methode ist es, Projekte strukturiert und in klar definierten Phasen durchzuführen, wobei jede Phase abgeschlossen sein muss, bevor die nächste beginnt.
-
-Im Gegensatz zu [agilen](https://civic-data.de/selbstlernmaterial/#agil) Methoden, die iterativ und inkrementell arbeiten, folgt das Wasserfallmodell einem linearen Prozess – bildlich wie ein Wasserfall, der nur in eine Richtung fließt. Typische Phasen sind z. B. Anforderungsanalyse, Planung, Umsetzung, Test, Bereitstellung und Wartung. Diese klare Struktur ermöglicht eine genaue Zeit- und Kostenplanung, kann aber problematisch werden, wenn späte Änderungen notwendig werden. Kommt es z.B. bei der Anforderungsanalyse einer Software zu Missverständnissen mit dem Kunden oder den zukünftigen Nutzer\*innen, kann dies erst bei den Abnahmetests am Ende des Projekts auffallen - eine Korrektur ist dann meist teuer und aufwändig.
-
-Das Wasserfallmodell wird häufig in Projekten eingesetzt, bei denen die Anforderungen und Ziele von Anfang an klar definiert sind und sich während der Projektlaufzeit voraussichtlich nicht ändern, z.B. in Förderprojekten mit klaren Vorgaben.
-
-### Beispiele
-
-Eine NGO entwickelt eine Software zur Verwaltung von Spenderdaten unter Einhaltung strenger Datenschutzbestimmungen (z.B. DSGVO). Nach dem Wasserfallmodell beginnt das Projekt mit einer detaillierten Anforderungsanalyse, in der alle Sicherheits- und Compliance-Anforderungen definiert werden. Anschließend wird ein technisches Design erstellt, das Verschlüsselung, Zugriffsbeschränkungen und Backups umfasst.
-
-Nach der Implementierung folgt eine umfangreiche Testphase mit Datenschutzaudits und Sicherheitstests. Erst danach wird die Software ausgeliefert. Dieses Vorgehen stellt sicher, dass alle Sicherheitsanforderungen von Anfang an erfüllt werden. Allerdings kann das Modell unflexibel sein, wenn sich regulatorische Anforderungen oder Nutzerbedürfnisse im Laufe der Zeit ändern.
-
-  
 ## Wann ist Wasserfall für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -1286,30 +1124,9 @@ Wenn du noch mehr über WebApps erfahren möchtest, schaue dir die folgenden Res
 - [Everything You NEED to Know About WEB APP Architecture](https://youtu.be/sDlCSIDwpDs) (YouTube, en)"
 21,Mobile App,21-mobile-app.md,"# Mobile App
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-App (kurz für Application (deutsch: Anwendung))
-
-Mobile (kurz für Mobile Phone (deutsch: Handy/ Smartphone))
-
-(mobile) Anwendung, Applikation
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Eine Mobile App ist eine Anwendung, die auf mobilen Endgeräten, häufig Smartphones aber auch Tablets oder Smartwatches, installiert und verwendet werden kann. Sie wird häufig über App Stores installiert und kann auf Android und/oder iOS verwendet werden. Im Gegensatz zur Mobile App werden Desktop-Anwendungen für die Verwendung auf Laptops oder PC entwickelt. Die Anwendungsfälle für mobile Apps sind vielfältig und reichen von Spielen über Messenger bis hin zu Dienstprogrammen zum Online-Banking oder Office-Anwendungen.
-
-### Beispiele
-
-Auf viele moderne Anwendungen kann auch über eine App zugegriffen werden
-
-- Slack oder Nextcloud Talk zur Kommunikation im Verein
-
-- Google Drive für die Verarbeitung von Dokumenten
-
-- 
-
-  
 ## Wann ist Mobile App für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -1324,34 +1141,9 @@ Hieran arbeiten wir noch.
 "
 22,API,22-api.md,"# API
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-API (Application Programming Interface) wörtlich ‚Anwendungs­programmier­schnittstelle‘
-
-(Programmier)schnittstelle
-
-Webservice, Web-API
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Eine API ist eine Schnittstelle zwischen zwei Anwendungen. Sie ermöglicht es der einen Anwendung (Client) in einer strukturierten Form die Funktion einer anderen Anwendung (Server) zu nutzen. Eine API strukturiert so die Kommunikation zwischen Client und Server. Man kann sich das in etwa so vorstellen wie die Bedienung in einem Restaurant. Der Kunde kann ein Gericht bestellen und bekommt dieses an den Tisch gebracht, ohne dass er in direkten Austausch mit dem Koch/ der Köchin treten muss. Er braucht sich nicht mit den Herausforderungen in der Küche beschäftigen. In dieser Analogie steht das Menü eines Restaurants für die Schnittstellendokumentation einer API.
-
-[https://miro.medium.com/v2/resize:fit:720/format:webp/1\*8ywfmyq56ELNs0-zHOxeLw.png](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8ywfmyq56ELNs0-zHOxeLw.png)
-
-### Beispiele
-
-Wir haben eine Umfrage durchgeführt und einige Teilnehmende haben in anderen Sprachen geantwortet. Wir wollten alle Antworten auf Deutsch übersetzen, bevor wir die Antworten auswerten. Bei wenigen Einträgen können diese manuell in ein Online Übersetzungstool eingetragen und die Ergebnisse kopiert werden. Bei vielen Einträgen macht es Sinn, eine Übersetzungschnittstelle zu nutzen. Wir können automatisiert den Text an die Schnittstelle schicken und bekommen die Übersetzungen von der API zurück.
-
-APIs können so komplexe Aufgaben für uns lösen oder Daten für uns Abrufen:
-
-- Zugverbindungen zwischen zwei Bahnhöfen
-
-- Wettervorhersage für einen bestimmten Ort
-
-- Georeferenzierung von Ortsnamen
-
-  
 ## Wann ist API für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -1366,24 +1158,9 @@ Hieran arbeiten wir noch.
 "
 23,Desktop-Anwendung,23-desktopanwendung.md,"# Desktop-Anwendung
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Desktop-Software, lokale Anwendung, Standalone-Anwendung, PC-Anwendung, Offline-Software
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Desktop-Anwendungen sind Softwareprogramme, die direkt auf einem Computer installiert und ausgeführt werden, anstatt über einen Webbrowser zu laufen. Sie sind meist für spezifische Betriebssysteme wie Windows, macOS oder Linux entwickelt. Sie bieten eine umfassende Funktionalität und sind auf die Hardwareressourcen (CPU, Arbeitsspeicher, Festplatte) des Geräts angewiesen. Beispiele sind Textverarbeitungsprogramme, Tabellenkalkulationssoftware und Grafikdesign-Tools.
-
-### Beispiele
-
-**Adobe Photoshop**: Bildbearbeitung und Grafikdesign.
-
-**LibreOffice**: Open-Source-Alternative für Büroanwendungen.
-
-**Zoom Desktop App**: Videokonferenzsoftware.
-
-  
 ## Wann ist Desktop-Anwendung für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -1398,46 +1175,9 @@ Hieran arbeiten wir noch.
 "
 24,Frontend und Backend,24-frontend-und-backend.md,"# Frontend und Backend
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-**Frontend**
-
-- Übersetzung: “Vorderes Ende""
-
-- **Synonyme**: Benutzeroberfläche, UI (User Interface)
-
-**Backend**
-
-- Übersetzung: “Hinteres Ende""
-
-- **Synonyme**: Server-Seite, Datenbanklogik
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Frontend und Backend sind zwei zentrale Begriffe in der Softwareentwicklung. Sie beschreiben die unterschiedlichen Bereiche einer Anwendung: Das Frontend umfasst die sichtbaren und interaktiven Teile einer Anwendung, die direkt mit den Nutzenden kommunizieren (z.B. Layout, Buttons, Formulare).
-
-Das Backend bezieht sich auf die Server-Seite, die Daten verarbeitet, speichert und die Geschäftslogik der Anwendung bereitstellt. Die Kommunikation zwischen Frontend und Backend erfolgt meist über APIs.
-
-Grafik: https://www.seobility.net/de/wiki/images/0/04/Frontend-vs-Backend.png
-
-### Beispiele
-
-**Frontend:**
-
-- Eine Website mit einer Suchfunktion (z.B. Eingabefeld, Buttons).
-
-- Apps mit interaktiven Karten (z.B. Zoom- und Klickfunktion in Google Maps).
-
-**Backend:**
-
-- Datenbanken, die Benutzerinformationen speichern.
-
-- Server, die Suchanfragen verarbeiten und Ergebnisse an das Frontend liefern.
-
-- Geschäftsanwendungen wie Buchhaltungs- oder Analysesysteme.
-
-  
 ## Wann ist Frontend und Backend für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -1452,40 +1192,9 @@ Hieran arbeiten wir noch.
 "
 25,Local vs Remote,25-local-vs-remote.md,"# Local vs Remote
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-**Synonyme für Local**: Lokal, vor Ort, Offline
-
-**Synonyme für Remote**: Fernzugriff, aus der Ferne, Online
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Die Begriffe ""Local"" und ""Remote"" beschreiben, wo Software, Daten oder Prozesse ausgeführt oder gespeichert werden.
-
-- **Local**: Alles, was direkt auf einem Gerät wie einem Computer oder Server läuft oder gespeichert wird.
-
-- **Remote**: Alles, was über das Internet auf einem externen Server, in der Cloud oder auf einem anderen entfernten Gerät betrieben wird.
-
-### Beispiele
-
-**Local**:
-
-- Dateien, die auf einem Laptop gespeichert sind.
-
-- Eine Desktop-Anwendung, die offline arbeitet (z.B. Microsoft Excel).
-
-- Ein interner Server in einem Büro.
-
-**Remote**:
-
-- Cloud-Speicher wie Google Drive oder Dropbox.
-
-- Anwendungen, die in der Cloud laufen (z.B. Google Docs).
-
-- Serverzugriff über eine VPN-Verbindung.
-
-  
 ## Wann ist Local vs Remote für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -1624,11 +1333,11 @@ Englische Übersetzung: database
 
 ### Definition
 
-Eine Datenbank ist ein strukturierter Speicherort für Daten, damit diese schnell und einfach wieder abgerufen und bearbeitet werden können. Eine Datenbank speichert unterschiedliche Daten und verknüpft sie miteinander.
+Eine Datenbank ist ein **strukturierter Speicherort** für Daten, damit diese schnell und einfach wieder abgerufen und bearbeitet werden können. Eine Datenbank **speichert** **unterschiedliche Daten und verknüpft sie miteinander**.
 
 Eine Datenbank eines gemeinnützigen Vereins könnte z.B. je eine Tabelle für die Vereinsmitglieder, die empfangenen Spenden und die aktuellen Projekte, die der Verein unterstützt, enthalten.
 
-Man kann zwischen verschiedenen Arten von Datenbanken unterscheiden, z.B. relationalen [SQL](https://civic-data.de/selbstlernmaterial/#sql)-Datenbanken und NoSQL Datenbanken. Mehr dazu lernst du im Abschnitt [Mehr zu Datenbanken](#mehr-zu-datenbanken).
+Man kann zwischen verschiedenen Arten von Datenbanken unterscheiden, z.B. relationalen [SQL](https://civic-data.de/selbstlernmaterial/#sql)-Datenbanken und NoSQL Datenbanken. Mehr dazu lernst du im Abschnitt “Mehr zu Datenbanken”.
 
 ### Beispiele
 
@@ -1638,75 +1347,65 @@ Beispiele für Datenbanken sind unter anderem:
 
 - Spendendatenbank für NGOs
 
-- Projektdatenbank aller laufenden und abgeschlossenen Projekte inkl. Status, Verantwortlicher Person, etc.
+- Projektdatenbank aller laufenden und abgeschlossenen Projekte inkl. Status, verantwortlicher Person, etc.
+
+- <span class=""mark"">Populäre Datenbank-Technologien sind derzeit (Stand April 2025): Oracle, MySQL, PostgreSQL, MongoDB, Redis, SQLite</span>
 
 ## Wann sind Datenbanken für euch relevant? 
 
-Datenbanken sind dann relevant, wenn…
+Datenbanken können dann relevant sein, …
 
-- Wenn ihr ständig wachsende Datenmengen speichern müsst (z.B. Personendaten, Projektdaten usw.)
+- … wenn ihr ständig **wachsende Datenmengen** speichern müsst (z.B. Personendaten, Projektdaten usw.), für deren Größe oder Wachstum Excel, Google Sheets etc. nicht mehr ausgelegt ist
 
-- Wenn ihr eine [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) oder eine andere komplexere Datenanwendung programmieren (lassen) möchtet
+- … wenn ihr eine [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) oder eine andere komplexere Datenanwendung programmieren (lassen) möchtet
 
-- Wenn ihr viele Tabellen habt, die komplex miteinander verbunden werden sollen
+- … wenn ihr **viele Tabellen** habt, die **miteinander verbunden** werden sollen, und wenn ihr euren Daten **Struktur** verschaffen möchtet (siehe “Mehr zu Datenbanken”)
 
-- Wenn ihr für eure Daten präzise Zugriffsrechte benötigt (z.B. jedes Team kann nur auf seine eigenen Daten zugreifen)
+- … wenn ihr für eure Daten **präzise Zugriffsrechte** benötigt (z.B. jedes Team kann nur auf seine eigenen Daten zugreifen)
 
-- Wenn ihr Regeln für die automatische Überprüfung der Datenqualität verwenden wollt (z.B. Prüfung, ob eine Postleitzahl als Zahl eingegeben wurde und 5 Ziffern hat)
+- … wenn ihr Regeln für die **automatische Überprüfung der Datenqualität** verwenden wollt (z.B. Prüfung, ob eine Postleitzahl als Zahl eingegeben wurde und 5 Ziffern hat)
 
-- Wenn sehr große Datenmengen schnell ausgewertet werden sollen (z.B. in Form einer [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse))
+- … wenn **sehr große Datenmengen schnell ausgewertet** werden sollen (z.B. in Form einer [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse)), für deren Analyse Excel, Google Sheets etc. nicht mehr ausgelegt ist. Datenbanken sind optimiert auf die performante Abfrage, Filterung und Sortierung von großen Datenmengen.
 
 ## Was sind die Implikationen von Datenbanken für euch? 
 
-- Die meisten Datenbanken benötigen einen [Server](https://civic-data.de/selbstlernmaterial/#server). Für das [Hosting](https://civic-data.de/selbstlernmaterial/#hosting) des Servers in der [Cloud](https://civic-data.de/selbstlernmaterial/#cloud) und ggfs. für Lizenzen für die Datenbank oder das [Datenbank-Management-System](https://civic-data.de/selbstlernmaterial/#dbms) fallen Kosten an.
+- Um eine Datenbank nutzen zu können, benötigt ihr meistens **Kenntnisse der Programmiersprache [SQL](https://civic-data.de/selbstlernmaterial/#sql)**.
 
-- Für Betrieb, Wartung etc. sind in der Regel Kenntnisse der Programmiersprache [SQL](https://civic-data.de/selbstlernmaterial/#sql) notwendig, sowie ein generelles Verständnis derartiger Technologien
+- Die meisten Datenbanken benötigen einen **[Server](https://civic-data.de/selbstlernmaterial/#server),** auf dem ein [Datenbank-Management-System (DBMS)](https://civic-data.de/selbstlernmaterial/#dbms) (z.B. PostgreSQL, MySQL, Oracle, Microsoft SQL Server) läuft.
 
-- Ihr müsst sicherstellen, dass die Speicherung von personenbezogenen Daten in eurer Datenbank DSGVO-konform erfolgt (z.B. durch Einwilligung der Personen)
+  - Wenn ihr selbst eine Datenbank in der Cloud hosten möchtet, benötigt ihr Kompetenzen in Datenbank- und Server-Administration (vgl. Self-Hosting bei [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)). Ihr seid außerdem verantwortlich für die Datensicherheit eurer Datenbank. Es fallen meistens Kosten für das Hosting des Servers an.
 
-- Die Bedeutung von Datensicherheit nimmt zu, wenn ihr Daten in einer gehosteten Datenbank speichert.
+  - Es gibt die meisten Datenbanken auch als **gehostetes Angebot** (vgl. Managed Hosting bei [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)). Es gibt meistens kostenlose Einstiegsangebote und Bezahlmodelle, falls ihr mehr Speicherplatz oder fortgeschrittene Funktionen benötigt.
+
+- Es gibt auch **Datenbanken, die keinen Server benötigen**. Diese haben weniger Funktionen (z.B. kaum Möglichkeiten, Zugriffsrechte zu konfigurieren), dafür entfällt der Aufwand für Server-Administration. Beispiele für solche Datenbanken sind SQLite und DuckDB. Sie eignen sich besonders gut für **kleinere, weniger komplexe Anwendungen** und lokale Anwendungen.
+
+- Auch wenn es immer mehr grafische Benutzeroberflächen für Datenbanken gibt, sind sie in der Regel noch nicht so benutzerfreundlich und intuitiv wie Excel & Co. Es kann z.B. nötig sein, das [Terminal](https://civic-data.de/selbstlernmaterial/#terminal) zu verwenden, um mit der Datenbank zu interagieren. Technologien wie Airtable, Baserow und NocoDB versuchen, die Vorteile von Datenbanken mit einer intuitiveren grafischen Benutzeroberfläche zu verbinden.
+
+- Ihr müsst sicherstellen, dass die **Speicherung von personenbezogenen Daten** in eurer Datenbank **DSGVO-konform** erfolgt (z.B. durch Einwilligung der Personen)
 
 ## Mehr zu Datenbanken
 
-Die am weitesten verbreitete Art von Datenbanken sind die relationalen Datenbanken. Diese speichern Daten in Tabellen, die miteinander verknüpft werden. Die Meta-Informationen, wie die Tabellen aussehen und wie sie miteinander verknüpft sind, nennt man Schema.
+Die am weitesten verbreitete Art von Datenbanken sind die **relationalen Datenbanken**. Diese speichern Daten in Tabellen, die miteinander verknüpft werden. Die Meta-Informationen, wie die Tabellen aussehen und wie sie miteinander verknüpft sind, nennt man **Schema**. Diese Festlegung der Datenstruktur ist ein großer Vorteil von relationalen Datenbanken, da sie Sicherheit schafft.
 
 ![](https://civic-data.de/app/uploads/datenbank-schema.svg)
 
 
 
-Das hier ist ein Beispielschema für die Datenbank eines gemeinnützigen Vereins. Es werden Daten über Mitglieder, Spenden und Projekte gespeichert (wie z.B. der Name, die E-Mail-Adresse und das Beitrittsdatum eines Mitglieds) und die einzelnen Tabellen sind über die jeweiligen IDs miteinander verknüpft.
+Das hier ist ein Beispielschema für die Datenbank eines gemeinnützigen Vereins. Es werden Daten über Mitglieder, Spenden und Projekte gespeichert (wie z.B. der Name, die E-Mail-Adresse und das Beitrittsdatum eines Mitglieds) und die einzelnen Tabellen sind **über die jeweiligen IDs miteinander verknüpft**.
 
-Zum Management und zur Abfrage von relationalen Datenbanken verwendet man die Programmiersprache [SQL](https://civic-data.de/selbstlernmaterial/#sql) (Structured Query Language).
+Zum Management und zur Abfrage von relationalen Datenbanken verwendet man die **Programmiersprache [SQL](https://civic-data.de/selbstlernmaterial/#sql)** (Structured Query Language).
 
-Für spezielle Anwendungsfälle gibt es auch unterschiedliche Arten von nicht-relationalen (auch: NoSQL) Datenbanken, die nicht auf dem tabellarischen Schema von relationalen Datenbanken beruhen. Diese werden zum Beispiel für die Speicherung von Fotos oder Daten aus sozialen Netzwerken verwendet.
-
-### Vorteile von Datenbanken
-
-- Schneller Zugriff auf große Datenmengen, für deren Größe Excel, Google Sheets etc. nicht mehr ausgelegt ist
-
-- Die festgelegte Struktur der Datenbank ist ist vorteilhaft für Anwendungen, die mit den Daten arbeiten
-
-- Gezielte Filterung und Abfrage von Informationen
-
-- Gleichzeitiges Arbeiten mehrerer Personen an denselben Daten, wobei sichergestellt ist, dass auch alle mit demselben Stand der Daten arbeiten
-
-### Nachteile von Datenbanken
-
-- Keine (benutzerfreundliche) grafische Benutzeroberfläche für Dateneingabe und -pflege
-
-- Erfordert technisches Wissen (Einrichtung, Administration)
-
-- Laufende Kosten für [Hosting](https://civic-data.de/selbstlernmaterial/#hosting) oder [Cloud](https://civic-data.de/selbstlernmaterial/#cloud)-Services
-
-- Laufende Wartung von Datenbank-[Servern](https://civic-data.de/selbstlernmaterial/#server) ist ggf. nötig, um Datensicherheit zu gewährleisten
+Für spezielle Anwendungsfälle gibt es auch unterschiedliche Arten von **nicht-relationalen (auch: NoSQL) Datenbanken**, die nicht auf dem tabellarischen Schema von relationalen Datenbanken beruhen. Diese werden zum Beispiel für die **Speicherung von Fotos oder Daten aus sozialen Netzwerken** verwendet.
 
 ### Verwandte Begriffe
 
-- Für die Erstellung und Verwaltung einer Datenbank benötigt ihr ein Datenbank-Management-System ([DBMS](https://exampl.com/dbms)). Häufig wird der Begriff Datenbank synonym verwendet für das verwendete DBMS.
+- Für die Erstellung und Verwaltung einer Datenbank benötigt ihr ein Datenbank-Management-System ([DBMS](https://exampl.com/dbms)). Häufig wird der Begriff Datenbank synonym verwendet für das verwendete DBMS, z.B. spricht man von einer PostgreSQL-Datenbank, obwohl es sich bei PostgreSQL um ein DBMS handelt.
 
 - Ein [Data Warehouse](https://civic-data.de/selbstlernmaterial/#data-warehouse) ist ein Datenbanksystem, das speziell für betriebswirtschaftliche Analysen eingesetzt wird und aufbereitete Daten enthält
 
 - Ein [Data Lake](https://civic-data.de/selbstlernmaterial/#data-lake) ist ein Speichersystem für alle möglichen Arten von Daten, hauptsächlich eingesetzt zum Speichern von noch nicht aufbereiteten Daten (sog. Rohdaten)
+
+- Eine [API](https://civic-data.de/selbstlernmaterial/#api) (Application Programming Interface, de: Programmierschnittstelle) ist ein Programm, welches Datenaustausch ermöglicht. Eine API nimmt Anfragen entgegen, liest die angefragten Daten aus einer Datenbank aus und gibt sie an die anfragende Anwendung (z.B. an ein Web-Dashboard) zurück.
 
 ## Weiterführende Materialien
 
@@ -1722,28 +1421,9 @@ Wenn du noch mehr über Datenbanken erfahren möchtest, schaue dir die folgenden
 "
 28,Datenbankmanagementsystem (DBMS),28-datenbankmanagementsystem-dbms.md,"# Datenbankmanagementsystem (DBMS)
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Deutsche Übersetzung: -
-
-Auch bekannt unter: Database Management System
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Mit einem DBMS können Administrator\*innen [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank) erstellen, strukturieren, ändern und verwalten. Es regelt Zugriffsrechte, kümmert sich um Datensicherheit und sorgt für korrekte sowie konsistente Speicherung.
-
-### Beispiele
-
-Beispiele für DBMS sind unter anderem:
-
-- MySQL, PostgreSQL (Open-Source)
-
-- Microsoft SQL Server, Oracle Database (kommerziell)
-
-- SQLite (oft für kleine, lokale Anwendungen)
-
-  
 ## Wann ist Datenbankmanagementsystem (DBMS) für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -1839,24 +1519,9 @@ Wenn du noch mehr über Data Warehouses erfahren möchtest, schaue dir die folge
 "
 30,Data Lake,30-data-lake.md,"# Data Lake
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Deutsche Übersetzung**:** Daten-See (praktisch nicht wirklich verwendet)
-
-Auch bekannt als**:** Big Data Storage (manchmal, aber unscharf)
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Ein Data Lake ist ein Speicherort, in dem große Mengen unstrukturierter, halbstrukturierter und strukturierter Daten im Originalformat bzw. unverarbeitet liegen.
-
-### Beispiele
-
-- Eine NGO speichert Rohdaten von Social Media, Sensordaten etc. in einem Data Lake
-
-- Cloud-basierte Data Lakes (Amazon S3, Azure Data Lake Storage)
-
-  
 ## Wann ist Data Lake für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -1871,25 +1536,9 @@ Hieran arbeiten wir noch.
 "
 31,SQL,31-sql.md,"# SQL
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Deutsche Übersetzung**:** Strukturierte Abfragesprache (meist nur als SQL bezeichnet)
-
-Auch bekannt als**:** „Sequel“ (umgangssprachliche Aussprache)
-
 ### Definition
+Hieran arbeiten wir noch.
 
-SQL (Structured Query Language) ist eine Programmiersprache zum Abrufen, Bearbeiten und Verwalten von Daten in relationalen Datenbanken.
-
-Sie besteht aus Befehlen wie SELECT, INSERT, UPDATE oder DELETE, um [Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank)-Tabellen zu erstellen, abzufragen, zu verändern oder zu löschen.
-
-### Beispiele
-
-- SELECT \* FROM Spender WHERE Spendenbetrag &gt; 100;  
-  Dieser Befehl entnimmt der Tabelle *Spender* alle Einträge (Spender), bei denen der Spendenbetrag größer als 100 ist
-
-  
 ## Wann ist SQL für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -1904,33 +1553,9 @@ Hieran arbeiten wir noch.
 "
 32,ETL,32-etl.md,"# ETL
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Deutsche Übersetzung**:** Extrahieren, Transformieren, Laden
-
-Auch bekannt als**:** ETL-Prozess, Data Pipeline
-
 ### Definition
+Hieran arbeiten wir noch.
 
-ETL steht für **Extract, Transform, Load** – ein Prozess, um Daten aus diversen Quellen zu entnehmen, aufzubereiten und in ein Zielsystem (z. B. Data Warehouse) zu laden.
-
-Daten werden erst gesammelt (extract), dann in das gewünschte Format gebracht oder bereinigt (transform) und schließlich ins Zielsystem geladen (load). Das Ziel ist eine konsistente, für Analysen nutzbare Datenbasis.
-
-### Beispiele
-
-- Spenderdatenmanagement**:**
-
-  - Extraktion**:**  
-    Sammeln von Daten aus verschiedenen Quellen wie Online-Spendenformularen, E-Mail-Kampagnen, Veranstaltungsregistrierungen und Social-Media-Plattformen.
-
-  - Transformation**:**  
-    Bereinigung und Validierung der Spenderinformationen, Segmentierung nach Spendenverhalten und -häufigkeit, sowie Anreicherung der Daten mit zusätzlichen Informationen wie z.B. Demografie und Kommunikationspräferenzen.
-
-  - Laden**:**  
-    Überführen der bereinigten und angereicherten Daten in das [DWH](https://civic-data.de/selbstlernmaterial/#data-warehouse), um eine gezielte Spenderpflege, personalisierte Kommunikationskampagnen und fundierte Fundraising-Strategien zu ermöglichen.
-
-  
 ## Wann ist ETL für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -2239,26 +1864,9 @@ Wenn du noch mehr über Datenanalyse erfahren möchtest, schaue dir die folgende
 "
 35,Programmiersprache,35-programmiersprache.md,"# Programmiersprache
 ## Erklärung
-
-### Synonyme & Übersetzungen
-
-Deutsche Übersetzung**:** -
-
-Auch bekannt als**:** -
-
 ### Definition
+Hieran arbeiten wir noch.
 
-Programmiersprachen sind spezielle Sprachen, mit denen man Computern präzise Anweisungen gibt. Sie übersetzen komplexe Abläufe in klar strukturierte, maschinenlesbare Befehle, sodass Software entwickelt werden kann, die auch für Laien zugänglich ist.
-
-### Beispiele
-
-- Python (beliebt für Webentwicklung, [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) und [maschinelles Lernen](https://civic-data.de/selbstlernmaterial/#ml))
-
-- JavaScript (zentral für Webentwicklung und interaktive Benutzeroberflächen)
-
-- SQL (Abfragesprache für [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank))
-
-  
 ## Wann ist Programmiersprache für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -2841,7 +2449,7 @@ Als Nutzer\*in von Software-Endprodukten ist selten sichtbar, welches LLM genau 
 
 ## Wann sind LLMs für euch relevant? 
 
-*LLMs sind vor allem relevant, wenn ihr Generative KI nutzt und mit Text arbeitet. Sie stecken “unter der Haube” von Generativen KI-Anwendungen. Wir verweisen daher hier auf die Sektion Relevanz bei [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki).*
+*Hinweis: LLMs sind vor allem relevant, wenn ihr Generative KI nutzt und mit Text arbeitet. Sie stecken “unter der Haube” von Generativen KI-Anwendungen. Wir verweisen daher hier auf die Sektion Relevanz bei [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki).*
 
 ## Was sind die Implikationen von LLMs für euch? 
 

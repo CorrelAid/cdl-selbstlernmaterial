@@ -17,7 +17,7 @@ Als Nutzer\*in von Software-Endprodukten ist selten sichtbar, welches LLM genau 
 
 ## Wann sind LLMs für euch relevant? 
 
-*LLMs sind vor allem relevant, wenn ihr Generative KI nutzt und mit Text arbeitet. Sie stecken “unter der Haube” von Generativen KI-Anwendungen. Wir verweisen daher hier auf die Sektion Relevanz bei [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki).*
+*Hinweis: LLMs sind vor allem relevant, wenn ihr Generative KI nutzt und mit Text arbeitet. Sie stecken “unter der Haube” von Generativen KI-Anwendungen. Wir verweisen daher hier auf die Sektion Relevanz bei [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki).*
 
 ## Was sind die Implikationen von LLMs für euch? 
 

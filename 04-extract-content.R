@@ -37,7 +37,7 @@ extract_content <- function(begriff_lines, kanban = board) {
     clean_lines() %>% 
     replace_example_com()
 
-  if (status == "Review") {
+  if (status == "Done - Erklärung Only") {
     # Placeholder for not done
     # get line of where "relevant" begins
     i_fin <- str_which(begriff_lines, "^## Wann.+?relevant\\?\\s{0,}$")
