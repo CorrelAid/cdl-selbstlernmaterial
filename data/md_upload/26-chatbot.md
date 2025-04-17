@@ -15,7 +15,7 @@ Ein Chatbot ist ein Programm, das mithilfe von statistischen Modellen menschlich
 
 - FAQ-Bot auf einer Website, der Standardfragen zu Öffnungszeiten oder Kontaktinformationen beantwortet.
 
-- KI-Chatbots wie ChatGPT, Claude, DeepSeek, Microsoft Copilot oder Perplexity, die komplexe Konversationen nachahmen können.
+- KI-Chatbots wie ChatGPT, Claude, DeepSeek, Gemini, Microsoft Copilot oder Perplexity, die komplexe Konversationen nachahmen können.
 
 - Aus der Zivilgesellschaft:
 
