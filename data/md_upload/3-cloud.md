@@ -9,7 +9,7 @@ Auch bekannt unter: Datenwolke, Online-Speicher, Cloud Computing
 
 ### Definition
 
-Der Begriff Cloud bezeichnet IT-Dienste und -Ressourcen, die zeitnah und mit wenig Aufwand als Dienstleistung bereitgestellt (vgl. [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)) werden - meistens über das Internet. Diese Ressourcen umfassen Speicherplatz, Rechenleistung wie [Server](https://civic-data.de/selbstlernmaterial/#server) und Anwendungen, die von den Anbietern in geographisch verteilten Daten- und Rechenzentren betrieben werden.
+Der Begriff Cloud bezeichnet **IT-Dienste und -Ressourcen,** die **zeitnah** und **mit wenig Aufwand** als **Dienstleistung** bereitgestellt (vgl. [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)) werden - meistens über das **Internet**. Diese Ressourcen umfassen Speicherplatz, Rechenleistung wie [Server](https://civic-data.de/selbstlernmaterial/#server) und Anwendungen, die von den Anbietern in geographisch verteilten Daten- und Rechenzentren betrieben werden.
 
 ![](https://civic-data.de/app/uploads/cloud.svg)
 
@@ -37,13 +37,13 @@ Die Cloud wird häufig in drei Hauptkategorien unterteilt, je nachdem, was an Di
 
 ## Wann ist die Cloud für euch relevant? 
 
-- Wenn eure Organisation an mehreren Standorten oder im Homeoffice arbeitet und einen zentralen Datenzugriff und/oder Echtzeitkollaboration benötigt. Mithilfe von Cloud-Anwendungen könnt ihr über das Internet zusammenarbeiten.
+- Wenn eure Organisation an mehreren Standorten oder im Homeoffice arbeitet und einen zentralen Datenzugriff und/oder Echtzeitkollaboration benötigt. Mithilfe von Cloud-Anwendungen könnt ihr **über das Internet zusammenarbeiten**.
 
-- Wenn ihr Datenanwendungen entwickeln (lassen) wollt, die ihr über das Internet bereitstellen wollt. In diesem Fall ist es (fast immer) notwendig, auf Cloud-Angebote zurückzugreifen, entweder um sie selbst zu hosten oder sie von einem Dienstleister hosten zu lassen (vgl. [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)).
+- Wenn ihr **Datenanwendungen** entwickeln (lassen) wollt, die ihr **über das Internet bereitstellen** wollt. In diesem Fall ist es (fast immer) notwendig, auf Cloud-Angebote zurückzugreifen, entweder um sie selbst zu hosten oder sie von einem Dienstleister hosten zu lassen (vgl. [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)).
 
-- Für die Entwicklung von Datenanwendungen, die auf ressourcenintensive Methoden des [Machine Learnings](https://civic-data.de/selbstlernmaterial/#ml) oder der [Künstlichen Intelligenz](https://civic-data.de/selbstlernmaterial/#ki) zurückgreifen, sind Cloud-Angebote häufig wichtig, um Zugang zu den benötigten Rechenressourcen zu erhalten, zum Beispiel um ein eigenes Modell zu trainieren oder um die API eines [LLMs](https://civic-data.de/selbstlernmaterial/#llm) zu nutzen.
+- Für die Entwicklung von Datenanwendungen, die auf ressourcenintensive Methoden des **[Machine Learnings](https://civic-data.de/selbstlernmaterial/#ml) oder der [Künstlichen Intelligenz](https://civic-data.de/selbstlernmaterial/#ki)** zurückgreifen, sind Cloud-Angebote häufig wichtig, um **Zugang zu den benötigten Rechenressourcen** zu erhalten, zum Beispiel um ein eigenes Modell zu trainieren oder um die API eines [LLMs](https://civic-data.de/selbstlernmaterial/#llm) zu nutzen.
 
-- ist die Cloud ist häufig auch relevant sein, um Datenanwendungen zu entwickeln. Gerade für ressourcenintensive Anwendungsfälle wie LLMs
+- Wenn eure Datenanwendung vorübergehend stark ausgelastet ist - z.B. während einer Kampagne - könnt ihr eure **Cloud-Ressourcen flexibel anpassen** (“skalieren”) und zum Beispiel den Arbeitsspeicher vorübergehend vergrößern lassen.
 
 - Wenn ihr Datensicherung und Wiederherstellungsprozesse professionalisieren möchtet, kann es sinnvoll sein, auf Cloud-Lösungen zurückzugreifen (z.B. Backups in der Cloud).
 
@@ -53,21 +53,23 @@ Die Cloud wird häufig in drei Hauptkategorien unterteilt, je nachdem, was an Di
 
   - Ihr benötigt eine stabile Internetverbindung für den Zugriff auf eure Daten und für die Nutzung von Cloud-Anwendungen
 
-  - Die Nutzung von technisch orientierten Cloud-Angeboten wie Infrastruktur-as-a-Service – mit Abstrichen auch von Platform-as-a-Service – setzt meistens gewisse technische Kompetenzen voraus (z.B. Befehle in ein [Terminal](https://civic-data.de/selbstlernmaterial/#terminal) eingeben)
+  - Die **Nutzung von technisch orientierten Cloud-Angeboten** wie Infrastruktur-as-a-Service – mit Abstrichen auch von Platform-as-a-Service – setzt meistens gewisse **technische Kompetenzen** voraus (z.B. Befehle in ein [Terminal](https://civic-data.de/selbstlernmaterial/#terminal) eingeben)
 
-  - Ihr müsst euch mit Datenschutz und Datensicherheit in der Cloud auseinandersetzen.
+  - Ihr müsst euch mit **Datenschutz und Datensicherheit** in der Cloud auseinandersetzen. Eure potentiell sensiblen Daten liegen auf fremden Servern - das ist in Anbetracht der DSGVO gerade bei Servern, die außerhalb der EU liegen oder einer Firma außerhalb der EU gehören, kritisch.
 
   - Möglicherweise ändert sich die Art, wie ihr zusammenarbeitet (mehr Kollaboration in Echtzeit)
 
-  - Ihr solltet Nutzerrechte und Zugriffsberechtigungen sinnvoll einrichten
+  - Ihr solltet **Nutzerrechte und Zugriffsberechtigungen** sinnvoll einrichten
+
+  - Wenn ihr eure Arbeitsweise zu stark auf einen bestimmten Anbieter ausrichtet, kann es zu einem **“Vendor Lock-In”** (“Anbieterabhängigkeit”) kommen. Dieser Begriff beschreibt eine Situation, wenn die Abhängigkeit von Diensten oder Technologien eines bestimmten Cloud-Anbieters so groß ist, dass ein Wechsel zu einem anderen Anbieter nur mit erheblichem Aufwand und hohen Kosten möglich wäre. Achtet daher schon bei der Auswahl von Cloud-Technologien darauf, dass es gute Exportmöglichkeiten und Schnittstellen gibt.
 
 - **Kosten**:
 
-  - Ihr zahlt oft regelmäßige (monatliche) Nutzungsgebühren statt einmaliger Anschaffungskosten. Gerade bei Software-as-a-Service Angeboten können “pro-Nutzer\*in-pro-Monat” Preismodelle eine finanzielle Herausforderung darstellen.
+  - Ihr zahlt oft **regelmäßige (monatliche/jährliche) Nutzungsgebühren** statt einmaliger Anschaffungskosten. Gerade bei Software-as-a-Service Angeboten können “pro-Nutzer\*in-pro-Monat” Preismodelle eine finanzielle Herausforderung darstellen.
 
-  - Bei Machine Learning und Künstlicher Intelligenz gilt prinzipiell die folgende Faustregel: je mächtiger das Modell, desto mehr Rechenressourcen werden benötigt. Das bedeutet, dass Cloud-Kosten steigen. Denkt daher genau darüber nach, ob ihr wirklich das große Modell braucht oder ob ein einfacherer Ansatz auch geeignet ist, um eure Herausforderung zu lösen.
+  - Bei Machine Learning und Künstlicher Intelligenz gilt prinzipiell die folgende Faustregel: je mächtiger das Modell, desto mehr Rechenressourcen werden benötigt. Das bedeutet, dass Cloud-Kosten steigen. Denkt daher genau darüber nach, ob ihr **wirklich das große Modell braucht oder ob ein einfacherer Ansatz auch geeignet** ist, um eure Herausforderung zu lösen.
 
-- **Ressourcenverbrauch**: Cloud-Technologien benötigen nicht nur eure finanziellen Ressourcen, sondern auch viel Strom und natürliche Ressourcen für die Server in den Rechenzentren. Das solltet ihr gerade bei der Verwendung von PaaS- und IaaS-Angeboten berücksichtigen und sparsam umgehen.
+- **Ressourcenverbrauch**: Cloud-Technologien benötigen nicht nur eure finanziellen Ressourcen, sondern auch viel Strom und natürliche Ressourcen für die Server in den Rechenzentren. Das solltet ihr gerade bei der Verwendung von PaaS- und IaaS-Angeboten berücksichtigen und sparsam mit ihnen umgehen.
 
 ## Mehr zur Cloud
 
@@ -81,43 +83,19 @@ Die Cloud lässt sich nicht nur nach Servicemodellen (SaaS, PaaS, IaaS) untersch
 
 - **Community Cloud**: Ein weniger bekanntes Modell ist die Community Cloud. Hierbei teilen sich mehrere Organisationen mit ähnlichen Anforderungen und Zielen eine Cloud-Infrastruktur. Für NPOs im selben Themenfeld kann dies eine kosteneffiziente Lösung sein, die gleichzeitig mehr Kontrolle ermöglicht als eine reine Public Cloud.
 
-Das Servicemodell (*was* wird bereitgestellt) und das Bereitstellungsmodell (*wie* wird es bereitgestellt) können unterschiedlich kombiniert werden. So kann beispielsweise Software as a Service sowohl in einer Public als auch in einer Private Cloud angeboten werden. Die Wahl des geeigneten Modells hängt von den spezifischen Anforderungen eurer Organisation ab, insbesondere hinsichtlich Budget, Datenschutz, Sicherheitsanforderungen und vorhandener IT-Kompetenz.
-
-### Vorteile der Cloud
-
-- Kostenersparnis: Ihr müsst keine großen Anfangsinvestitionen in Hardware und Software tätigen
-
-- Flexibilität: Ihr könnt von jedem Gerät mit Internetverbindung auf die Cloud Services zugreifen
-
-- Skalierbarkeit: Ihr könnt eure Cloud Ressourcen flexibel anpassen und zum Beispiel den Arbeitsspeicher vergrößern lassen, ohne dass ihr dafür selber neue Komponenten kaufen und einbauen müsst
-
-- Automatische Updates: Der Anbieter kümmert sich um Aktualisierungen und die Wartung (bei Saas/PaaS)
-
-- Datensicherung: Professionelle Backup-Systeme schützen vor Datenverlust
-
-- Gemeinsame Nutzung: Ihr könnt Dateien, die in der Cloud liegen gemeinsam nutzen und bearbeiten
-
-### Nachteile der Cloud
-
-- Abhängigkeit vom Internet: Bei Verbindungsproblemen habt ihr keinen Zugriff auf eure Daten
-
-- Datenschutzbedenken: Eure potentiell sensiblen Daten liegen auf fremden Servern - das ist in Anbetracht der DSGVO gerade bei Servern, die außerhalb der EU liegen oder einer Firma außerhalb der EU gehören, kritisch.
-
-- Laufende Kosten: Cloud-Dienst werden oft als Abo-Modell angeboten - so entstehen euch monatliche/jährliche Gebühren.
-
-- Potenzielle Anbieterabhängigkeit (sogenannter “vendor lock-in”): Der Umzug zu einem anderen Anbieter kann kompliziert und sehr aufwendig sein.
+Das **Servicemodell** (*was* wird bereitgestellt) und das **Bereitstellungsmodell** (*wie* wird es bereitgestellt) können **unterschiedlich kombiniert** werden. So kann beispielsweise Software as a Service sowohl in einer Public als auch in einer Private Cloud angeboten werden. Die Wahl des geeigneten Modells hängt von den spezifischen Anforderungen eurer Organisation ab, insbesondere hinsichtlich Budget, Datenschutz, Sicherheitsanforderungen und vorhandener IT-Kompetenz.
 
 ### Verwandte Begriffe
 
-- [Hosting](https://civic-data.de/selbstlernmaterial/#hosting) bezeichnet die Bereitstellung und Verwaltung von IT-Infrastruktur für Websites oder Anwendungen. Hosting wird heutzutage häufig mit Cloud-Technologien umgesetzt.
+- [**Hosting**](https://civic-data.de/selbstlernmaterial/#hosting) bezeichnet die Bereitstellung und Verwaltung von IT-Infrastruktur für Websites oder Anwendungen. Hosting wird heutzutage häufig mit Cloud-Technologien umgesetzt.
 
-- Ein [Server](https://civic-data.de/selbstlernmaterial/#server) ist ein Computer, der anderen Computern (sogenannten Clients) Dienste oder Daten zur Verfügung stellt. In der Cloud-Welt sind Server Rechner, die in speziellen Rechenzentren stehen und auf denen eure Programme und Daten gespeichert werden.
+- Ein [**Server**](https://civic-data.de/selbstlernmaterial/#server) ist ein Computer, der anderen Computern (sogenannten Clients) Dienste oder Daten zur Verfügung stellt. In der Cloud-Welt sind Server Rechner, die in speziellen Rechenzentren stehen und auf denen eure Programme und Daten gespeichert werden.
 
-- [Lokal (On-Premise)](https://civic-data.de/selbstlernmaterial/#local-remote) bezeichnet IT-Ressourcen, die physisch in der eigenen Organisation betrieben werden, während [Remote](https://civic-data.de/selbstlernmaterial/#local-remote) auf entfernt zugängliche Ressourcen verweist. Cloud-Computing ist ein Remote-Modell, bei dem Ressourcen über das Internet bereitgestellt werden.
+- **[Lokal (On-Premise)](https://civic-data.de/selbstlernmaterial/#local-remote)** bezeichnet IT-Ressourcen, die vor Ort in der eigenen Organisation betrieben werden, während **[Remote](https://civic-data.de/selbstlernmaterial/#local-remote)** auf entfernt zugängliche Ressourcen verweist. Cloud-Computing ist ein Remote-Modell, bei dem Ressourcen über das Internet bereitgestellt werden.
 
-- Eine [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) ist eine Anwendung, die über einen Webbrowser ausgeführt wird und typischerweise auf Cloud-Servern gehostet wird – im Gegensatz zu klassischen Anwendungen läuft bei WebApps die Hauptverarbeitung auf entfernten Cloud-Servern statt auf dem lokalen Gerät des Nutzers.
+- Eine [**WebApp**](https://civic-data.de/selbstlernmaterial/#webapp) ist eine Anwendung, die über einen Webbrowser ausgeführt wird und typischerweise auf Cloud-Servern gehostet wird – im Gegensatz zu klassischen [Desktop-Anwendungen](https://civic-data.de/selbstlernmaterial/#desktop-anwendung) läuft bei WebApps die Hauptverarbeitung auf entfernten Cloud-Servern statt auf dem lokalen Gerät des Nutzers.
 
-- Edge Computing ist ein Ansatz, bei dem die Datenverarbeitung näher am Ort der Datenentstehung stattfindet (z.B. bei Sensoreinheiten oder Kameras) und nicht in zentralisierten Cloud-Rechenzentren.Dies ist besonders wichtig für zeitkritische Anwendungen oder Regionen mit eingeschränkter Internetverbindung.
+- **Edge Computing** ist ein Ansatz, bei dem die Datenverarbeitung näher am Ort der Datenentstehung stattfindet (z.B. bei Sensoreinheiten oder Kameras) und nicht in zentralisierten Cloud-Rechenzentren. Dies ist besonders wichtig für zeitkritische Anwendungen oder Regionen mit eingeschränkter Internetverbindung.
 
 ## Weiterführende Materialien
 

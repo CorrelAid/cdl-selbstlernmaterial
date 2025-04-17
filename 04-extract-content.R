@@ -37,30 +37,58 @@ extract_content <- function(begriff_lines, kanban = board) {
     clean_lines() %>% 
     replace_example_com()
 
-  begriff_content <- paste(begriff_lines, collapse = "\n")
-  begriff_content <- clean_collapsed(begriff_content)
-  begriff_content <- paste0("# ", title, "\n", begriff_content) # add title
-
-  if (status != "Done") {
+  if (status == "Done - Erklärung Only") {
     # Placeholder for not done
-    begriff_content <- glue::glue("
-    # {title}
-    ## Erklärung
-    An dieser Seite arbeiten wir noch.
-
+    # get line of where "relevant" begins
+    i_fin <- str_which(begriff_lines, "^## Wann.+?relevant\\?\\s{0,}$")
+    begriff_lines <- begriff_lines[1:(i_fin - 1)]
+    erklaerung_content <- paste(begriff_lines, collapse = "\n")
+    
+    
+    begriff_content <- glue::glue("    
+    {erklaerung_content}
+  
     ## Wann ist {title} für euch relevant?
-    An dieser Seite arbeiten wir noch.
+    Hieran arbeiten wir noch.
 
     ## Was sind die Implikationen von {title} für euch? 
-    An dieser Seite arbeiten wir noch.
+    Hieran arbeiten wir noch.
 
-    ## Mehr zu Datenanalyse   
-    An dieser Seite arbeiten wir noch.
+    ## Mehr zu {title}   
+    Hieran arbeiten wir noch.
 
     ## Weiterführende Materialien
+    Hieran arbeiten wir noch.
+
+    ")
+  } else if (status == "Done") {
+    begriff_content <- paste(begriff_lines, collapse = "\n")
+  } else {
+    # todo or in progress
+    # just template
+    begriff_content <- glue::glue("    
+    ## Erklärung
+    ### Definition
+    Hieran arbeiten wir noch.
+
+    ## Wann ist {title} für euch relevant?
+    Hieran arbeiten wir noch.
+
+    ## Was sind die Implikationen von {title} für euch? 
+    Hieran arbeiten wir noch.
+
+    ## Mehr zu {title}   
+    Hieran arbeiten wir noch.
+
+    ## Weiterführende Materialien
+    Hieran arbeiten wir noch.
 
     ")
   }
+  
+  begriff_content <- clean_collapsed(begriff_content)
+  begriff_content <- paste0("# ", title, "\n", begriff_content) # add title
+
   return(list(id = id, title = title, file_name = get_file_name(title, id), md = begriff_content))
 }
 

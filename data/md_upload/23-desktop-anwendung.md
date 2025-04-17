@@ -1,15 +1,15 @@
-# Mobile App
+# Desktop- Anwendung
 ## Erklärung
 ### Definition
 Hieran arbeiten wir noch.
 
-## Wann ist Mobile App für euch relevant?
+## Wann ist Desktop- Anwendung für euch relevant?
 Hieran arbeiten wir noch.
 
-## Was sind die Implikationen von Mobile App für euch? 
+## Was sind die Implikationen von Desktop- Anwendung für euch? 
 Hieran arbeiten wir noch.
 
-## Mehr zu Mobile App   
+## Mehr zu Desktop- Anwendung   
 Hieran arbeiten wir noch.
 
 ## Weiterführende Materialien

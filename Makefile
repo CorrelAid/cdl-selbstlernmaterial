@@ -52,6 +52,8 @@ data/md_upload/: data/md/ .kanban-downloaded 04-extract-content.R
 upload: .gdocs-downloaded .kanban-downloaded data/md_upload/ 05-upload-content.R
 	Rscript 05-upload-content.R
 
+LICENSE_CONTENT.md: data/kanban.csv
+	Rscript repo-chores.R
 
 # Clean target removes stamp files and generated content
 clean:
