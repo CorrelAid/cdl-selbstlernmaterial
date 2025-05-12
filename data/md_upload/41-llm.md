@@ -7,13 +7,13 @@ Deutsche Übersetzung: “Großes Sprachmodell"
 
 ### Definition
 
-Ein Large Language Model (LLM) ist ein [Machine-Learning](https://civic-data.de/selbstlernmaterial/#ml)-Modell, das mit sehr vielen Textdaten (z.B. aus Büchern, Artikeln oder dem Internet) trainiert wurde. Ein LLM hat die Fähigkeit, mithilfe von den gelernten statistischen Mustern neue Texte zu generieren, die natürliche Sprache nachahmen. Es handelt sich also um ein generatives Modell (siehe [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki)). In den letzten Jahren haben diese Modelle und die auf ihnen basierenden [Chatbots](https://civic-data.de/selbstlernmaterial/#chatbot) wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) stark an Bedeutung gewonnen.
+Ein Large Language Model (LLM) ist ein [Machine-Learning](https://civic-data.de/selbstlernmaterial/#ml)-Modell, das mit sehr vielen Textdaten (z.B. aus Büchern, Artikeln oder dem Internet) trainiert wurde. Ein LLM hat die **Fähigkeit**, mithilfe von den gelernten statistischen Mustern **neue Texte zu generieren, die natürliche Sprache nachahmen**. Es handelt sich also um ein **generatives Modell** (siehe [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki)). In den letzten Jahren haben diese Modelle und die auf ihnen basierenden [Chatbots](https://civic-data.de/selbstlernmaterial/#chatbot) wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) stark an Bedeutung gewonnen.
 
 ### Beispiele
 
-Large Language Models werden konstant weiterentwickelt, daher werden sie in “Modellfamilien” zusammengefasst, die die Modelle eines Anbieters umfassen, die meistens konsistent benannt sind. Zum Beispiel entwickelt OpenAI Modelle der “Modellfamilie” GPT (GPT-1, GPT-2, …), Google “Gemini” (Gemini 1.0), Antrophic Claude (Claude Sonnet, Claude Opus, …) usw. (siehe “Mehr zu LLM” für mehr Beispiele).
+Large Language Models werden konstant weiterentwickelt, daher werden sie in “**Modellfamilien**” zusammengefasst, die die Modelle eines Anbieters umfassen, die meistens konsistent benannt sind. Zum Beispiel entwickelt OpenAI Modelle der “Modellfamilie” GPT (GPT-1, GPT-2, …), Google “Gemini” (Gemini 1.0), Antrophic Claude (Claude Sonnet, Claude Opus, …) usw. (siehe “Mehr zu LLM” für mehr Beispiele).
 
-Als Nutzer\*in von Software-Endprodukten ist selten sichtbar, welches LLM genau hinter der Anwendung steckt.
+Als Nutzer\*in von Software-Endprodukten (z.B. einem Chatbot) ist selten sichtbar, welches LLM genau hinter der Anwendung steckt.
 
 ## Wann sind LLMs für euch relevant? 
 
@@ -23,15 +23,17 @@ Als Nutzer\*in von Software-Endprodukten ist selten sichtbar, welches LLM genau 
 
 *Hinweis: Da LLMs ein Teilgebiet [generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki) und diese wiederum ein Teil von [KI](https://civic-data.de/selbstlernmaterial/#ki) ist, ergeben sich diese generellen Implikationen ebenfalls.*
 
-- Wenn ihr ein LLM verwendet, solltet ihr euch im Klaren darüber sein, dass es so gut wie nicht nachvollziehbar ist, warum ein LLM eine bestimmte Ausgabe gegeben hat.
+- Wie bei jeder KI-Technologie entstehen Fragen zu **Datenschutz, Qualität der Daten und möglichen Verzerrungen** in den Antworten. Werden LLMs z.B. mit voreingenommenen (en: biased) oder unsauberen Daten trainiert, werden sie diese Verzerrungen wiedergeben. Zum Beispiel kann es passieren, dass bei Fragen nach Karriereoptionen für Frauen vor allem Berufe genannt werden, die in der Vergangenheit oft von Frauen ausgeübt wurden und nicht solche, die sie z.B. früher gar nicht machen durften. Ihr solltet daher die Ausgaben eines LLMs **immer kritisch hinterfragen**.
 
-- Wie bei jeder KI-Technologie entstehen Fragen zu Datenschutz, Qualität der Daten und möglichen Verzerrungen in den Antworten.
+- Wenn ihr ein LLM verwendet, solltet ihr euch im Klaren darüber sein, dass es um eine „Black-Box“ handelt. Es ist so gut wie **nicht nachvollziehbar**, warum ein LLM eine bestimmte Ausgabe gegeben hat. Daher sollten von ihnen **keine kritischen Entscheidungen direkt und ohne menschliche Zwischenkontrollen** abhängen.
+
+- Moderne [LLM](https://civic-data.de/selbstlernmaterial/#llm) Chatbots nutzen häufig die Eingabe von Nutzenden, um das Modell weiter zu verbessern. Dabei kann es vorkommen, dass Daten versehentlich an andere Nutzer\*innen weitergegeben werden können. In der Vergangenheit konnten **Akteur\*innen mit böswilligen Absichten** durch gezieltes Prompting **sensible Informationen abgreifen**, die andere Nutzer\*innen eingegeben hatten. Seid daher vorsichtig damit, welche Informationen ihr an kommerzielle LLMs und Chatbots übermittelt.
 
 ## Mehr zu LLMs
 
-In dem Training von großen LLM-Modellen steckt viel “Ghost Work”, d.h. Arbeit, die von Menschen gemacht wird, von der wir aber nicht viel mitbekommen. Diese Arbeit umfasst z.B. Aufgaben wie Datenbereinigung, Kodierung und Klassifizierung von Inhalten (v.a. auch Klassifizieren von potenziell menschenverachtenden Material), und wird häufig unter schlechten Arbeitsbedingungen ausgeführt. Quellen und weiterführende Artikel zum Thema finden sich unten in den weiterführenden Ressourcen.
+In dem Training von großen LLM-Modellen steckt viel “**Ghost Work**”, d.h. Arbeit, die von Menschen gemacht wird, von der wir aber nicht viel mitbekommen. Diese Arbeit umfasst z.B. Aufgaben wie Datenbereinigung, Kodierung und Klassifizierung von Inhalten (v.a. auch Klassifizieren von potenziell menschenverachtenden Material), und wird häufig unter **schlechten Arbeitsbedingungen** ausgeführt. Quellen und weiterführende Artikel zum Thema finden sich unten in den weiterführenden Ressourcen.
 
-Im Bereich von LLMs spielen große Firmen und Startups eine Rolle. Sie entwickeln jeweils meistens mehrere Modelle, die sich in Größe (also Anzahl der berechneten Parameter) und Preis unterscheiden. Viele Modelle folgen der GPT-Architektur (en: “Generative Pre-Trained Transformer”).
+Im Bereich von LLMs spielen **große Firmen und Startups** eine Rolle. Sie entwickeln jeweils meistens mehrere Modelle, die sich in Größe (also Anzahl der berechneten Parameter) und Preis unterscheiden. Viele Modelle folgen der GPT-Architektur (en: “Generative Pre-Trained Transformer”).
 
 Hier sind die derzeit wichtigsten Firmen (Stand Februar 2025):
 
@@ -45,37 +47,17 @@ Hier sind die derzeit wichtigsten Firmen (Stand Februar 2025):
 
 - [Antrophic](https://www.anthropic.com/) ist ein amerikanisches “public-benefit” (~gemeinwohlorientert) Startup, welches das LLM Claude entwickelt.
 
-### Vorteile von LLM
-
-- Große Text- oder Datenvolumen können in relativ kurzer Zeit verarbeitet werden.
-
-- LLMs lassen sich für verschiedenste Aufgaben einsetzen, von der Zusammenfassung eines Buchs über die Formulierung eines Förder-Antrags bis zur Erstellung von Social Media Beiträgen
-
-- Mit entsprechender Feinabstimmung (Fine-Tuning) oder dem Verfahren [Retrieval Augmented Generation](https://civic-data.de/selbstlernmaterial/#rag) (RAG) kann ein LLM auf spezielle Branchen oder Themen angepasst werden. Das gesammelte Wissen kann dann dazu genutzt werden, gezielte Fragen zu beantworten.
-
-### Nachteile von LLM
-
-- Ein [KI](https://civic-data.de/selbstlernmaterial/#ki) Sprachmodell kann fehlerhafte Informationen ausgeben, insbesondere wenn es keine passenden Trainingsdaten gibt. Solche Ausgaben werden als “Halluzinationen” bezeichnet. Sie sind besonders gefährlich, da sie oberflächlich plausibel wirken können.
-
-- Werden LLMs mit voreingenommenen (en: biased) oder unsauberen Daten trainiert, werden sie diese Verzerrungen wiedergeben. Zum Beispiel kann es passieren, dass bei Fragen nach Karriereoptionen für Frauen vor allem Berufe genannt werden, die in der Vergangenheit oft von Frauen ausgeübt wurden und nicht solche, die sie z.B. früher gar nicht machen durften. Ihr solltet daher die Ausgaben eines LLMs immer kritisch hinterfragen.
-
-- Das Trainieren großer Modelle verschlingt viel Rechenleistung und ist energieintensiv. Wenn es möglich ist, solltet ihr daher lieber auf einfache Suchanfragen zurückgreifen.
-
-- Die komplexen „Black-Box“-Modelle können Entscheidungen treffen, die für Außenstehende nur schwer nachvollziehbar sind. Daher sollten von ihnen keine kritischen Entscheidungen direkt und ohne menschliche Zwischenkontrollen abhängen.
-
-- Moderne [LLM](https://civic-data.de/selbstlernmaterial/#llm) Chatbots nutzen häufig die Eingabe von Nutzenden, um das Modell weiter zu verbessern. Dabei kann es vorkommen, dass Daten versehentlich an andere Nutzer\*innen weitergegeben werden können. In der Vergangenheit konnten Akteur\*innen mit böswilligen Absichten durch gezieltes Prompting sensible Informationen abgreifen, die andere Nutzer\*innen eingegeben hatten
-
 ### Verwandte Begriffe
 
-- Small Language Model ([SLM](https://civic-data.de/selbstlernmaterial/#slm)): Kleinere Version zu einem bestimmten LLM. Besonders für Anwendungen mit begrenzter Rechen- oder Speicherkapazität interessant.
+- Small Language Model ([**SLM**](https://civic-data.de/selbstlernmaterial/#slm)): Kleinere Version zu einem bestimmten LLM. Besonders für **Anwendungen mit begrenzter Rechen- oder Speicherkapazität** interessant.
 
-- [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt): Ein populärer Chatbot von OpenAI, der verschiedene Sprachmodelle (SLM und LLM) nutzt um auf Textanfragen zu reagieren.
+- [**ChatGPT**](https://civic-data.de/selbstlernmaterial/#chatgpt): Ein populärer Chatbot von OpenAI, der verschiedene Sprachmodelle (SLM und LLM) nutzt um auf Textanfragen zu reagieren.
 
-- [RAG](https://civic-data.de/selbstlernmaterial/#rag): Kombiniertes System aus Sprachmodell (LLM oder SLM) und Datenbank, um Informationen besser wiedergeben zu können und Halluzinationen zu reduzieren.
+- [**RAG**](https://civic-data.de/selbstlernmaterial/#rag): **Kombiniertes System aus Sprachmodell (LLM oder SLM) und Datenbank**, um Informationen besser wiedergeben zu können und Halluzinationen zu reduzieren.
 
-- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): Ein Teilbereich von Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)), bei dem die Generierung von Daten (z.B. Text oder Bilder) basierend auf Text-Anfragen zentral ist. LLM generieren Text und gehören daher auch zu generativer KI.
+- [**Generative KI**](https://civic-data.de/selbstlernmaterial/#generative-ki): Ein Teilbereich von Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)), bei dem die Generierung von Daten (z.B. Text oder Bilder) basierend auf Text-Anfragen zentral ist. LLM generieren Text und gehören daher auch zu generativer KI.
 
-- Deep Learning: [LLM](https://civic-data.de/selbstlernmaterial/#llm)s sind Deep Learning Modelle, die wiederum ein Teilbereich von Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)) sind. Deep Learning beschreibt hier konkret die technische Architektur der ML-Modelle.
+- **Deep Learning**: [LLM](https://civic-data.de/selbstlernmaterial/#llm)s sind Deep Learning Modelle, die wiederum ein Teilbereich von Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)) sind. Deep Learning beschreibt hier konkret die technische Architektur der ML-Modelle.
 
 ## Weiterführende Materialien
 

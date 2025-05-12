@@ -51,7 +51,7 @@ APIs sind dann relevant, wenn…
 
 ## Mehr zu APIs
 
-APIs nehmen Anfragen (en: API-Request) entgegen, bearbeiten sie und geben Antworten (en: Response) zurück. Hier am Beispiel der API des Deutschen Wetterdienstes (DWD):
+APIs nehmen **Anfragen** (en: API-Request) entgegen, bearbeiten sie und geben **Antworten** (en: Response) zurück. Hier am Beispiel der API des Deutschen Wetterdienstes (DWD):
 
 ![](https://civic-data.de/app/uploads/wetter-api.png)
 

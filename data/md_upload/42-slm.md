@@ -9,35 +9,39 @@ Synonyme: Small Language Model
 
 ### Definition
 
-Ein Small Language Model (SLM) ist ein [Machine-Learning](https://civic-data.de/selbstlernmaterial/#ml)-Modell zur Verarbeitung natürlicher Sprache, das durch seine geringere Größe sowohl beim Training als auch bei der Ausführung weniger Rechenressourcen benötigt als ein Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)). Trotz der reduzierten Parameteranzahl können SLMs viele gängige Textaufgaben bewältigen, zum Beispiel das Extrahieren von Informationen, die Klassifikation von Texten oder das Generieren kurzer Antworten. Im Vergleich zu LLMs sind SLMs oft leichter in bestehende Systeme zu integrieren und kostengünstiger zu betreiben.
+Ein Small Language Model (SLM) ist ein [Machine-Learning](https://civic-data.de/selbstlernmaterial/#ml)-Modell zur Verarbeitung natürlicher Sprache, das durch seine geringere Größe sowohl beim Training als auch bei der Ausführung **weniger Rechenressourcen** benötigt als ein Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)). Trotz der reduzierten Parameteranzahl können SLMs **viele gängige Textaufgaben bewältigen**, zum Beispiel das Extrahieren von Informationen, die Klassifikation von Texten oder das Generieren kurzer Antworten. Im Vergleich zu LLMs sind SLMs oft **leichter in bestehende Systeme zu integrieren** und **kostengünstiger** zu betreiben.
 
 ## Wann sind SLM für euch relevant? 
 
 SLMs sind für euch relevant, wenn...
 
-- ... ihr selbst eine KI-Anwendung entwickeln wollt und wenig finanzielle Ressourcen zur Verfügung habt: SLMs sind deutlich günstiger selbst zu hosten als ein großes Sprachmodell (LLM). Zum Beispiel kann ein SLM in einer Retrieval Augmented Generation Anwendung ([RAG](https://civic-data.de/selbstlernmaterial/#rag)) ein LLM ersetzen.
+- ... ihr selbst eine KI-Anwendung entwickeln wollt und wenig finanzielle Ressourcen zur Verfügung habt: SLMs sind **deutlich günstiger selbst zu hosten** als ein großes Sprachmodell (LLM). Zum Beispiel kann ein SLM in einer Retrieval Augmented Generation Anwendung ([RAG](https://civic-data.de/selbstlernmaterial/#rag)) ein LLM ersetzen.
 
-- … ihr einen gut abgrenzbaren Anwendungsfall habt, z.B. die Klassifikation von Texten auf vorgegebene Kategorien
+- … ihr einen **gut abgrenzbaren Anwendungsfall** habt, z.B. die Klassifikation von Texten auf vorgegebene Kategorien
 
-- ... ihr nur begrenzte Rechenleistung oder geringen Arbeitsspeicher zur Verfügung habt.
+- ... ihr nur **begrenzte Rechenleistung oder geringen Arbeitsspeicher** zur Verfügung habt.
 
-- ... Datenschutz für euch eine große Rolle spielt: Dadurch dass SLMs direkt auf Endgeräten ausführbar sind, müssen Daten nicht zwangsläufig in eine Cloud geladen werden.
+- … wenn ihr nur geringe Textmengen auf einmal verarbeiten müsst. Kleine Sprachmodelle haben für gewöhnlich ein **kleineres Textfenster**. Das bedeutet, dass tendenziell längere Texte mit vielen Zusammenhängen nicht so gut erfasst werden können wie bei LLMs.
 
-- ... ihr schnelle Reaktionszeiten benötigt: Durch ihre Optimierung und Spezialisierung sind Sprachmodelle für bestimmte Aufgaben schneller als LLMs.
+- ... **Datenschutz** für euch eine große Rolle spielt: Dadurch dass SLMs direkt auf Endgeräten ausführbar sind, müssen **Daten nicht zwangsläufig in eine Cloud** geladen werden.
+
+- ... ihr schnelle Reaktionszeiten benötigt: Durch ihre Optimierung und Spezialisierung sind Sprachmodelle **für bestimmte Aufgaben schneller** als LLMs.
+
+- … wenn euch Klimaschutz wichtig ist: durch ihren geringeren Rechen- und Speicherbedarf sind SLMs **weniger klimaschädlich** als LLMs
 
 ## Was sind die Implikationen von SLM für euch? 
 
-Hinweis: Da SLMs ein Teilgebiet [generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki) und diese wiederum ein Teil von [KI](https://civic-data.de/selbstlernmaterial/#ki) ist, ergeben sich dieselben Implikationen. Wir verweisen an dieser Stelle nochmal auf die Kapitel, anstatt die Implikationen hier separat aufzulisten.
+*Hinweis: Da SLMs ein Teilgebiet [generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki) und diese wiederum ein Teil von [KI](https://civic-data.de/selbstlernmaterial/#ki) ist, ergeben sich dieselben Implikationen. Wir verweisen an dieser Stelle nochmal auf die Kapitel, anstatt die Implikationen hier separat aufzulisten.*
 
-- Small Language Models sind nicht so mächtig wie Large Language Models. Dennoch sind sie für viele Anwendungsfälle mehr als ausreichend performant, gerade wenn die Anforderungen eurer Anwendung gut eingrenzbar sind.
+- Small Language Models sind **nicht so mächtig wie Large Language Models**. Dennoch sind sie für viele Anwendungsfälle **mehr als ausreichend performant**, gerade wenn die Anforderungen eurer Anwendung gut eingrenzbar sind.
 
-- Da sie nicht so viel Rechenkapazitäten beanspruchen, können SLMs sehr viel kostengünstiger selbst gehostet werden. Dies bietet Vorteile im Bereich Datenschutz, da Daten von euch oder von Nutzer\*innen nicht zu externen Anbietern gesendet werden. Hierfür benötigt ihr jedoch technische Expertise.
+- Da sie nicht so viel Rechenkapazitäten beanspruchen, können SLMs **sehr viel kostengünstiger selbst gehostet** werden. Dies bietet Vorteile im Bereich Datenschutz, da Daten von euch oder von Nutzer\*innen nicht zu externen Anbietern gesendet werden. Hierfür benötigt ihr jedoch **technische Expertise**.
 
 - In der Zusammenarbeit mit Dienstleistenden und Entwickler\*innen sollte eine Lösung mit Small Language Models diskutiert und evaluiert werden, bevor auf Large Language Models zurückgegriffen wird.
 
 ## Mehr zu SLM
 
-- Viele [SLM](https://civic-data.de/selbstlernmaterial/#slm)s entstehen durch Kompressionsverfahren (z. B. Knowledge Distillation, de: Wissensdestillierung), bei denen ein großes Modell „zusammengefasst“ wird. Dabei wird ein großes Modell (en: “Teacher”, de: “Lehrer\*in”) genutzt um ein kleineres Modell (en: “Student”, de: “Schüler\*in”) mit Inhalt zu füllen.
+- Viele [SLM](https://civic-data.de/selbstlernmaterial/#slm)s entstehen durch **Kompressionsverfahren** (z. B. Knowledge Distillation, de: Wissensdestillierung), bei denen ein großes Modell „zusammengefasst“ wird. Dabei wird ein großes Modell (en: “Teacher”, de: “Lehrer\*in”) genutzt um ein kleineres Modell (en: “Student”, de: “Schüler\*in”) mit Inhalt zu füllen.
 
 - Beispiele für SLM (Stand Februar 2025):
 
@@ -51,21 +55,7 @@ Hinweis: Da SLMs ein Teilgebiet [generativer KI](https://civic-data.de/selbstler
 
   - Llama 3.2 von Meta
 
-- Die Bezeichnung "Small" (dt.: "klein") in SLM ist relativ zu LLMs zu sehen und auch subjektiv. Einige als SLMs bezeichnete Modelle können mit 5 Billionen Parametern dennoch sehr große Modelle sein.
-
-### Vorteile von SLMs gegenüber LLMs
-
-- Weniger Rechen- und Speicherbedarf und somit auch weniger klimaschädlich
-
-- Aufwändige Cloud-Infrastrukturen können reduziert und damit Kosten gespart werden.
-
-- Datenschutzfreundlich: Durch die Verarbeitung auf Endgeräten (en: On-Device) müssen sensible Daten nicht zwingend an externe Server gesendet werden.
-
-### Nachteile von SLMs gegenüber LLMs
-
-- Kleine Sprachmodelle haben für gewöhnlich ein kleineres Textfenster. Das bedeutet, dass tendenziell längere Texte mit vielen Zusammenhängen nicht so gut erfasst werden können wie bei LLMs.
-
-- SLMs enthalten - durch die geringere Anzahl Parametern - weniger abrufbare Informationen als LLMs und eignen sich daher weniger gut als Rechercheinstrument
+- Die Bezeichnung "**Small**" (dt.: "klein") in SLM ist **relativ zu LLMs** zu sehen und auch **subjektiv**. Einige als SLMs bezeichnete Modelle können mit 5 Billionen Parametern dennoch sehr große Modelle sein.
 
 ### Verwandte Begriffe
 
