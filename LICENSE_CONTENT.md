@@ -6,17 +6,33 @@
 - "Server" in CDL Selbstlernmaterial von Sören Etler, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Cloud" in CDL Selbstlernmaterial von Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "DNS" in CDL Selbstlernmaterial von Leili Riazy, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Authentifizierung" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Permission Management" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Terminal" in CDL Selbstlernmaterial von Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Bug" in CDL Selbstlernmaterial von Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "User Experience (UX)" in CDL Selbstlernmaterial von Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "CI/CD" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Deployment" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "DevOps" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Agil" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Wasserfall" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "SCRUM" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Sprint" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Backlog" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "WebApp" in CDL Selbstlernmaterial von Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
-- "API" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Mobile App" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "API" in CDL Selbstlernmaterial von Sören Etler, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Desktop- Anwendung" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Frontend und Backend" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Local vs Remote" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Chatbot" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Datenbank" in CDL Selbstlernmaterial von Asim Alsabagh, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Data Warehouse (DWH)" in CDL Selbstlernmaterial von Asim Alsabagh, Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Data Lake" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "ETL" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Datenvisualisierung" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Datenanalyse" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "Programmiersprache" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Künstliche Intelligenz (KI)" in CDL Selbstlernmaterial von Leili Riazy, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Machine Learning (ML)" in CDL Selbstlernmaterial von Leili Riazy, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Deskriptive Statistik" in CDL Selbstlernmaterial von Leili Riazy, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
