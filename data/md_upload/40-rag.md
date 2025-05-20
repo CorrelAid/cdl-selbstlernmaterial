@@ -9,13 +9,13 @@ Auch bekannt unter: Retrieval Augmented Generation, Retrieval-based Generation, 
 
 ### Definition
 
-Retrieval-Augmented Generation (RAG) ist eine Erweiterung von Large Language Models ([LLM](https://civic-data.de/selbstlernmaterial/#llm)s). Das Prinzip von RAG ist, dass zusätzliche Informationen in die Text-Anfrage (en: Prompt) an eine [generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki) einbezogen werden. Dadurch entsteht eine Lösung, die deutlich flexibler und aktueller ist als ein reines Sprachmodell.
+**Retrieval-Augmented Generation** (RAG) ist eine Erweiterung von Large Language Models ([LLM](https://civic-data.de/selbstlernmaterial/#llm)s). Das Prinzip von RAG ist, dass **zusätzliche Informationen aus einer Wissensdatenbank in die Text-Anfrage** (en: Prompt) **an eine [generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki) einbezogen werden**. Dadurch entsteht eine Lösung, die deutlich flexibler und aktueller ist als ein reines Sprachmodell.
 
 Die beiden Phasen des RAG Systems sind:
 
-1.  “Retrieval” (de: Abruf): Ein Modell oder Algorithmus durchsucht externe Quellen (z. B. Datenbanken, Websites, Textsammlungen), um relevante Informationen zu einer Anfrage zu finden.
+1.  **“Retrieval”** (de: Abruf): Ein Modell oder Algorithmus durchsucht externe Quellen (z. B. Datenbanken, Websites, Textsammlungen), um relevante Informationen zu einer Anfrage zu finden.
 
-2.  “Augmented Generation” (de: erweiterte Erzeugung): Ein [Generatives KI Modell](https://civic-data.de/selbstlernmaterial/#generative-ki) nutzt sowohl erlerntes Wissen als auch die abgerufenen Informationen, um eine passende Antwort oder einen Text zu verfassen.
+2.  **“Augmented Generation”** (de: erweiterte Erzeugung): Ein [Generatives KI Modell](https://civic-data.de/selbstlernmaterial/#generative-ki) nutzt sowohl erlerntes Wissen als auch die abgerufenen Informationen, um eine passende Antwort oder einen Text zu verfassen.
 
 ![](https://civic-data.de/app/uploads/rag.svg)
 
@@ -33,35 +33,27 @@ Die Grafik illustriert das RAG Verfahren. Die Schritte 2 und 3 in der Grafik zei
 
 ## Wann ist RAG für euch relevant? 
 
-- Wenn ihr auf verteilte oder aktuelle Daten angewiesen seid
+- Wenn ihr auf **verteilte oder aktuelle Daten angewiesen** seid
 
-- Wenn fundierte, kontextbezogene Antworten gefragt sind, etwa in spezialisierten Fachgebieten oder basierend auf Firmen-spezifischen Daten.
+- Wenn **fundierte, kontextbezogene Antworten gefragt sind**, etwa in spezialisierten Fachgebieten oder basierend auf Firmen-spezifischen Daten.
 
 ## Was sind die Implikationen von RAG für euch? 
 
-- Unternehmen müssen die Datenquellen, die das System durchsucht, kontinuierlich pflegen und aktualisieren.
+- Unternehmen müssen die **Datenquellen**, die das System durchsucht, kontinuierlich **pflegen und aktualisieren**
 
-- RAG kann bei Bedarf strengere Datenschutz- oder Sicherheitsvorschriften erfüllen, indem nur bestimmte, freigegebene Datenquellen durchsucht werden. Andererseits gibt es durch die hohe Komplexität bei nicht sachgemäßer Einrichtung hier auch eine Schwachstelle, bei der sensible Daten nach außen gelangen können. Man spricht dann von “Leakage” (englisch für “Leckage”).
+- Informationen, die das Sprachmodell nutzt, können aktualisiert werden, ohne dass das Modell neu trainiert werden muss. Wenn Systeme ständig aktuell gehalten werden müssen, können durch RAG System Ressourcen gespart werden, da das **Aktualisieren der Wissensdatenbank weniger aufwändig** ist, **als das Anpassen eines großen Sprachmodells**..
 
-- RAG Systeme lohnen sich erst bei großen Datenmengen, weil die Erstellung und Instandhaltung mit regelmäßigen Kosten verbunden ist. Während [LLM](https://civic-data.de/selbstlernmaterial/#llm)s üblicherweise für einzelne Abfragen bezahlt werden ist eine Datenbank für einen langfristigen Gebrauch ausgelegt.
+- Sprachmodelle neigen dazu, falsche Informationen (sogenannte “Halluzinationen”) zu produzieren. Spezifische Verweise auf Quellen wie bei RAG können **Antworten nachvollziehbar und überprüfbar** machen.
+
+- **RAG Systeme lohnen sich erst bei großen Datenmengen**, weil die Erstellung und Instandhaltung des Systems und der angekoppelten Wissensdatenbank mit r**egelmäßigen Kosten** verbunden ist. Während [LLM](https://civic-data.de/selbstlernmaterial/#llm)s üblicherweise für einzelne Abfragen bezahlt werden ist eine Datenbank für einen langfristigen Gebrauch ausgelegt.
+
+- RAG **kann bei Bedarf strengere Datenschutz- oder Sicherheitsvorschriften erfüllen**, indem nur bestimmte, freigegebene Datenquellen durchsucht werden. Andererseits gibt es durch die hohe Komplexität bei nicht sachgemäßer Einrichtung hier auch eine Schwachstelle, bei der sensible Daten nach außen gelangen können. Man spricht dann von “Leakage” (englisch für “Leckage”).
+
+- Eine weitere Gefahr besteht in einer **möglichen böswilligen Manipulation der Daten in der Wissensdatenbank**, die von dem RAG System abgerufen werden. Dieses Verfahren wird RAG “poisoning” (englisch für “Vergiftung”) genannt.
+
+- Vor der Generierung der finalen Antwort des KI-Sprachmodells muss ein zusätzlicher Abruf-Schritt erfolgen, was insgesamt zu einer **längeren Antwortdauer** führt.
 
 ## Mehr zu RAG
-
-### Vorteile von RAG
-
-- Informationen, die das Sprachmodell nutzt, können aktualisiert werden, ohne dass das Modell neu trainiert werden muss. Wenn Systeme ständig aktuell gehalten werden müssen, können durch RAG System Ressourcen gespart werden, da das Aktualisieren der Wissensdatenbank weniger aufwändig ist, als das Anpassen eines großen Sprachmodells.
-
-- Effiziente Datenbanken können große Mengen an Daten sichern, ohne dass sie Teil des Sprachmodells ([LLM](https://civic-data.de/selbstlernmaterial/#llm) oder [SLM](https://civic-data.de/selbstlernmaterial/#slm)) sein müssen.
-
-- Sprachmodelle neigen dazu, falsche Informationen (sogenannte “Halluzinationen”) zu produzieren. Spezifische Verweise auf Quellen können Antworten nachvollziehbar und überprüfbar machen.
-
-### Nachteile von RAG
-
-- Eine private Wissensdatenbank ist ein weiteres Produkt, welches individuell an bestehende Datenquellen angebunden, gewartet und bezahlt werden muss.
-
-- Eine weitere Gefahr besteht in einer möglichen böswilligen Manipulation der Daten in der Wissensdatenbank, die von dem RAG System abgerufen werden. Dieses Verfahren wird RAG “poisoning” (englisch für “Vergiftung”) genannt.
-
-- Vor der Generierung der finalen Antwort des KI-Sprachmodells muss ein zusätzlicher Abruf-Schritt erfolgen, was insgesamt zu einer längeren Antwortdauer führt.
 
 ### Verwandte Begriffe
 

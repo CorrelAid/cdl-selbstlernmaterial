@@ -9,13 +9,13 @@ Synonyme: Virtueller Assistent, Conversational Agent, KI-Assistent, Dialogsystem
 
 ### Definition
 
-Ein Chatbot ist ein Programm, das mithilfe von statistischen Modellen menschliche Kommunikation nachahmen kann. Chatbot-Programme werden genutzt, um Fragen zu beantworten, Informationen bereitzustellen, Gespräche zu führen oder Aufgaben zu automatisieren. Moderne Chatbots nutzen hierfür [Künstliche-Intelligenz](https://civic-data.de/selbstlernmaterial/#ki) (KI)-Technologien wie [maschinelles Lernen](https://civic-data.de/selbstlernmaterial/#ml) und insbesondere große Sprachmodelle (en: [Large Language Models](https://civic-data.de/selbstlernmaterial/#llm) (LLMs)), während klassische Chatbots einen regelbasierten Ansatz verfolgen.
+Ein **Chatbot** ist ein **Programm, das mithilfe von statistischen Modellen menschliche Kommunikation nachahmen kann**. Chatbot-Programme werden genutzt, um Fragen zu beantworten, Informationen bereitzustellen, Gespräche zu führen oder Aufgaben zu automatisieren. Moderne Chatbots nutzen hierfür [Künstliche-Intelligenz](https://civic-data.de/selbstlernmaterial/#ki)-Technologien wie [maschinelles Lernen](https://civic-data.de/selbstlernmaterial/#ml) und insbesondere große Sprachmodelle (en: [Large Language Models](https://civic-data.de/selbstlernmaterial/#llm), Abk: LLMs), während klassische Chatbots einen regelbasierten Ansatz verfolgen.
 
 ### Beispiele
 
 - FAQ-Bot auf einer Website, der Standardfragen zu Öffnungszeiten oder Kontaktinformationen beantwortet.
 
-- KI-Chatbots wie ChatGPT, Claude, DeepSeek, Gemini, Microsoft Copilot oder Perplexity, die komplexe Konversationen nachahmen können.
+- KI-Chatbots wie ChatGPT, Claude, DeepSeek, Gemini, Copilot oder Perplexity, die komplexe Konversationen nachahmen können.
 
 - Aus der Zivilgesellschaft:
 
@@ -27,9 +27,9 @@ Ein Chatbot ist ein Programm, das mithilfe von statistischen Modellen menschlich
 
 ## Wann sind Chatbots für euch relevant? 
 
-- Existierende Chatbots verwenden: KI-/LLM-gestützte Chatbots wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt), Claude oder le chat haben das Potenzial, euch bei diversen Aspekten eurer Arbeit zu unterstützen. Wir verweisen hier auf die Sektionen Relevanz und Implikationen des Begriffs [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
+- **Existierende Chatbots verwenden**: KI-/LLM-gestützte Chatbots wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt), Claude oder CoPilot haben das Potenzial, euch bei diversen Aspekten eurer Arbeit zu unterstützen. *Wir verweisen hier auf die Sektionen Relevanz und Implikationen des Begriffs [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki).*
 
-- Ein eigener Chatbot für eure Organisation: Chatbot-Technologien – ob regelbasiert oder KI-gestützt – können auch relevant sein, wenn ihr einen eigenen Chatbot entwickeln (lassen) wollt. Ein Chatbot kann eine Lösung sein, wenn …
+- **Ein eigener Chatbot für eure Organisation**: Chatbot-Technologien – ob regelbasiert oder KI-gestützt – können auch relevant sein, wenn ihr einen eigenen Chatbot entwickeln (lassen) wollt. Ein Chatbot kann eine Lösung sein, wenn …
 
   - … ihr wiederkehrende Fragen oder Interaktionen automatisieren möchtet, um Ressourcen zu sparen.
 

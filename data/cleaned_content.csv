@@ -164,25 +164,25 @@ Wenn du noch mehr über Hosting erfahren möchtest, schaue dir die folgenden Res
 
 Server:
 
-- Wörtliche deutsche Übersetzung: Bediener, Dienstleister. *Hinweis: Es wird ausschließlich der englische Begriff verwendet.*
+- Deutsche Übersetzung: Bediener, Dienstleister. *Hinweis: Es wird ausschließlich der englische Begriff verwendet.*
 
-- Auch bekannt unter: Host, Dienstrechner
+- Synonyme: Host, Dienstrechner
 
 Client:
 
-- Wörtliche deutsche Übersetzung: Kunde, Auftraggeber. *Hinweis: Es wird ausschließlich der englische Begriff verwendet.*
+- Deutsche Übersetzung: Kunde, Auftraggeber. *Hinweis: Es wird ausschließlich der englische Begriff verwendet.*
 
-- Auch bekannt unter: Endgerät, Nutzer-Anwendung
+- Synonyme: Endgerät, Nutzer-Anwendung
 
 ### Definition
 
 **Server-Client-Modell**
 
-Server und Client sind zwei zentrale Konzepte in der IT, die das Verhältnis zwischen zwei Systemen beschreiben:
+Server und Client sind zwei zentrale Konzepte in der IT, die das **Verhältnis zwischen zwei Systemen** beschreiben:
 
-- **Der Client** ist das Gerät oder das Programm, das eine Anfrage stellt (z. B. ein Webbrowser).
+- **Der Client** ist das **Gerät oder das Programm, das eine Anfrage stellt** (z. B. ein Webbrowser).
 
-- **Der Server** ist das Gerät oder das Programm, das die Anfrage bearbeitet und dem Client die gewünschten Daten oder Dienste bereitstellt (z. B. ein Webserver-Programm).
+- **Der Server** ist das **Gerät oder das Programm, das die Anfrage bearbeitet** und dem Client die gewünschten Daten oder Dienste bereitstellt (z. B. ein Webserver-Programm).
 
 Diese Kommunikation findet in vielen digitalen Anwendungen statt, von Websites bis zu Cloud-Diensten.
 
@@ -194,7 +194,7 @@ Ihr könnt euch einen Server wie eine zentrale Telefonauskunft vorstellen: Sie h
 
 **Server als Rechner**
 
-Was manchmal zu Verwirrung führen kann: der Begriff “Server” bezeichnet sowohl den Rechner als auch die Server-Programme, die auf ihm laufen. So könntet ihr auf einem Server (Rechner) euren Webserver (Programm), E-Mail Server (Programm) und einen API-Server (Programm) betreiben.
+Was manchmal zu Verwirrung führen kann: **der Begriff “Server” bezeichnet sowohl den Rechner als auch die Server-Programme**, die auf ihm laufen. So könntet ihr auf einem Server (Rechner) euren Webserver (Programm), E-Mail Server (Programm) und einen [API](https://civic-data.de/selbstlernmaterial/#api)-Server (Programm) betreiben.
 
 ![Serverraum mit mehreren Racks mit Netzwerkgeräten und Kabeln.](https://civic-data.de/app/uploads/computer-server.jpg)
 
@@ -226,21 +226,21 @@ Was manchmal zu Verwirrung führen kann: der Begriff “Server” bezeichnet sow
 
 Server und Clients sind dann relevant, wenn:
 
-- ihr eine Website, eine [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) oder eine Online-Plattform betreiben wollt.
+- ihr **eine Website**, eine [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) oder eine Online-Plattform **betreiben** wollt.
 
-- eure Organisation Daten zentral speichern und mehreren Nutzenden und/oder Anwendungen zugänglich machen muss.
+- eure Organisation **Daten zentral speichern** und mehreren Nutzenden und/oder Anwendungen **zugänglich machen** muss.
 
-- ihr mit [Cloud](https://civic-data.de/selbstlernmaterial/#cloud)-Diensten arbeitet oder interne Systeme nutzt, die aus der Ferne erreichbar sein müssen.
+- ihr **mit [Cloud](https://civic-data.de/selbstlernmaterial/#cloud)-Diensten arbeitet** oder interne Systeme nutzt, die aus der Ferne erreichbar sein müssen.
 
-- Wenn es euch wichtig ist, Anwendungen oder Daten nicht in die Hände externer Software-Anbieter zu legen (Stichwort: digitale Souveränität bzw. Datensouveränität/Datenhoheit), dann sind Server für euch relevant, um Software und Anwendungen selbstständig und souverän zu betreiben.
+- Wenn es euch wichtig ist, Anwendungen oder Daten nicht in die Hände externer Software-Anbieter zu legen (Stichwort: **digitale Souveränität** bzw. Datensouveränität/Datenhoheit), dann sind Server für euch relevant, um Software und Anwendungen selbstständig und souverän zu betreiben.
 
 ## Was sind die Implikationen von Client & Server für euch? 
 
 - Wenn ihr einen Server benötigt, könnt ihr
 
-- … einen physischen Server-Rechner kaufen und diesen installieren und betreiben. Dann entstehen vor allem initiale Anschaffungskosten. Laufende Kosten entstehen durch den Stromverbrauch und die Zeit, die für Sicherheits- und sonstige Wartungsmaßnahmen des Rechners aufgewendet werden muss. Außerdem sollte der Rechner an einem sicheren Ort aufgestellt sein und gut vor Diebstahl geschützt sein.
+- … einen **physischen Server-Rechner kaufen** und diesen installieren und betreiben. Dann entstehen vor allem initiale Anschaffungskosten. Laufende Kosten entstehen durch den Stromverbrauch und die Zeit, die für Sicherheits- und sonstige Wartungsmaßnahmen des Rechners aufgewendet werden muss. Außerdem sollte der Rechner an einem sicheren Ort aufgestellt sein und gut vor Diebstahl geschützt sein.
 
-- … oder einen virtuellen Server (auch: Virtual Private Server, virtuelle Maschine) bei einem Cloud-Anbieter “mieten”. Hier entstehen monatliche Kosten für die “Miete” und Kosten durch die Zeit, die für Sicherheits- und sonstige Wartungsmaßnahmen benötigt werden. Mehr dazu erfahrt ihr bei [Hosting](https://civic-data.de/selbstlernmaterial/#hosting) und [Cloud](https://civic-data.de/selbstlernmaterial/#cloud).
+- … oder einen **virtuellen Server** (auch: Virtual Private Server, virtuelle Maschine) **bei einem Cloud-Anbieter “mieten”**. Hier entstehen monatliche Kosten für die “Miete” und Kosten durch die Zeit, die für Sicherheits- und sonstige Wartungsmaßnahmen benötigt werden. Mehr dazu erfahrt ihr bei [Hosting](https://civic-data.de/selbstlernmaterial/#hosting) und [Cloud](https://civic-data.de/selbstlernmaterial/#cloud).
 
 - Für jeden Typ von Server-Programm (E-Mail, API, Webserver, Datenbank…) gibt es zahlreiche Optionen, die sich in der Programmiersprache(n) der Implementierung, der Komplexität und dem Funktionsumfang, aber auch in der Offenheit der Lizenz (Open Source vs. proprietäre Software) und den Lizenzkosten unterscheiden. Zum Beispiel gibt es zahlreiche Open-Source Alternativen zu den proprietären E-Mail Servern von Microsoft (Microsoft Exchange Server) und Google (Gmail Server).
 
@@ -293,7 +293,7 @@ Die Cloud wird häufig in drei Hauptkategorien unterteilt, je nachdem, was an Di
 
 1.  **Infrastructure as a Service** (IaaS, de: Infrastruktur als Dienstleistung): Grundlegende Rechenressourcen wie Server, Netzwerke und Speicherplatz (HDD/SSD) werden als Dienst bereitgestellt. Sämtliche Anwendungen und z.B. das Betriebssystem, das auf dieser Infrastruktur läuft, müssen von der Nutzerin installiert und gewartet werden.
 
-2.  **Platform as a Service** (PaaS, de: Plattform als Dienstleistung): Platform as a Service stellt Entwicklungsumgebungen für eigene Anwendungen bereit. Das beinhaltet neben der Infrastruktur auch Betriebssysteme wie Linux und z.B. [Datenbankmanagementsysteme](https://civic-data.de/selbstlernmaterial/#dbms).
+2.  **Platform as a Service** (PaaS, de: Plattform als Dienstleistung): Platform as a Service stellt Entwicklungsumgebungen für eigene Anwendungen bereit. Das beinhaltet neben der Infrastruktur auch Betriebssysteme wie Linux und z.B. [Datenbankmanagementsysteme](https://civic-data.de/selbstlernmaterial/#datenbank).
 
 3.  **Software as a Service** (SaaS, de: Software als Dienstleistung): Software as a Service sind fertige Anwendungen, die über das Internet bereitgestellt werden. Die Cloud-Anbieter [hosten](https://civic-data.de/selbstlernmaterial/#hosting) und verwalten die Anwendung und kümmern sich bei Bedarf um Software-Updates.
 
@@ -392,7 +392,7 @@ Deutsche Übersetzung: Domain-Namen-System
 
 ### Definition
 
-Das DNS (Domain Name System) ist wie ein riesiges Telefonbuch für das Internet. Es enthält Einträge (en: Records) für alle Internetadressen (de: Domäne, en: Domain, z.B. google.com oder civic-data.de). Das DNS verwendet die Records, um für Domains Informationen (z.B. IP-Adressen) nachzuschlagen, die Computer verstehen. Das DNS ist ein weltweit verteiltes Netz aus [Servern](https://civic-data.de/selbstlernmaterial/#server), das speziell für diese Aufgabe existiert .
+Das DNS (Domain Name System) ist wie ein riesiges **Telefonbuch für das Internet**. Es enthält **Einträge (en: Records) für jede Internetadresse** (de: Domäne, en: **Domain**, z.B. google.com oder civic-data.de). Das DNS verwendet die Records, um für die Internetadresse/Domain Informationen (z.B. IP-Adressen) “*nachzuschlagen”*, die Computer verstehen und die für das **Funktionieren des Internets** relevant sind. Das DNS ist ein weltweit verteiltes Netz aus [Servern](https://civic-data.de/selbstlernmaterial/#server), das speziell für diese Aufgabe existiert .
 
 ### Beispiele
 
@@ -400,7 +400,7 @@ Damit ein Browser Google finden kann, wird die folgende IP-Adresse, quasi die Te
 
 142.250.181.238
 
-Wenn wir diese Zahl in die Adresszeile unseres Browsers schreiben, wird Google aufgerufen. Wir können aber auch [google.com](http://www.google.com) eingeben. In diesem Fall schickt der Browser “[google.com](http://www.google.com)” an einen DNS-Server. Dort wird der DNS-Eintrag für “google.com” gesucht und die hinterlegte IP-Adresse an den Browser zurückgeschickt. Mithilfe der IP-Adresse kann der Browser Google öffnen.
+Wenn wir diese Zahl in die Adresszeile unseres Browsers schreiben, wird Google aufgerufen. Wir können aber auch [google.com](http://www.google.com) eingeben. In diesem Fall schickt der Browser “[google.com](http://www.google.com)” an einen DNS-Server. Dort wird der DNS-Eintrag für “google.com” gesucht und die hinterlegte IP-Adresse an den Browser zurückgeschickt. **Mithilfe der IP-Adresse kann der Browser Google öffnen**.
 
 ![](https://civic-data.de/app/uploads/dns.svg)
 
@@ -418,35 +418,23 @@ DNS ist dann relevant, wenn…
 
 ## Was sind die Implikationen von DNS für euch? 
 
-- Gerade als kleinere Organisation seid ihr häufig selbst verantwortlich für das Management eurer Domain(s), z.B. die Konfiguration der DNS-Records. Hierfür steht euch meistens bei dem Anbieter, bei dem ihr die Domain gekauft habt, ein online Management-Tool zur Verfügung. Dieses Tool ist idealerweise benutzerfreundlich und unterstützt euch bei der Konfiguration von DNS-Records.
+- Gerade als kleinere Organisation seid ihr häufig selbst verantwortlich für das **Management eurer Domain(s)**, z.B. die Konfiguration der DNS-Records. Hierfür steht euch meistens bei dem Anbieter, bei dem ihr die Domain gekauft habt, ein **Online-Management-Tool** zur Verfügung. Dieses Tool ist idealerweise benutzerfreundlich und unterstützt euch bei der Konfiguration von DNS-Records.
 
 - In einer größeren Organisation ist meistens die Haus-IT oder ein externer Dienstleister für das Einrichten und das Management von Domains zuständig.
 
-- Wenn ihr eine Datenanwendung oder [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) entwickelt oder entwickeln lasst, die ihr im Internet bereitstellen wollt, ist das Kaufen einer neuen Domain (meindashboard.org) oder das Hinzufügen von einer Subdomain zu einer bestehenden Domain (dashboard.meineorga.de) notwendig.
+- Wenn ihr eine Datenanwendung oder [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) entwickelt oder entwickeln lasst, die ihr im Internet bereitstellen wollt, ist das Kaufen einer **neuen Domain** (meindashboard.org) **oder das Hinzufügen von einer Subdomain** (dashboard.meineorga.de) zu einer bestehenden Domain notwendig.
 
   - Ihr könnt eine neue Domain im Internet bei einem Web[hosting](https://civic-data.de/selbstlernmaterial/#hosting)-Anbieter (z.B. IONOS, Hetzner, …) oder anderen spezifischen Anbietern kaufen. Hierbei entstehen jährliche Kosten von ca. 10 - 50 Euro.
 
   - Um eine Subdomain zu eurer bestehenden Domain hinzuzufügen, müsst ihr ihre DNS-Records konfigurieren.
 
-- DNS-Server sind oft Ausgangspunkt oder Ziel von digitalen Angriffen. Ein prominentes Beispiel sind *Denial-of-Service* (DoS) Angriffe, bei denen die Domain so oft angefragt wird, dass die DNS-Server überlastet sind und auch legitime Nutzer\*innen die Domain nicht mehr auf den DNS-Servern nachschlagen können. Es gibt heutzutage gute Tools, um sich vor DoS-Angriffen zu schützen. Wenn ihr Sorge habt, dass eure Anwendung oder eure Organisation Ziel von Cyber-Attacken werden könnte, macht es Sinn, sich externe Hilfe zu holen, um euch technisch gut abzusichern.
+- DNS-Server sind oft Ausgangspunkt oder Ziel von digitalen Angriffen. Ein prominentes Beispiel sind ***Denial-of-Service* (DoS) Angriffe**, bei denen die Domain so oft angefragt wird, dass die DNS-Server überlastet sind und auch legitime Nutzer\*innen die Domain nicht mehr auf den DNS-Servern nachschlagen können. Es gibt heutzutage gute Tools, um sich vor DoS-Angriffen zu schützen. Wenn ihr Sorge habt, dass eure Anwendung oder eure Organisation Ziel von Cyber-Attacken werden könnte, macht es Sinn, sich externe Hilfe zu holen, um sich technisch gut abzusichern.
 
 ## Mehr zu DNS
 
 Ohne DNS wäre das Internet nicht so leicht nutzbar, da wir uns nur schwer Zahlenkombinationen wie IP-Adressen merken könnten. Das DNS sorgt dafür, dass das Internet benutzerfreundlich bleibt.
 
-#### Vorteile von DNS
-
-- Einfachheit: Benutzer können leicht verständliche Namen nutzen, statt IP-Adressen.
-
-- Flexibilität: Domains können ihre IP-Adresse wechseln, ohne dass die Nutzer\*innen etwas merken.
-
-- Globalität: DNS ist weltweit verfügbar und standardisiert.
-
-Nachteile von DNS
-
-- Sicherheitsrisiken: DNS kann Ziel von Angriffen wie DoS werden.
-
-- Abhängigkeit: Ein DNS-Ausfall kann große Teile des Internets unzugänglich machen. In diesem Fall müssen die Websites direkt mit der IP-Adresse angesprochen werden, die potentiell dynamisch ist und sich verändert.
+Neben IP-Adressen gibt es auch [weitere DNS-Einträge/Records](https://www.ionos.de/digitalguide/hosting/hosting-technik/dns-records/#c184062) für andere Arten von Informationen, die z.B. für Mail-Server relevant sind.
 
 ### Verwandte Begriffe
 
@@ -461,12 +449,31 @@ Wenn du noch mehr über DNS erfahren möchtest, schaue dir die folgenden Ressour
 - [Life of a DNS query](https://wizardzines.com/comics/life-of-a-dns-query/) Comic (englisch)
 
 - [Chaosradio Express Episode über DNS](https://cre.fm/cre099-domain-name-system) (Podcast)
+
+- [DNS-Records: Wie funktionieren DNS-Einträge?](https://www.ionos.de/digitalguide/hosting/hosting-technik/dns-records/) (Artikel)
 "
 5,Zertifikat,5-zertifikat.md,"# Zertifikat
 ## Erklärung
-### Definition
-Hieran arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Auch bekannt unter: Digitale Zertifikate, SSL/TLS-Zertifikate
+
+### Definition
+
+Digitale Zertifikate sind **Dateien**, die die **Identität oder bestimmte Eigenschaften des Zertifikat-Inhabers** – einer Person, einer Organisation oder eines IT-Systems – **bestätigen**. Zertifikate werden von vertrauenswürdigen Zertifizierungsstellen (CA, en: Certificate Authority) ausgestellt, die die Integrität und Authentizität des Zertifikats garantieren. Zertifikate ermöglichen es unter anderem, sichere Verbindungen herzustellen und Daten zu verschlüsseln. Sie sind daher ein wichtiger **Grundbaustein für ein sicheres Internet**.
+
+Technisch beruhen digitale Zertifikate auf einem mathematischen Verschlüsselungsverfahren (auch Public-Key-Verfahren), das mit **öffentlichen (en: public) und privaten (en: private) Schlüsseln** arbeitet. Mehr dazu erfährst du unten unter “Mehr zu Zertifikaten”.
+
+### Beispiele
+
+- Der Aufruf einer Webseite: Das digitale Zertifikat garantiert, dass der Inhalt wirklich von der Web-Adresse stammt, die man sieht (via HTTPS). Wenn kein Zertifikat hinterlegt bzw. nur HTTP verwendet wird, zeigt der Browser eine Warnung an.
+
+- E-Mail-Signatur: Das digitale Zertifikat bestätigt die Echtheit der E-Mail sowie deren Sender und garantiert die sichere Übertragung an den Empfänger.
+
+- Digitale Signatur: Das digitale Zertifikat identifiziert die unterzeichnende Person oder das unterzeichnende Unternehmen.
+
+  
 ## Wann ist Zertifikat für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -856,9 +863,30 @@ Hieran arbeiten wir noch.
 "
 13,Git,13-git.md,"# Git
 ## Erklärung
-### Definition
-Hieran arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+- Das Wort git bedeutet “unbeliebte Person” im britischen Slang. Der Entwickler von git hat das Projekt humoristisch so benannt, es hat keine weitere Bedeutung für das Programm an sich.
+
+### Definition
+
+Git ist ein **Programm zur Versionskontrolle**. Es ermöglicht es Entwickler\*innen, **Änderungen an Code und anderen Dateien** zu verfolgen, zu verwalten und zu koordinieren.
+
+Git ist wie **ein Logbuch für eure Dateien**. Es ist ein Werkzeug, das alle Änderungen an euren Dokumenten aufzeichnet und speichert, sodass ihr:
+
+- sehen könnt, wer was wann geändert hat
+
+- zu früheren Versionen zurückkehren könnt
+
+- gleichzeitig an denselben Projekten arbeiten könnt, ohne euch gegenseitig zu überschreiben
+
+Programmierprojekte werden häufig mit Git verwaltet und auf Plattformen wie GitHub, GitLab oder Gitea bereitgestellt.
+
+### Beispiele
+
+- [Code für die CorrelAid Website](https://github.com/CorrelAid/correlaid_website/) auf GitHub
+
+  
 ## Wann ist Git für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -880,9 +908,9 @@ Hieran arbeiten wir noch.
 
 ### Definition
 
-**DevOps** ist ein Ansatz in der Softwareentwicklung und IT, bei dem die enge Zusammenarbeit zwischen **Entwicklung** („Development“) und **IT-Betrieb** („Operations“) im Vordergrund steht. In der klassischen Softwareentwicklung (z.B. [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall)) sind Entwicklung und Betrieb meist stark voneinander getrennt und werden oft von unterschiedlichen Abteilungen oder Auftragnehmern durchgeführt. Die Software wird zunächst vollständig entwickelt, abgenommen und anschließend in den Betrieb überführt.
+**DevOps** ist ein Ansatz in der Softwareentwicklung und IT, bei dem die **enge Zusammenarbeit zwischen** **Entwicklung** („Development“) **und IT-Betrieb** („Operations“) im Vordergrund steht. In der klassischen Softwareentwicklung (z.B. [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall)) sind Entwicklung und Betrieb meist stark voneinander getrennt und werden oft von unterschiedlichen Abteilungen oder Auftragnehmern durchgeführt. Die Software wird zunächst vollständig entwickelt, abgenommen und anschließend in den Betrieb überführt.
 
-Bei DevOps hingegen werden Entwicklung und Betrieb in gemeinsamen, agilen Teams integriert. So ergänzt DevOps [agile Methoden](https://civic-data.de/selbstlernmaterial/#agil), indem der Betrieb stärker in den Entwicklungsprozess eingebunden wird und erste fertige Funktionalitäten schnell an die Nutzer\*innen bereitgestellt werden, um frühzeitig Feedback aus der Anwendung zu erhalten. Ziel von DevOps ist es, die Softwarequalität zu erhöhen, Entwicklungszyklen zu verkürzen und Updates schneller bereitzustellen. Zentrale Prinzipien sind die kontinuierliche Integration (Continuous Integration), die kontinuierliche Bereitstellung (Continuous Delivery) und eine weitgehende Automatisierung (siehe auch [CI/CD](https://civic-data.de/selbstlernmaterial/#cicd)).
+Bei DevOps hingegen werden Entwicklung und Betrieb in gemeinsamen, agilen Teams integriert. So ergänzt DevOps [agile Methoden](https://civic-data.de/selbstlernmaterial/#agil), indem der Betrieb stärker in den Entwicklungsprozess eingebunden wird und erste fertige Funktionalitäten schnell an die Nutzer\*innen bereitgestellt werden, um frühzeitig Feedback aus der Anwendung zu erhalten. **Ziel von DevOps** ist es, die **Softwarequalität** zu **erhöhen**, **Entwicklungszyklen** zu **verkürzen** und **Updates** **schneller** **bereitzustellen**. Zentrale Prinzipien sind die kontinuierliche Integration (Continuous Integration), die kontinuierliche Bereitstellung (Continuous Delivery) und eine weitgehende Automatisierung (siehe auch [CI/CD](https://civic-data.de/selbstlernmaterial/#cicd)).
 
 ![](https://civic-data.de/app/uploads/devops.svg)
 
@@ -900,9 +928,9 @@ Bei DevOps hingegen werden Entwicklung und Betrieb in gemeinsamen, agilen Teams 
 
 DevOps ist für euch relevant, wenn...
 
-- … ihr ein eigenes IT-Team habt und Software selbst nach [agilen Methoden](https://civic-data.de/selbstlernmaterial/#agil) entwickelt und betreibt. DevOps hilft, Entwicklungsprozesse zu automatisieren und neue Funktionen und Updates schneller bereitzustellen.
+- … ihr ein **eigenes IT-Team habt** und Software selbst nach [agilen Methoden](https://civic-data.de/selbstlernmaterial/#agil) entwickelt und betreibt. DevOps hilft, Entwicklungsprozesse zu automatisieren und neue Funktionen und Updates schneller bereitzustellen.
 
-- ...eine enge Zusammenarbeit zwischen Softwareentwicklung und IT-Betrieb wichtig ist, um schnell auf Nutzerfeedback, Bugs oder Sicherheitsprobleme reagieren zu können.
+- ...eine **enge Zusammenarbeit zwischen Softwareentwicklung und IT-Betrieb** wichtig ist, um schnell auf Nutzerfeedback, Bugs oder Sicherheitsprobleme reagieren zu können.
 
 Weniger relevant, wenn man die IT komplett an externe Dienstleister auslagert und keinen direkten Einfluss auf Entwicklungs- und Betriebsprozesse hat. Hier hängt die Relevanz von der Fähigkeit des Dienstleisters ab, DevOps-Prinzipien anzuwenden.
 
@@ -912,7 +940,7 @@ Die Einführung von DevOps bedeutet eine enge Verzahnung von Entwicklung und Bet
 
 ### Was braucht man für DevOps?
 
-- **Rahmenbedingungen**:
+- **Rahmenbedingungen**
 
   - Teams müssen kontinuierlich zusammenarbeiten, um eine schnelle Bereitstellung und hohe Softwarequalität zu gewährleisten.
 
@@ -920,7 +948,7 @@ Die Einführung von DevOps bedeutet eine enge Verzahnung von Entwicklung und Bet
 
   - Eine gute und offene Fehlerkultur, um gemeinsam aus Fehlern zu lernen
 
-- **Tools & Infrastruktur**:
+- **Tools & Infrastruktur**
 
   - [Versionskontrolle](https://civic-data.de/selbstlernmaterial/#git) (z.B. Git), [CI/CD](https://civic-data.de/selbstlernmaterial/#cicd)-Pipelines (z.B. GitHub Actions, GitLab CI/CD, Jenkins).
 
@@ -993,7 +1021,7 @@ Wenn du noch mehr über agil erfahren möchtest, schaue dir die folgenden Ressou
 
 ### Definition
 
-“Agil” ist ein Projektmanagement-Konzept, das ursprünglich für die Softwareentwicklung entwickelt wurde, heute aber in unterschiedlichsten Bereichen angewendet wird. Ziel der agilen Arbeitsweise ist es, **Transparenz und Flexibilität** zu erhöhen sowie Risiken im Entwicklungsprozess zu minimieren.
+“Agil” ist ein **Projektmanagement-Konzept**, das ursprünglich für die Softwareentwicklung entwickelt wurde, heute aber in unterschiedlichsten Bereichen angewendet wird. Ziel der agilen Arbeitsweise ist es, **Transparenz und Flexibilität** zu erhöhen sowie Risiken im Entwicklungsprozess zu minimieren.
 
 Im Gegensatz zu klassischen Methoden wie dem [**Wasserfallmodell**](https://civic-data.de/selbstlernmaterial/#wasserfall), die lange Konzeptions- und Planungsphasen voranstellen, wird bei agilen Ansätzen **iterativ** und **inkrementell** gearbeitet. Typische Grundprinzipien sind kurze, sich wiederholende Entwicklungszyklen deren Ziel es ist, möglichst früh ein funktionierendes “Produktinkrement” (z.B. einen funktionierender Prototypen einer Software oder einen Entwurf eines Dokuments) bereitzustellen. Diese Prinzipien lassen sich auch auf Projekte außerhalb der Softwareentwicklung übertragen, bei denen schrittweise Ergebnisse mit relevanten Stakeholdern (de: Teilhaber\*innen, z. B. Geldgeber\*innen, Kund\*innen) diskutiert und weiterentwickelt werden.
 
@@ -1015,7 +1043,7 @@ Agil kann für euch relevant sein, wenn…
 
 ## Was sind die Implikationen von *agil* für euch? 
 
-Mit agilen Methoden zu arbeiten bedeutet, Projekte flexibel und iterativ zu planen und umzusetzen. Statt starrer Planungsmodelle wie dem [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall) wird in kurzen Entwicklungszyklen, den sogenannten [Sprints](https://civic-data.de/selbstlernmaterial/#sprint), gearbeitet. Der Fokus liegt auf regelmäßigem Feedback, enger Zusammenarbeit und kontinuierlicher Verbesserung. Agile Teams reagieren flexibel auf Veränderungen und legen besonderen Wert auf die Bedürfnisse von Stakeholdern.  
+Mit agilen Methoden zu arbeiten bedeutet, **Projekte flexibel und iterativ zu planen und umzusetzen**. Statt starrer Planungsmodelle wie dem [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall) wird in kurzen Entwicklungszyklen, den sogenannten [Sprints](https://civic-data.de/selbstlernmaterial/#sprint), gearbeitet. Der Fokus liegt auf **regelmäßigem Feedback**, **enger Zusammenarbeit** und **kontinuierlicher Verbesserung**. Agile Teams reagieren flexibel auf Veränderungen und legen besonderen Wert auf die Bedürfnisse von Stakeholdern.  
 In der Praxis kombinieren Organisationen oft Elemente verschiedener Methoden, um ihre eigene Vorgehensweise zu entwickeln. Dabei orientieren sie sich häufig an den Prinzipien agiler Frameworks wie SCRUM, passen diese jedoch flexibel an ihre spezifischen Anforderungen und Projektkontexte an.
 
 ### Was braucht man für agiles Arbeiten?
@@ -1157,9 +1185,9 @@ Der Begriff Scrum ist aus dem Rugby entlehnt, wo er ein Gedränge bezeichnet, be
 
 ### Definition
 
-Scrum ist ein [agiles](https://civic-data.de/selbstlernmaterial/#agil) Vorgehensmodell für Projektmanagement, Software- und Produktentwicklung, das auf kurzen Arbeitszyklen ([Sprints](https://civic-data.de/selbstlernmaterial/#sprint)), klaren Rollen und regelmäßigem Feedback basiert. Im Gegensatz zum linearen [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall) ermöglicht Scrum durch sein iteratives Vorgehen ein hohes Maß an Flexibilität und Anpassungsfähigkeit.
+**Scrum** ist ein **[agiles](https://civic-data.de/selbstlernmaterial/#agil) Vorgehensmodell für Projektmanagement, Software- und Produktentwicklung**, das auf kurzen Arbeitszyklen ([Sprints](https://civic-data.de/selbstlernmaterial/#sprint)), klaren Rollen und regelmäßigem Feedback basiert. Im Gegensatz zum linearen [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall) ermöglicht Scrum durch sein iteratives Vorgehen ein hohes Maß an Flexibilität und Anpassungsfähigkeit.
 
-Im Vergleich zu traditionellen Projektmanagementmethoden wie dem PMBOK (Project Management Body of Knowledge), die umfangreiche Vorgaben für jede Projektphase, Rollen, Prozesse und Deliverables machen, ist Scrum bewusst minimalistisch gehalten. Der Scrum Guide umfasst nur rund 20 Seiten und definiert nur die wesentlichen Elemente:
+Im Vergleich zu traditionellen Projektmanagementmethoden wie dem PMBOK (Project Management Body of Knowledge), die umfangreiche Vorgaben für jede Projektphase, Rollen, Prozesse und Deliverables machen, ist **Scrum bewusst minimalistisch gehalten**. Der Scrum Guide umfasst nur rund 20 Seiten und definiert nur die wesentlichen Elemente:
 
 - Drei **Rollen**: Product Owner (priorisiert Anforderungen), Scrum Master (moderiert den Prozess), Entwicklungsteam (setzt Aufgaben um).
 
@@ -1189,13 +1217,29 @@ Nach jedem Sprint findet ein Review statt, bei dem das Team ein fertiges, nutzba
 
 ## Wann ist Scrum für euch relevant? 
 
-Scrum kann für euch relevant sein, wenn ihr [agile](https://civic-data.de/selbstlernmaterial/#agil) Methoden einsetzen wollt und besonders von kurzen Planungszyklen, klaren Rollen und regelmäßigem Feedback profitieren wollt. Insbesondere für dynamische Projekte und interdisziplinäre Teams bietet Scrum einen schlanken, aber effektiven Rahmen. Auch wenn ihr mit Dienstleister\*innen, gerade im IT-Kontext, zusammenarbeitet, werden euch Scrum oder Elemente daraus wahrscheinlich begegnen.
+- Scrum kann für euch relevant sein, wenn ihr **[agile](https://civic-data.de/selbstlernmaterial/#agil) Methoden einsetzen wollt** und besonders von kurzen Planungszyklen, klaren Rollen und regelmäßigem Feedback profitieren wollt.
+
+- Insbesondere für **dynamische Projekte und interdisziplinäre Teams** bietet Scrum einen schlanken, aber effektiven Rahmen.
+
+- Auch wenn ihr mit **Dienstleister\*innen, gerade im IT-Kontext, zusammenarbeitet,** werden euch Scrum oder Elemente daraus wahrscheinlich begegnen.
 
 Als wohl populärste agile Methode in der Softwareentwicklung dient Scrum vielen anderen Ansätzen als Vorbild. Durch Zertifizierungen und externe Unterstützungsmöglichkeiten (z.B. durch zertifizierte Scrum Master, die den Prozess professionell moderieren) kann Scrum sowohl intern als auch in Zusammenarbeit mit externen Dienstleistern effizient umgesetzt werden.
 
 ## Was sind die Implikationen von Scrum für euch? 
 
-Mit Scrum zu arbeiten bedeutet, Projekte in Teams von **maximal 10 Personen** in kurzen [Sprints](https://civic-data.de/selbstlernmaterial/#agil) (meist 1-4 Wochen) zu planen und dabei auf klare Rollenverteilungen, feste Prozesse und transparente Arbeitsweisen zu setzen. Scrum fördert Selbstorganisation und Eigenverantwortung, indem es auf geteilte Verantwortung statt auf eine zentrale Führungsperson setzt. Scrum definiert konkrete **Rollen**, **Prozesse** und **Artefakte**.
+*Hinweis: Grundsätzlich gelten die allgemeinen Vor- und Nachteile [agiler](https://civic-data.de/selbstlernmaterial/#agil) Methoden. Zusätzliche Implikationen von Scrum sind unter anderem::*
+
+- Mit Scrum zu arbeiten bedeutet, Projekte in Teams von **maximal 10 Personen** in kurzen [Sprints](https://civic-data.de/selbstlernmaterial/#agil) (meist 1-4 Wochen) zu planen und dabei auf **klare Rollenverteilungen, feste Prozesse und transparente Arbeitsweisen** zu setzen.
+
+- **Struktur durch feste Rollen, Artefakte und Prozesse:** Scrum gibt dem Team einen klaren Rahmen, ohne die Flexibilität zu verlieren.
+
+- **Geteilte Verantwortung statt zentraler Führung**: Erhöht die Resilienz des Teams, da Entscheidungen nicht von einer Person abhängen.
+
+- **Minimalistischer Ansatz und Umstellung**: Der Scrum Guide gibt nur einen Rahmen vor, aber wenig konkrete Anweisungen. Teams müssen selbst entscheiden, wie genau sie die definierten Prozesse umsetzen. Gerade wenn Scrum neu ist, kann das zu Unklarheiten in den Verantwortungen führen. Gerade bei der Umstellung von klassischen Projektmethoden kann es für klassische Projektleiter\*innen herausfordernd sein, die Kontrolle abzugeben und die Rolle des Scrum Masters oder Product Owners zu übernehmen.
+
+##  Mehr zu Scrum
+
+Scrum wurde in den 90er Jahren von Ken Schwaber und Jeff Sutherland entwickelt. Inspiriert wurden sie durch den Artikel ""The New New Product Development Game"" von Takeuchi und Nonaka (1986), die den Begriff Scrum aus dem Rugby entlehnten, wo ein Scrum (Gedränge) für die enge Zusammenarbeit im Team steht. Seitdem hat sich Scrum als agiles Framework vor allem in der Softwareentwicklung, aber auch in vielen anderen Branchen etabliert. Der regelmäßig aktualisierte Scrum Guide bildet die Grundlage für die weltweite Anwendung und Weiterentwicklung der Methode.
 
 Rollen in Scrum
 
@@ -1236,28 +1280,6 @@ Scrum selbst macht keine festen Vorgaben für Werkzeuge und Infrastruktur. Statt
 - **Kommunikationsplattformen**: Slack, Microsoft Teams für tägliche Meetings und laufende Abstimmungen.
 
 - **Aufgabenverwaltung**: Physische oder digitale Kanban Boards zur Visualisierung des Fortschritts (z.B. „To Do“, „In Progress“, „Done“).
-
-## Mehr zu Scrum
-
-Scrum wurde in den 90er Jahren von Ken Schwaber und Jeff Sutherland entwickelt. Inspiriert wurden sie durch den Artikel ""The New New Product Development Game"" von Takeuchi und Nonaka (1986), die den Begriff Scrum aus dem Rugby entlehnten, wo ein Scrum (Gedränge) für die enge Zusammenarbeit im Team steht. Seitdem hat sich Scrum als agiles Framework vor allem in der Softwareentwicklung, aber auch in vielen anderen Branchen etabliert. Der regelmäßig aktualisierte Scrum Guide bildet die Grundlage für die weltweite Anwendung und Weiterentwicklung der Methode.
-
-### Vorteile von Scrum
-
-Grundsätzlich gelten die allgemeinen Vorteile [agiler](https://civic-data.de/selbstlernmaterial/#agil) Methoden wie Flexibilität, regelmäßige Ergebnisse, Motivation, Transparenz und Zufriedenheit der Stakeholder.
-
-Scrum bietet im Vergleich zu anderen agilen Methoden
-
-- **Struktur durch feste Rollen, Artefakte und Prozesse:** Scrum gibt dem Team einen klaren Rahmen, ohne die Flexibilität zu verlieren.
-
-- **Geteilte Verantwortung statt zentraler Führung**: Erhöht die Resilienz des Teams, da Entscheidungen nicht von einer Person abhängen.
-
-### Nachteile von Scrum
-
-Analog gelten die gleichen Nachteile wie erhöhter Kommunikationsaufwand, Komplexität bei großen Projekten, Overhead bei zu kleinen Projekten und schwierige Kostenschätzung.
-
-Zusätzliche Herausforderungen insbesondere bei Scrum:
-
-- **Minimalistischer Ansatz und Umstellung**: Der Scrum Guide gibt nur einen Rahmen vor, aber wenig konkrete Anweisungen. Teams müssen selbst entscheiden, wie genau sie die definierten Prozesse umsetzen. Gerade wenn Scrum neu ist, kann das zu Unklarheiten in den Verantwortungen führen. Gerade bei der Umstellung von klassischen Projektmethoden kann es für klassische Projektleiter\*innen herausfordernd sein, die Kontrolle abzugeben und die Rolle des Scrum Masters oder Product Owners zu übernehmen.
 
 ### Verwandte Begriffe
 
@@ -1747,13 +1769,13 @@ Synonyme: Virtueller Assistent, Conversational Agent, KI-Assistent, Dialogsystem
 
 ### Definition
 
-Ein Chatbot ist ein Programm, das mithilfe von statistischen Modellen menschliche Kommunikation nachahmen kann. Chatbot-Programme werden genutzt, um Fragen zu beantworten, Informationen bereitzustellen, Gespräche zu führen oder Aufgaben zu automatisieren. Moderne Chatbots nutzen hierfür [Künstliche-Intelligenz](https://civic-data.de/selbstlernmaterial/#ki) (KI)-Technologien wie [maschinelles Lernen](https://civic-data.de/selbstlernmaterial/#ml) und insbesondere große Sprachmodelle (en: [Large Language Models](https://civic-data.de/selbstlernmaterial/#llm) (LLMs)), während klassische Chatbots einen regelbasierten Ansatz verfolgen.
+Ein **Chatbot** ist ein **Programm, das mithilfe von statistischen Modellen menschliche Kommunikation nachahmen kann**. Chatbot-Programme werden genutzt, um Fragen zu beantworten, Informationen bereitzustellen, Gespräche zu führen oder Aufgaben zu automatisieren. Moderne Chatbots nutzen hierfür [Künstliche-Intelligenz](https://civic-data.de/selbstlernmaterial/#ki)-Technologien wie [maschinelles Lernen](https://civic-data.de/selbstlernmaterial/#ml) und insbesondere große Sprachmodelle (en: [Large Language Models](https://civic-data.de/selbstlernmaterial/#llm), Abk: LLMs), während klassische Chatbots einen regelbasierten Ansatz verfolgen.
 
 ### Beispiele
 
 - FAQ-Bot auf einer Website, der Standardfragen zu Öffnungszeiten oder Kontaktinformationen beantwortet.
 
-- KI-Chatbots wie ChatGPT, Claude, DeepSeek, Gemini, Microsoft Copilot oder Perplexity, die komplexe Konversationen nachahmen können.
+- KI-Chatbots wie ChatGPT, Claude, DeepSeek, Gemini, Copilot oder Perplexity, die komplexe Konversationen nachahmen können.
 
 - Aus der Zivilgesellschaft:
 
@@ -1765,9 +1787,9 @@ Ein Chatbot ist ein Programm, das mithilfe von statistischen Modellen menschlich
 
 ## Wann sind Chatbots für euch relevant? 
 
-- Existierende Chatbots verwenden: KI-/LLM-gestützte Chatbots wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt), Claude oder le chat haben das Potenzial, euch bei diversen Aspekten eurer Arbeit zu unterstützen. Wir verweisen hier auf die Sektionen Relevanz und Implikationen des Begriffs [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
+- **Existierende Chatbots verwenden**: KI-/LLM-gestützte Chatbots wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt), Claude oder CoPilot haben das Potenzial, euch bei diversen Aspekten eurer Arbeit zu unterstützen. *Wir verweisen hier auf die Sektionen Relevanz und Implikationen des Begriffs [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki).*
 
-- Ein eigener Chatbot für eure Organisation: Chatbot-Technologien – ob regelbasiert oder KI-gestützt – können auch relevant sein, wenn ihr einen eigenen Chatbot entwickeln (lassen) wollt. Ein Chatbot kann eine Lösung sein, wenn …
+- **Ein eigener Chatbot für eure Organisation**: Chatbot-Technologien – ob regelbasiert oder KI-gestützt – können auch relevant sein, wenn ihr einen eigenen Chatbot entwickeln (lassen) wollt. Ein Chatbot kann eine Lösung sein, wenn …
 
   - … ihr wiederkehrende Fragen oder Interaktionen automatisieren möchtet, um Ressourcen zu sparen.
 
@@ -1862,11 +1884,9 @@ Englische Übersetzung: database
 
 ### Definition
 
-Eine Datenbank ist ein **strukturierter Speicherort** für Daten, damit diese schnell und einfach wieder abgerufen und bearbeitet werden können. Eine Datenbank **speichert** **unterschiedliche Daten und verknüpft sie miteinander**.
+Eine Datenbank ist ein **strukturierter Speicherort** für Daten, damit diese schnell und einfach wieder abgerufen und bearbeitet werden können. Eine Datenbank **speichert** **unterschiedliche Daten und verknüpft sie miteinander**. Eine Datenbank eines gemeinnützigen Vereins könnte z.B. in drei Tabellen Informationen über die Vereinsmitglieder, die von ihnen erhaltenen Spenden und die aktuellen Projekte, für die Spenden gesammelt werden, enthalten.
 
-Eine Datenbank eines gemeinnützigen Vereins könnte z.B. je eine Tabelle für die Vereinsmitglieder, die empfangenen Spenden und die aktuellen Projekte, die der Verein unterstützt, enthalten.
-
-Man kann zwischen verschiedenen Arten von Datenbanken unterscheiden, z.B. relationalen [SQL](https://civic-data.de/selbstlernmaterial/#sql)-Datenbanken und NoSQL Datenbanken. Mehr dazu lernst du im Abschnitt “Mehr zu Datenbanken”.
+Für die Erstellung und Verwaltung einer Datenbank benötigt ihr ein **Datenbank-Management-System (DBMS)**. Mit einem DBMS können Administrator\*innen **Datenbanken erstellen, strukturieren, ändern und verwalten**. Es regelt Zugriffsrechte, kümmert sich um Datensicherheit und sorgt für korrekte sowie konsistente Speicherung. In der Praxis werden die Begriffe Datenbank und DBMS häufig synonym verwendet.
 
 ### Beispiele
 
@@ -1874,11 +1894,11 @@ Beispiele für Datenbanken sind unter anderem:
 
 - Vereinsmitglieder-Datenbank (Liste aller Vereinsmitglieder mit Kontaktdaten)
 
-- Spendendatenbank für NGOs
+- Spendendatenbank in CiviCRM
 
 - Projektdatenbank aller laufenden und abgeschlossenen Projekte inkl. Status, verantwortlicher Person, etc.
 
-- <span class=""mark"">Populäre Datenbank-Technologien sind derzeit (Stand April 2025): Oracle, MySQL, PostgreSQL, MongoDB, Redis, SQLite</span>
+Populäre Datenbank-Management-Systeme sind derzeit (Stand April 2025): Oracle, MySQL, PostgreSQL, MongoDB, Redis, SQLite
 
 ## Wann sind Datenbanken für euch relevant? 
 
@@ -1900,13 +1920,13 @@ Datenbanken können dann relevant sein, …
 
 - Um eine Datenbank nutzen zu können, benötigt ihr meistens **Kenntnisse der Programmiersprache [SQL](https://civic-data.de/selbstlernmaterial/#sql)**.
 
-- Die meisten Datenbanken benötigen einen **[Server](https://civic-data.de/selbstlernmaterial/#server),** auf dem ein [Datenbank-Management-System (DBMS)](https://civic-data.de/selbstlernmaterial/#dbms) (z.B. PostgreSQL, MySQL, Oracle, Microsoft SQL Server) läuft.
+- Die meisten Datenbanken benötigen einen **[Server](https://civic-data.de/selbstlernmaterial/#server),** auf dem das Datenbank-Management-System (DBMS) (z.B. PostgreSQL, MySQL, Oracle, Microsoft SQL Server) läuft.
 
-  - Wenn ihr selbst eine Datenbank in der Cloud hosten möchtet, benötigt ihr Kompetenzen in Datenbank- und Server-Administration (vgl. Self-Hosting bei [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)). Ihr seid außerdem verantwortlich für die Datensicherheit eurer Datenbank. Es fallen meistens Kosten für das Hosting des Servers an.
+  - Wenn ihr selbst eine Datenbank in der Cloud betreiben möchtet, benötigt ihr Kompetenzen in Datenbank- und Server-Administration (vgl. Self-Hosting bei [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)). Ihr seid außerdem verantwortlich für die Datensicherheit eurer Datenbank. Es fallen meistens Kosten für das Hosting des Servers an.
 
   - Es gibt die meisten Datenbanken auch als **gehostetes Angebot** (vgl. Managed Hosting bei [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)). Es gibt meistens kostenlose Einstiegsangebote und Bezahlmodelle, falls ihr mehr Speicherplatz oder fortgeschrittene Funktionen benötigt.
 
-- Es gibt auch **Datenbanken, die keinen Server benötigen**. Diese haben weniger Funktionen (z.B. kaum Möglichkeiten, Zugriffsrechte zu konfigurieren), dafür entfällt der Aufwand für Server-Administration. Beispiele für solche Datenbanken sind SQLite und DuckDB. Sie eignen sich besonders gut für **kleinere, weniger komplexe Anwendungen** und lokale Anwendungen.
+- Es gibt auch Datenbank-Management-Systeme, die keinen Server benötigen, sondern **in einer einzelnen Datei verpackt** sind (z.B. SQLite, DuckDB). Diese haben weniger Funktionen (z.B. kaum Möglichkeiten, Zugriffsrechte zu konfigurieren), dafür entfällt der Aufwand für Server-Administration. Sie eignen sich besonders gut für **kleinere, weniger komplexe Anwendungen** und lokale Anwendungen.
 
 - Auch wenn es immer mehr grafische Benutzeroberflächen für Datenbanken gibt, sind sie in der Regel noch nicht so benutzerfreundlich und intuitiv wie Excel & Co. Es kann z.B. nötig sein, das [Terminal](https://civic-data.de/selbstlernmaterial/#terminal) zu verwenden, um mit der Datenbank zu interagieren. Technologien wie Airtable, Baserow und NocoDB versuchen, die Vorteile von Datenbanken mit einer intuitiveren grafischen Benutzeroberfläche zu verbinden.
 
@@ -1914,7 +1934,7 @@ Datenbanken können dann relevant sein, …
 
 ## Mehr zu Datenbanken
 
-Die am weitesten verbreitete Art von Datenbanken sind die **relationalen Datenbanken**. Diese speichern Daten in Tabellen, die miteinander verknüpft werden. Die Meta-Informationen, wie die Tabellen aussehen und wie sie miteinander verknüpft sind, nennt man **Schema**. Diese Festlegung der Datenstruktur ist ein großer Vorteil von relationalen Datenbanken, da sie Sicherheit schafft.
+Man kann zwischen verschiedenen Arten von Datenbanken unterscheiden, z.B. relationalen [SQL](https://civic-data.de/selbstlernmaterial/#sql)-Datenbanken und NoSQL Datenbanken. Die am weitesten verbreitete Art von Datenbanken sind die **relationalen Datenbanken**. Diese speichern Daten in Tabellen, die miteinander verknüpft werden. Die Meta-Informationen, wie die Tabellen aussehen und wie sie miteinander verknüpft sind, nennt man **Schema**. Diese Festlegung der Datenstruktur ist ein großer Vorteil von relationalen Datenbanken, da sie Sicherheit schafft.
 
 ![](https://civic-data.de/app/uploads/datenbank-schema.svg)
 
@@ -1928,8 +1948,6 @@ Für spezielle Anwendungsfälle gibt es auch unterschiedliche Arten von **nicht-
 
 ### Verwandte Begriffe
 
-- Für die Erstellung und Verwaltung einer Datenbank benötigt ihr ein Datenbank-Management-System ([DBMS](https://exampl.com/dbms)). Häufig wird der Begriff Datenbank synonym verwendet für das verwendete DBMS, z.B. spricht man von einer PostgreSQL-Datenbank, obwohl es sich bei PostgreSQL um ein DBMS handelt.
-
 - Ein [Data Warehouse](https://civic-data.de/selbstlernmaterial/#data-warehouse) ist ein Datenbanksystem, das speziell für betriebswirtschaftliche Analysen eingesetzt wird und aufbereitete Daten enthält
 
 - Ein [Data Lake](https://civic-data.de/selbstlernmaterial/#data-lake) ist ein Speichersystem für alle möglichen Arten von Daten, hauptsächlich eingesetzt zum Speichern von noch nicht aufbereiteten Daten (sog. Rohdaten)
@@ -1938,32 +1956,17 @@ Für spezielle Anwendungsfälle gibt es auch unterschiedliche Arten von **nicht-
 
 ## Weiterführende Materialien
 
-Wenn du noch mehr über Datenbanken erfahren möchtest, schaue dir die folgenden Ressourcen an:
+Wenn du noch mehr über Datenbanken und Datenbank-Management-Systeme erfahren möchtest, schaue dir die folgenden Ressourcen an:
 
-- [Wikipedia Eintrag](https://de.wikipedia.org/wiki/Datenbank)
+- [Wikipedia Eintrag - Datenbank](https://de.wikipedia.org/wiki/Datenbank) (de)
 
 - [What is a database?](https://www.youtube.com/watch?v=hRulZhTtUTg) (YouTube, englisch)
 
 - [Database vs Data Warehouse vs Data Lake | What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM) (YouTube, englisch)
 
 - [Datenbank Grundlagen einfach erklärt](https://www.youtube.com/watch?v=-LJYaXfR2X4) (YouTube, deutsch)
-"
-28,Datenbank- Management- System (DBMS),28-datenbank-management-system-dbms.md,"# Datenbank- Management- System (DBMS)
-## Erklärung
-### Definition
-Hieran arbeiten wir noch.
 
-## Wann ist Datenbank- Management- System (DBMS) für euch relevant?
-Hieran arbeiten wir noch.
-
-## Was sind die Implikationen von Datenbank- Management- System (DBMS) für euch? 
-Hieran arbeiten wir noch.
-
-## Mehr zu Datenbank- Management- System (DBMS)   
-Hieran arbeiten wir noch.
-
-## Weiterführende Materialien
-Hieran arbeiten wir noch.
+- [What is a DBMS?](https://www.youtube.com/watch?v=wM-4U0zpM8g) (YouTube, englisch)
 "
 29,Data Warehouse (DWH),29-data-warehouse-dwh.md,"# Data Warehouse (DWH)
 ## Erklärung
@@ -1976,25 +1979,25 @@ Auch bekannt unter: DWH
 
 ### Definition
 
-Ein Data Warehouse (DWH) ist ein spezielles System zur langfristigen Speicherung und Analyse großer Datenmengen aus unterschiedlichen Quellen. Vereinfacht lässt es sich als Sammlung mehrerer [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank) betrachten.
+Ein Data Warehouse (DWH) ist ein spezielles **System zur langfristigen Speicherung und Analyse großer Datenmengen aus unterschiedlichen Quellen**. Vereinfacht lässt es sich als Sammlung mehrerer [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank) betrachten.
 
-In einem Data Warehouse werden Daten aus verschiedenen Systemen zusammengeführt, bereinigt, umgeformt und historisiert gespeichert. Damit können Anwender\*innen umfassende Analysen durchführen und Trends über lange Zeiträume beobachten.
+In einem Data Warehouse werden Daten aus verschiedenen Systemen zusammengeführt, bereinigt, umgeformt und historisiert gespeichert. Damit können Anwender\*innen **umfassende Analysen** durchführen und **Trends über lange Zeiträume** beobachten.
 
 ### Beispiele
 
 - Data Warehouses in Unternehmen (z. B. für Finanzreporting, Vertriebsanalysen)
 
-- Hypothetisch: NGO-Data-Warehouse, das Spender\*innen-Daten, Kampagnen- und Projektdaten aus verschiedenen Tools zusammenführt
+- Hypothetisch: NPO-Data-Warehouse, das Spender\*innen-Daten, Kampagnen- und Projektdaten aus verschiedenen Tools zusammenführt
 
 - Momentan sind uns keine realen Anwendungsbeispiele in der Zivilgesellschaft bekannt
 
 ## Wann sind Data Warehouses für euch relevant? 
 
-- Wenn ihr schon mehrere Datenbanken habt und die Daten aus diesen Datenbanken verknüpfen, zusammenführen und analysieren wollt
+- Wenn ihr schon **mehrere Datenbanken** habt und die Daten aus diesen Datenbanken verknüpfen, zusammenführen und analysieren wollt
 
-- Wenn ihr die Daten aus einer zentralen, wichtigen Datenbank analysieren möchtet und es wichtig ist, die Datenbank nicht mit der Analyse zu belasten.
+- Wenn ihr die Daten aus einer zentralen, wichtigen Datenbank analysieren möchtet und es wichtig ist, diese Datenbank nicht mit der Analyse zu belasten.
 
-- Data Warehouses sind wahrscheinlich nicht relevant für euch, wenn ihr wenig Daten und / oder wenige Datenbanken habt
+- Data Warehouses sind wahrscheinlich **nicht relevant** für euch, wenn ihr **wenig Daten und / oder wenige Datenbanken** habt
 
 ## Was sind die Implikationen von Data Warehouses für euch? 
 
@@ -2027,8 +2030,6 @@ Data Warehouses werden oft zusammen genutzt mit Business-Intelligence- oder [Dat
 - Pflegeintensiv
 
 ### Verwandte Begriffe
-
-- Im Gegensatz zum Data Warehouse liegt das Hauptaugenmerk einer [Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank) meistens auf dem Speichern von Daten zum Ermöglichen von Geschäftsabläufen (z.B. Online-Bestellungen) und nicht auf der Ermöglichung der Analyse
 
 - Im Vergleich zu einem Data Warehouse ist ein [Data Lake](https://civic-data.de/selbstlernmaterial/#data-lake) sehr viel weniger strukturiert und hat einen starken Fokus auf die Ablage von Rohdaten
 
@@ -2080,9 +2081,37 @@ Hieran arbeiten wir noch.
 "
 31,SQL,31-sql.md,"# SQL
 ## Erklärung
-### Definition
-Hieran arbeiten wir noch.
 
+### Synonyme & Übersetzungen
+
+Deutsche Übersetzung**:** Strukturierte Abfragesprache (meist nur als SQL bezeichnet)
+
+Auch bekannt als**:** „Sequel“ (umgangssprachliche Aussprache)
+
+### Definition
+
+SQL (Structured Query Language) ist eine **[Programmiersprache](https://civic-data.de/selbstlernmaterial/#sql) zum Erstellen, Abfragen, Aktualisieren und Verwalten von Daten** in relationalen [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank).
+
+Während Tabellenkalkulationsprogramme wie Excel euch für diese Aufgaben eine grafische Benutzeroberfläche bereitstellen, arbeitet SQL mit **Befehlen** wie *INSERT*, *SELECT*, *UPDATE* oder *DELETE*. Diese und viele weitere Befehle können in SQL-Datenbanken verwendet werden, um **Daten zu erstellen, zu manipulieren und abzufragen**, **(Meta-)Daten zu definieren und festzulegen**, Änderungen nachvollziehbar und ggf. rückgängig zu machen sowie Benutzer\*innen und deren [Berechtigungen zu verwalten](https://civic-data.de/selbstlernmaterial/#permission-management).
+
+### Beispiele
+
+Ein Verein verwaltet seine Spenderdatenbank in einer SQL-Datenbank (komplettes Beispiel bei “Mehr zu Datenbanken” bei [Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank)). Die Analystin kann die Daten mithilfe von SQL analysieren:
+
+*SELECT \* FROM Spenden WHERE Betrag &gt; 100;*
+
+→ gibt alle Spalten (*SELECT \**) aus der Tabelle mit dem Namen “Spenden” (*FROM Spenden*) alle Zeilen, bei denen der Spendenbetrag größer als 100 ist (*WHERE Betrag &gt; 100*)
+
+Die Analystin möchte nun die Summe der Spenden berechnen, die für das Projekt “Sommerfest” gesammelt wurden, um festzustellen, ob schon genügend Geld zusammengekommen ist.
+
+*SELECT SUM(s.Betrag)  
+FROM Spenden s  
+JOIN Projekte p ON s.Projekt\_id = p.ID  
+WHERE p.Beschreibung = 'Sommerfest';*
+
+Sie **verknüpft** dazu mit dem *JOIN* Befehl die **Tabellen** *Spenden* mit der Tabelle *Projekte* und setzt mithilfe von *WHERE* einen **Filter** auf das Projekt Sommerfest. Die Summe wird mithilfe der *SUM* Funktion berechnet.
+
+  
 ## Wann ist SQL für euch relevant?
 Hieran arbeiten wir noch.
 
@@ -2149,7 +2178,7 @@ Englische Übersetzung: Data Visualization, Abkürzung: DataViz
 
 ### Definition
 
-Datenvisualisierung ist die grafische Darstellung von Informationen und Daten. Mittels visueller Elemente wie Diagramme, Grafiken und Karten werden Daten in einer Weise aufbereitet, die komplexe Zusammenhänge verständlich macht und Muster, Trends sowie Ausreißer leichter erkennbar werden lässt.
+Datenvisualisierung ist die **grafische Darstellung von Informationen und Daten**. Mittels visueller Elemente wie **Diagramme**, **Grafiken** und **Karten** werden Daten in einer Weise aufbereitet, die komplexe Zusammenhänge verständlich macht und Muster, Trends sowie Ausreißer leichter erkennbar werden lässt.
 
 ### Beispiele
 
@@ -2169,37 +2198,37 @@ Datenvisualisierung ist die grafische Darstellung von Informationen und Daten. M
 
 ## Wann ist Datenvisualisierung für euch relevant? 
 
-Datenvisualisierungen sind erst einmal relevant, weil sie euch im Rahmen eurer Arbeit oder eures Engagements begegnen werden – in wissenschaftlichen Berichten und Studien, journalistischen Artikeln, auf Webseiten, in Newslettern, in den sozialen Medien oder in digitalen Tools. Datenvisualisierungen “lesen” und verstehen zu können, ist daher eine zentrale Dimension von Datenkompetenz (en: Data Literacy). In der [Civic Data Academy](https://civic-data.de/lernen/) findet ihr zahlreiche Lernangebote zum Thema.
+Datenvisualisierungen sind erst einmal relevant, weil sie euch im Rahmen eurer Arbeit oder eures Engagements begegnen werden – in wissenschaftlichen Berichten und Studien, journalistischen Artikeln, auf Webseiten, in Newslettern, in den sozialen Medien oder in digitalen Tools. **Datenvisualisierungen “lesen” und verstehen zu können, ist daher eine zentrale Dimension von Datenkompetenz (en: Data Literacy)**. In der [Civic Data Academy](https://civic-data.de/lernen/) findet ihr zahlreiche Lernangebote zum Thema.
 
-Neben dem “Konsum” von Datenvisualisierungen kann es für euch auch relevant sein, selbst Daten zu visualisieren, insbesondere wenn es darum geht, komplexe Informationen verständlich und wirkungsvoll zu kommunizieren. Zum Beispiel könnt ihr Datenvisualisierungen erstellen und verwenden, …
+Neben dem “Konsum” von Datenvisualisierungen kann es für euch auch relevant sein, **selbst Daten zu visualisieren**, insbesondere wenn es darum geht, komplexe Informationen verständlich und wirkungsvoll zu kommunizieren. Zum Beispiel könnt ihr Datenvisualisierungen erstellen und verwenden, …
 
-- … um im Sinne der Wirkungsmessung Kennzahlen zur Wirkung eurer Arbeit darzustellen (z.B. Output- oder Outcome-Kennzahlen wie Anzahl erreichter Personen). Solche Visualisierungen könnt ihr in Präsentationen und Berichten für Stakeholder und Fördermittelgeber\*innen einbinden
+- … um im Sinne der **Wirkungsmessung** Kennzahlen zur Wirkung eurer Arbeit darzustellen (z.B. Output- oder Outcome-Kennzahlen wie Anzahl erreichter Personen). Solche Visualisierungen könnt ihr in Präsentationen und Berichten für Stakeholder und Fördermittelgeber\*innen einbinden
 
-- … um zu zeigen wie Spendengelder verwendet werden
+- … um zu zeigen wie **Spendengelder** verwendet werden
 
-- … um eure Ausgaben für die Mitgliederversammlung aufzuschlüsseln
+- … um eure **Ausgaben** für die Mitgliederversammlung **aufzuschlüsseln**
 
-- … um auf gesellschaftliche Missstände aufmerksam zu machen und Bewusstsein zu schaffen für Probleme
+- … um **auf gesellschaftliche Missstände aufmerksam zu machen** und Bewusstsein zu schaffen für Probleme
 
-- … um Entscheidungen vorzubereiten und datenbasierter entscheiden zu können
+- … um **Entscheidungen vorzubereiten** und datenbasierter entscheiden zu können
 
-- ... um Projekte datenbasiert zu planen und zu evaluieren
+- ... um **Projekte datenbasiert zu planen** und zu evaluieren
 
-- … um Statistiken über Engagement und Wachstum eurer Organisation darzustellen
+- … um Statistiken über **Engagement und Wachstum eurer Organisation darzustellen**
 
 ## Was sind die Implikationen von Datenvisualisierung für euch? 
 
-- Ihr braucht ein passendes Tool und eine Datenquelle ([Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank), [Data Warehouse](https://civic-data.de/selbstlernmaterial/#data-warehouse), Excel), um eine Datenvisualisierung zu erstellen
+- Ihr braucht ein **passendes Tool** und **eine Datenquelle** ([Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank), [Data Warehouse](https://civic-data.de/selbstlernmaterial/#data-warehouse), Excel), um eine Datenvisualisierung zu erstellen
 
-- Bei der Nutzung von Tools entstehen ggf. monatliche Lizenzkosten (z. B. Tableau, Power BI Pro)
+- Bei der Nutzung von Tools entstehen **ggf. monatliche Lizenzkosten** (z. B. Tableau, Power BI Pro)
 
-- Wie viel Zeit und Ressourcen ihr in die Erstellung von Datenvisualisierungen steckt, hängt maßgeblich von der Art ihrer Verwendung ab. Auf der einen Seite könnt ihr Datenvisualisierung als Werkzeug nutzen, um schnell und iterativ Erkenntnisse zu gewinnen. Auf der anderen Seite steht die Verwendung als bewusst gestaltetes Kommunikationsmittel, um Informationen gezielt an eure Zielgruppen zu vermitteln.
+- Wie viel **Zeit und Ressourcen** ihr in die Erstellung von Datenvisualisierungen steckt, hängt maßgeblich von der Art ihrer Verwendung ab. Auf der einen Seite könnt ihr Datenvisualisierung als Werkzeug nutzen, um schnell und iterativ Erkenntnisse zu gewinnen. Auf der anderen Seite steht die Verwendung als bewusst gestaltetes Kommunikationsmittel, um Informationen gezielt an eure Zielgruppen zu vermitteln.
 
-  - In vielen Fällen dient eine Visualisierung einfach dazu, Daten verständlicher zu machen, Muster zu erkennen oder erste Analysen durchzuführen (z.B. im Rahmen einer ersten [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) oder als Teil von [deskriptiver Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik)). In solchen Fällen ist die Visualisierung eher kurzfristig und zweckgebunden – hier sind die von eurem Tool vorgeschlagenen Darstellungsarten, Farben und Einstellungen häufig schon ausreichend.
+  - **Werkzeug zum Erkenntnisgewinn**: In vielen Fällen dient eine Visualisierung einfach dazu, Daten verständlicher zu machen, Muster zu erkennen oder erste Analysen durchzuführen (z.B. im Rahmen einer ersten [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) oder als Teil von [deskriptiver Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik)). In solchen Fällen ist die Visualisierung eher kurzfristig und zweckgebunden – hier sind die von eurem Tool vorgeschlagenen Darstellungsarten, Farben und Einstellungen häufig schon ausreichend.
 
-  - Wenn ihr eine Datenvisualisierung gezielt für die externe Kommunikation nutzen wollt, ist das anders. Hier ist das Ziel, eine Geschichte zu erzählen, Zusammenhänge klar darzustellen oder eine Botschaft überzeugend zu vermitteln. Hier solltet ihr mehr Zeit in die bewusste Gestaltung, Informationsauswahl und Anpassung stecken, damit eure Visualisierung ihre Wirkung entfalten kann.
+  - **Kommunikationsmittel**: Wenn ihr eine Datenvisualisierung gezielt für die externe Kommunikation nutzen wollt, ist das anders. Hier ist das Ziel, eine Geschichte zu erzählen, Zusammenhänge klar darzustellen oder eine Botschaft überzeugend zu vermitteln. Hier solltet ihr mehr Zeit in die bewusste Gestaltung, Informationsauswahl und Anpassung stecken, damit eure Visualisierung ihre Wirkung entfalten kann.
 
-- Daten müssen sauber aufbereitet sein, sonst sind die Grafiken irreführend. Aber auch bei faktisch richtigen Daten können Datenvisualisierungen (unbeabsichtigt) in die Irre führen oder manipulativ sein. Gerade wenn ihr Visualisierungen für die externe Kommunikation verwendet, solltet ihr darauf achten, dass sie möglichst verständlich und nicht überfrachtet sind.
+- **Daten müssen sauber aufbereitet sein**, sonst sind die Grafiken irreführend. Aber auch bei faktisch richtigen Daten können Datenvisualisierungen (unbeabsichtigt) in die Irre führen oder manipulativ sein. Gerade wenn ihr Visualisierungen für die externe Kommunikation verwendet, solltet ihr darauf achten, dass sie möglichst verständlich und nicht überfrachtet sind.
 
 ## Mehr zu Datenvisualisierung 
 
@@ -2229,11 +2258,11 @@ Um eine effektive Datenvisualisierung zu erstellen, solltet ihr einen strukturie
 
 **Data Storytelling**
 
-Ein weiterer Begriff, der oft im Zusammenhang mit Datenvisualisierungen fällt, ist der Begriff Data Storytelling (de: Geschichten mit Daten erzählen). Data Storytelling bezeichnet das Vorgehen, Daten in einer Erzählstruktur zu präsentieren, um komplexe Informationen verständlich und anschaulich zu vermitteln. Durch die Kombination von Daten, Visualisierungen und Erzählstrukturen werden Zusammenhänge deutlich und Entscheidungen unterstützt. Ziel ist es, die Zielgruppe zu informieren und zum Handeln anzuregen.
+Ein weiterer Begriff, der oft im Zusammenhang mit Datenvisualisierungen fällt, ist der Begriff **Data Storytelling** (de: Geschichten mit Daten erzählen). Data Storytelling bezeichnet das Vorgehen, **Daten in einer Erzählstruktur zu präsentieren, um komplexe Informationen verständlich und anschaulich zu vermitteln**. Durch die Kombination von Daten, Visualisierungen und Erzählstrukturen werden Zusammenhänge deutlich und Entscheidungen unterstützt. Ziel ist es, die Zielgruppe zu informieren und zum Handeln anzuregen.
 
 **Tools für die Datenvisualisierung**
 
-Eine Übersicht über einige Tools für die Datenvisualisierung und -analyse findet ihr im Artikel zum Thema [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse).
+*Hinweis: Eine Übersicht über einige Tools für die Datenvisualisierung und -analyse findet ihr im Artikel zum Thema [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse).*
 
 ### Verwandte Begriffe
 
@@ -2280,7 +2309,7 @@ Englische Übersetzung: Data Analysis, Data Analytics
 
 ### Definition
 
-Datenanalyse ist der Prozess, bei dem Rohdaten untersucht, bereinigt, umgewandelt und ausgewertet werden, um nützliche Informationen zu gewinnen, Schlussfolgerungen zu ziehen und Entscheidungen zu unterstützen. Es geht darum, aus Daten Erkenntnisse und Wissen zu generieren.
+Datenanalyse ist der **Prozess**, bei dem Rohdaten **untersucht, bereinigt, umgewandelt und ausgewertet** werden, um nützliche Informationen zu gewinnen, Schlussfolgerungen zu ziehen und Entscheidungen zu unterstützen. Es geht darum, **aus** **Daten Erkenntnisse und Wissen zu generieren**.
 
 Datenanalyse umfasst sowohl den Bereich der [deskriptiven Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik) (z.B. die Berechnung von Mittelwerten) als auch den Einsatz von Verfahren der [Künstlichen Intelligenz](https://civic-data.de/selbstlernmaterial/#ki) oder des [Maschinellen Lernens](https://civic-data.de/selbstlernmaterial/#ml).
 
@@ -2296,7 +2325,7 @@ Datenanalyse umfasst sowohl den Bereich der [deskriptiven Statistik](https://civ
 
 ## Wann ist Datenanalyse für euch relevant?
 
-Generell ist Datenanalyse immer dann für euch relevant, wenn ihr Daten habt, aus denen ihr Erkenntnisse ziehen möchtet.
+Generell ist Datenanalyse immer dann für euch relevant, wenn ihr Daten habt, aus denen ihr **Erkenntnisse ziehen** möchtet.
 
 Das kann z.B. der Fall sein, wenn…
 
@@ -2314,7 +2343,7 @@ Das kann z.B. der Fall sein, wenn…
 
 ## Was sind die Implikationen von Datenanalyse für euch? 
 
-- In Daten können wichtige Erkenntnisse für eure Arbeit stecken, deshalb lohnt es sich, Zeit in die Analyse zu stecken. Trotzdem gilt: Eine Datenanalyse ist kein Allheilmittel, sondern nur ein Werkzeug, um …
+- In Daten können wichtige Erkenntnisse für eure Arbeit stecken, deshalb lohnt es sich, Zeit in die Analyse zu stecken. Trotzdem gilt: Eine Datenanalyse ist kein Allheilmittel, sondern nur **ein Werkzeug**, um …
 
   - … fundierte, datenbasierte strategische und operative Entscheidungen zu treffen
 
@@ -2330,17 +2359,17 @@ Das kann z.B. der Fall sein, wenn…
 
   - … eure Förderanträge mit Zahlen zu untermauern oder eure Verhandlungsposition mit Förderern zu stärken
 
-- Je sauberer und qualitätsvoller eure Daten, desto aussagekräftiger eure Analyse -&gt; schon bei der Datenerhebung und -erfassung auf die Qualität der Daten achten.
+- Je **sauberer und qualitätsvoller eure Daten, desto aussagekräftiger eure Analyse**. Achtet daher schon bei der Datenerhebung und -erfassung auf die Qualität der Daten.
 
-- Achtet auf den Grundsatz der Datenminimierung (vgl. DSGVO) und erhebt möglichst wenig personenbezogene Daten. Stellt sicher, dass ihr eine Rechtsgrundlage für die Analyse von personenbezogenen Daten habt (siehe [Webinar ""Datenschutz im Ehrenamt: Datenbestände rechtskonform nutzen""](https://stiftungdatenschutz.org/ehrenamt/webinare/webinare-detailseite/datenschutz-im-ehrenamt-datenbestaende-rechtskonform-nutzen-293))
+- Achtet auf den **Grundsatz der Datenminimierung** (vgl. DSGVO) und erhebt möglichst wenig personenbezogene Daten. Stellt sicher, dass ihr eine Rechtsgrundlage für die Analyse von personenbezogenen Daten habt (siehe [Webinar ""Datenschutz im Ehrenamt: Datenbestände rechtskonform nutzen""](https://stiftungdatenschutz.org/ehrenamt/webinare/webinare-detailseite/datenschutz-im-ehrenamt-datenbestaende-rechtskonform-nutzen-293))
 
 - Einfache Analysen – zählen, Mittelwerte berechnen, Kreuztabellen etc. – könnt ihr mit ein bisschen Einarbeitung selbst in einem Tabellenkalkulationsprogramm wie Excel umsetzen.
 
 - Wenn ihr häufiger Daten analysiert oder komplexere Methoden (z.B. Machine Learning) einsetzen möchtet, kann es notwendig und sinnvoll sein, ein leistungsstärkeres Tool einzurichten (siehe unten) oder eine Programmiersprache zu lernen.
 
-- Bei der Interpretation können Fehler passieren, wenn der Datenkontext sehr komplex wird oder wenn ihr über typische logische Fehlschlüsse (z.B. Ökologischer Fehlschluss; Schließen von Korrelation auf Kausalität) stolpert. Es ist wichtig, bei der Interpretation den Entstehungsprozess der Daten zu berücksichtigen: auf welcher Ebene habt ihr eure Daten erhoben (individueller Ebene, Gruppenebene,...)? Ist es wahrscheinlich, dass Verzerrungen vorliegen (z.B. weil nur Leute teilgenommen haben, denen das Event gefallen hat)?
+- Bei der **Interpretation** können **Fehler** passieren, wenn der Datenkontext sehr komplex wird oder wenn ihr über typische logische Fehlschlüsse (z.B. Ökologischer Fehlschluss; Schließen von Korrelation auf Kausalität) stolpert. Es ist wichtig, bei der Interpretation den Entstehungsprozess der Daten zu berücksichtigen: auf welcher Ebene habt ihr eure Daten erhoben (individueller Ebene, Gruppenebene,...)? Ist es wahrscheinlich, dass Verzerrungen vorliegen (z.B. weil nur Leute teilgenommen haben, denen das Event gefallen hat)?
 
-- Auch wenn es naheliegend und verlockend erscheint: KI-Chatbots wie ChatGPT und Co. eignen sich nicht für die Analyse von Daten, da die darunterliegenden [Large-Language-Models](https://civic-data.de/selbstlernmaterial/#llm) (LLMs) nicht rechnen können, sondern nur wahrscheinlichkeitsbasierte Vorhersagen für den nächsten Buchstaben treffen (siehe dieser [Blog-Artikel](https://hackernoon.com/lang/de/warum-kann-eine-KI-die-Anzahl-der-rs-im-Wort-Erdbeere-nicht-z%C3%A4hlen))
+- Auch wenn es naheliegend und verlockend erscheint: **KI-Chatbots wie ChatGPT und Co. eignen sich nicht für die Analyse von Daten**, da die darunterliegenden [Large-Language-Models](https://civic-data.de/selbstlernmaterial/#llm) (LLMs) nicht rechnen können, sondern nur wahrscheinlichkeitsbasierte Vorhersagen für das nächste Wort treffen (siehe dieser [Blog-Artikel](https://hackernoon.com/lang/de/warum-kann-eine-KI-die-Anzahl-der-rs-im-Wort-Erdbeere-nicht-z%C3%A4hlen))
 
 ## Mehr zu Datenanalyse 
 
@@ -2380,13 +2409,13 @@ Hier ist eine Liste von nützlichen Tools für die Datenanalyse:
 
   - Ideal für: Einfache Analysen (siehe auch [Deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik)), Kreuztabellen, grundlegende Visualisierungen, geeignet für Einsteiger\*innen
 
-  - Bsp: Microsoft Excel, Google Sheets, Apple Numbers, LibreOffice Calc
+  - z.B. Microsoft Excel, Google Sheets, Apple Numbers, LibreOffice Calc
 
 - Interaktive Datenvisualisierungstools (siehe auch [Datenvisualisierung](https://civic-data.de/selbstlernmaterial/#datenvisualisierung))
 
   - Ideal für: Umfassendere Visualisierungen und Analysen, Verbindung zu verschiedenen Datenquellen, Interaktive Dashboards
 
-  - Bsp: Tableau, PowerBI, LookerStudio, QlikView, DataWrapper, Metabase, RAWgraphs, scimago Graphica
+  - z.B. Tableau, PowerBI, LookerStudio, QlikView, DataWrapper, Metabase, RAWgraphs, scimago Graphica
 
   - Tipp: Interaktive Datenvisualisierungstools finden sich häufig auch unter dem Begriff “Business Intelligence”
 
@@ -2394,13 +2423,13 @@ Hier ist eine Liste von nützlichen Tools für die Datenanalyse:
 
   - Ideal für: visuelle Workflows, fortgeschrittene Analyse bis hin zum Machine Learning
 
-  - Bsp: KNIME (Open-Source-Tool)
+  - z.B. KNIME (Open-Source-Tool)
 
 - [Programmiersprachen](https://civic-data.de/selbstlernmaterial/#programmiersprache)
 
   - Ideal für: Statistische Analysen, benutzerdefinierte Visualisierungen, Flexible Datenanalyse und maschinelles Lernen, erfordert Programmierkenntnisse
 
-  - Bsp: Python, R, SPSS, Stata
+  - z.B. Python, R, SPSS, Stata
 
   - Tipp: Mit Frameworks wie Quarto (Python/R), Jupyter Notebooks (Python) und RMarkdown (R) könnt ihr Text, Analysen und Datenvisualisierung in einer Datei kombinieren und reproduzierbare Berichte erstellen. Als Output-Formate stehen z.B. PDF oder HTML-Dateien zur Verfügung.
 
@@ -2410,11 +2439,11 @@ Hier ist eine Liste von nützlichen Tools für die Datenanalyse:
 
 - Oft ist es hilfreich für die Datenanalyse, [Programmiersprachen](https://civic-data.de/selbstlernmaterial/#programmiersprache) wie Python oder R zu verstehen und zu beherrschen.
 
-- Für das Zusammentragen der Daten für die Analyse aus verschiedenen Quellen können bei fortgeschrittenen Setups Prozesse wie Extract, Transform, Load ( [ETL](https://civic-data.de/selbstlernmaterial/#etl)) zum Einsatz kommen.
+- Für das Zusammentragen der Daten für die Analyse aus verschiedenen Quellen können bei fortgeschrittenen Anwendungsfällen Prozesse wie Extract, Transform, Load ([ETL](https://civic-data.de/selbstlernmaterial/#etl)) zum Einsatz kommen.
 
 - [Deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik): Der Begriff Deskriptive Statistik umfasst mathematische Methoden, mit denen man Daten strukturiert und aussagekräftig zusammenfasst. Eine solche Zusammenfassung ist fast immer der erste Schritt einer Datenanalyse.
 
-- Künstliche Intelligenz ([KI](https://civic-data.de/selbstlernmaterial/#ki)) und Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)): Künstliche Intelligenz und Machine Learning sind Begriffe, die jeweils bestimmte Technologien umfassen, die menschliche Fähigkeiten nachahmen können (KI) oder aus Mustern lernen können (ML). KI- und ML-Technologien können Teil einer Datenanalyse sein (z.B. eine Analyse, die mithilfe von Computer Vision auf Bildern Vogelarten erkennt), müssen sie aber nicht. Viele Erkenntnisse können mit “klassischen” statistischen Methoden der deskriptiven Statistik und der Datenvisualisierung aus Daten gewonnen werden.
+- Künstliche Intelligenz ([KI](https://civic-data.de/selbstlernmaterial/#ki)) und Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)): Künstliche Intelligenz und Machine Learning sind Begriffe, die jeweils bestimmte Technologien umfassen, die menschliche Fähigkeiten nachahmen können (KI) oder aus Mustern lernen können (ML). KI- und ML-Technologien können Teil einer Datenanalyse sein (z.B. eine Analyse, die mithilfe von Computer Vision auf Bildern Vogelarten erkennt), müssen sie aber nicht. **Viele Erkenntnisse können mit “klassischen” statistischen Methoden der deskriptiven Statistik und der Datenvisualisierung aus Daten gewonnen werden**.
 
 - Business Intelligence (BI): Business Intelligence (BI) ist ein Geschäftsbereich, der Technologien, Anwendungen und Praktiken zur Sammlung, Integration, Analyse und Präsentation von Unternehmensdaten umfasst. Der Begriff fokussiert auf den Unternehmenskontext und ist umfassender als Datenanalyse. Datenanalysen sind Teil von Business Intelligence, somit können viele BI-Tools auch für die Umsetzung von Datenanalysen im NPO-Kontext relevant sein.
 
@@ -2497,7 +2526,7 @@ Synonym: Künstliche Intelligenz
 
 ### Definition
 
-Der Begriff Künstliche Intelligenz (de: KI, en: AI) umfasst Modelle und Anwendungen , die die Fähigkeit haben, menschenähnliches Verhalten in eng umrissenen Domänen mithilfe von mathematischen Methoden nachzuahmen. Die rasante Entwicklung solcher Technologien hat in den vergangenen Jahren dafür gesorgt, dass sie mittlerweile fest in unser Leben integriert sind. KI-Modelle können Muster in großen Datenmengen erkennen und verallgemeinern und so Aussagen über neue bisher ungesehene Daten machen.
+Der Begriff **Künstliche Intelligenz** (de: KI, en: AI) **umfasst Modelle und Anwendungen** , die die Fähigkeit haben, **menschenähnliches Verhalten** in eng umrissenen Domänen **mithilfe von mathematischen Methoden nachzuahmen**. Die rasante Entwicklung solcher Technologien hat in den vergangenen Jahren dafür gesorgt, dass sie mittlerweile fest in unser Leben integriert sind. KI-Modelle können **Muster in großen Datenmengen erkennen und verallgemeinern** und so Aussagen über neue bisher ungesehene Daten machen.
 
 ### Beispiele
 
@@ -2515,57 +2544,49 @@ Der Begriff Künstliche Intelligenz (de: KI, en: AI) umfasst Modelle und Anwendu
 
 Um herauszufinden, ob KI für euch und eure Situation relevant ist, ist es wichtig, den Begriff KI zu kennen und abgrenzen zu können. Seit ein paar Jahren ist ein Hype um KI ausgebrochen. Das hat dazu geführt, dass der Begriff KI sehr diffus verwendet wird und nicht selten “alles, was mit Computern zu tun hat, ob Digitalisierung, Algorithmen oder Software” ([Quelle: Rainer Rehak](https://www.weizenbaum-institut.de/news/detail/der-hype-um-kuenstliche-intelligenz/)) meint.
 
-- Häufig ist KI in der Arbeit mit Daten nicht relevant. Eine einfache Auswertung von Umfragedaten mit Kreuztabellen und der Berechnung von [deskriptiver Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik), die [Darstellung von Daten](https://civic-data.de/selbstlernmaterial/#datenvisualisierung) in einem Dashboard oder die Automatisierung von Prozessen können häufig in der Praxis mit klassischen Data-Science-Methoden und Software-Entwicklung gelöst werden. Das gleiche gilt für das Erstellen einer Umfrage, Datenmanagement in Excel oder das Einrichten einer [Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank). KI ist hier nicht relevant, weil keine Modelle verwendet werden, die menschliches Verhalten nachahmen sollen.
+- **Häufig ist KI in der Arbeit mit Daten nicht relevant.** Eine einfache Auswertung von Umfragedaten mit Kreuztabellen und der Berechnung von [deskriptiver Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik), die [Darstellung von Daten](https://civic-data.de/selbstlernmaterial/#datenvisualisierung) in einem Dashboard oder die Automatisierung von Prozessen können häufig in der Praxis mit klassischen Data-Science-Methoden und Software-Entwicklung gelöst werden. Das gleiche gilt für das Erstellen einer Umfrage, Datenmanagement in Excel oder das Einrichten einer [Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank). KI ist hier nicht relevant, weil keine Modelle verwendet werden, die menschliches Verhalten nachahmen sollen.
 
-- KI bzw. spezifische Methoden, die unter den Oberbegriff KI fallen, können relevant sein, wenn ihr Herausforderungen mit Daten lösen möchtet, die den Einsatz von Methoden und Modellen erfordern, die “menschliches Verhalten” nachahmen. Das kann zum Beispiel der Fall sein, wenn ihr anhand von Daten Vorhersagen für die Zukunft treffen möchtet, wenn ihr Muster in euren Daten erkennen möchtet oder wenn ihr einen Chatbot bereitstellen möchtet, der auf euren Daten basiert.
+- KI bzw. spezifische Methoden, die unter den Oberbegriff KI fallen, können relevant sein, **wenn ihr Herausforderungen mit Daten lösen möchtet**, die den Einsatz von Methoden und Modellen erfordern, **die “menschliches Verhalten” nachahmen**. Das kann zum Beispiel der Fall sein, wenn ihr anhand von Daten **Vorhersagen für die Zukunft** treffen möchtet, wenn ihr **Muster in euren Daten erkennen** möchtet oder wenn ihr einen **Chatbot bereitstellen** möchtet, der auf euren Daten basiert.
 
 ## Was sind die Implikationen von KI für euch? 
 
-Hinweis: Viele weitere, hier nicht genannte Implikationen von spezifischen Teilbereichen von KI haben wir in den jeweiligen Kapiteln, wie Machine Learning, Generativer KI und LLM vermerkt.
+*Hinweis: Viele weitere, hier nicht genannte Implikationen von spezifischen Teilbereichen von KI haben wir in den jeweiligen Kapiteln, wie [Machine Learning](https://civic-data.de/selbstlernmaterial/#ml),* [*Generativer KI*](https://civic-data.de/selbstlernmaterial/#generative-ki) *und [LLM](https://civic-data.de/selbstlernmaterial/#llm) vermerkt.*
 
-- Wie bei jeder anderen Technologie stellt sich auch bei KI die Frage: Wie und wofür wollen wir KI einsetzen? Es ist wichtig, sich mit den Risiken kritisch auseinanderzusetzen und wertebasierte Entscheidungen zu treffen, um KI verantwortungsvoll zu nutzen. Im Projekt [Demokratische KI von D64 e.V.](https://demokratische-ki.de/) könnt ihr mehr über diesen Themenkomplex erfahren.
+- Wie bei jeder anderen Technologie stellt sich auch bei KI die Frage: Wie und wofür wollen wir KI einsetzen? Es ist wichtig, sich **mit den Risiken kritisch auseinanderzusetzen** und **wertebasierte Entscheidungen** zu treffen, um KI verantwortungsvoll zu nutzen. Im Projekt [Demokratische KI von D64 e.V.](https://demokratische-ki.de/) könnt ihr mehr über diesen Themenkomplex erfahren.
 
-- Durch den Einsatz von KI könnt ihr womöglich wertvolle Zeit sparen. Prozesse und Anwendungen können schneller, präziser oder überhaupt erst ermöglicht werden.
+- Durch den Einsatz von KI könnt ihr womöglich wertvolle **Zeit sparen:** Wiederkehrende Aufgaben können schneller und präziser erledigt werden. Häufig wird hierfür [Machine Learning (ML)](https://civic-data.de/selbstlernmaterial/#ml) verwendet.
 
-- Viele KI-Anwendungen basieren auf Angeboten der großen [Cloud](https://civic-data.de/selbstlernmaterial/#cloud)-Anbieter wie Amazon, Microsoft, Google und OpenAI (Anbieter von [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) und den dahinter liegenden Modellen). Selbst wenn eine Software aus Deutschland kommt, heißt dies nicht, dass nicht im Hintergrund eben diese Services verwendet werden. Hier ist besondere Vorsicht geboten, wenn ihr mit Daten arbeitet, die datenschutzrelevant oder in anderer Weise sensibel sind. Es ist wichtig zu verstehen, was mit euren Daten passiert, wenn ihr sie mit KI-Anwendungen verarbeitet.
+- Heutzutage existieren für vielen Problemstellungen schon **vorgefertige KI Systeme, auf die man eigene Lösungen aufbauen kann**
 
-- Euch sollte außerdem bewusst sein, dass KI-Modelle keinesfalls objektiv sind, sondern genau dieselben stereotypischen Muster wiedergeben, wie sie in den Daten, mit denen diese Modelle entwickelt worden sind, enthalten sind. Das ist besonders kritisch, wenn mit Daten zu marginalisierten / diskriminierten Gruppen gearbeitet wird.
+  - z.B. [Large Language Models](https://civic-data.de/selbstlernmaterial/#llm), die in Chatbots wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) eingesetzt werden
 
-- Es gibt inzwischen viele sogenannte KI-Basismodelle (en: Foundation Model), die viele Standard-Anwendungsfälle abdecken (z.B. Erkennen von Texten auf Fotos, Umwandlung von Sprache zu Text). Auf diesen Basismodellen könnt ihr aufbauen und müsst nicht jedes KI-Modell von Grund auf selbst entwickeln. Mehr dazu könnt ihr beim Begriff [Machine Learning](https://civic-data.de/selbstlernmaterial/#ml) erfahren.
+  - Generative KI Modelle, die Bilder erzeugen können, wie z.B. [Midjourney](https://www.midjourney.com/home) helfen z.B. bei der Erstellung von Social Media Beiträgen. Lest hierzu in unserem Kapitel über [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki) mehr.
 
-- Wenn ihr eine eigene Anwendung mit einem KI-Modell entwickeln (lassen) wollt, dann müsst ihr für den Betrieb der Anwendung und ggf. des Modells finanzielle Ressourcen für das [Hosting](https://civic-data.de/selbstlernmaterial/#hosting) einplanen.
+  - Es gibt inzwischen viele sogenannte KI-Basismodelle (en: Foundation Model), die viele Standard-Anwendungsfälle abdecken (z.B. Erkennen von Texten auf Fotos, Umwandlung von Sprache zu Text). Auf diesen Basismodellen könnt ihr aufbauen und müsst nicht jedes KI-Modell von Grund auf selbst entwickeln. Mehr dazu könnt ihr beim Begriff [Machine Learning](https://civic-data.de/selbstlernmaterial/#ml) erfahren.
+
+- Viele KI-Anwendungen basieren auf Angeboten der großen [Cloud](https://civic-data.de/selbstlernmaterial/#cloud)-Anbieter wie Amazon, Microsoft, Google und OpenAI (Anbieter von [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) und den dahinter liegenden Modellen). Selbst wenn eine Software aus Deutschland kommt, heißt dies nicht, dass nicht im Hintergrund eben diese Services verwendet werden. Hier ist besondere **Vorsicht geboten, wenn ihr mit Daten arbeitet, die datenschutzrelevant oder in anderer Weise sensibel sind**. Es ist wichtig zu verstehen, was mit euren Daten passiert, wenn ihr sie mit KI-Anwendungen verarbeitet.
+
+- Euch sollte außerdem bewusst sein, dass **KI-Modelle keinesfalls objektiv** sind, sondern genau dieselben stereotypischen Muster wiedergeben, wie sie in den Daten, mit denen diese Modelle entwickelt worden sind, enthalten sind. Das ist besonders kritisch, wenn mit Daten zu marginalisierten / diskriminierten Gruppen gearbeitet wird.
+
+- Wenn ihr eine eigene Anwendung mit einem KI-Modell entwickeln (lassen) wollt, dann müsst ihr für den Betrieb der Anwendung und ggf. des Modells **finanzielle Ressourcen für das [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)** einplanen.
+
+- Eine gängige Redewendung unter KI-Wissenschaftler\*innen ist “**Garbage in, garbage out**”. Das bedeutet, das KI-System kann nur so gut sein, wie die Daten, von denen es gelernt hat.
+
+- Schlechte oder unausgewogene Daten können zu **fehlerhaften, verzerrten Ergebnissen** führen. Ein berühmtes Beispiel ist ein KI-gestütztes System für die Auswertung von Gerichtsverfahren in den USA. Es ordnete systematisch Menschen bestimmter Ethnizitäten höhere Strafen zu, unabhängig von der eigentlichen Straftat.
+
+- Komplexe KI-Systeme (insbesondere Deep Learning) und die **Entscheidungen, die sie treffen, sind oft schwer nachvollziehbar**. Hierfür wird häufig der englische Begriff „Black Box"" (deutsch: “schwarze Box”) verwendet. Es muss besonderer Aufwand betrieben werden, um Systeme transparenter zu machen, was bei fremd betriebener Software eventuell gar nicht möglich sein könnte.
+
+- Außerdem **kann KI auch für Straftaten verwendet werden**, wie das Versenden von real aussehenden Betrugs-E-Mails oder für das Erstellen von gefälschten Videos (sogenannte [Deepfakes](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/Deepfakes/deepfakes_node.html)). Es könnte in Zukunft also unmöglich werden, gefälschte Informationen zu identifizieren.
+
+- **KI Modelle scheitern häufig an Problemen, die für Menschen absolut einfach sind**. Es ist relativ unvorhersehbar, welche diese Themen sind, die für KI Modelle besonders schwer sind. Ein Beispiel ist, dass viele KI Sprachmodelle daran scheitern, zu zählen, wie oft der Buchstabe “r” im Wort “strawberry” vorkommt (s. dazu diesen [Artikel](https://www.inc.com/kit-eaton/how-many-rs-in-strawberry-this-ai-cant-tell-you.html)).
+
+- Forschung, Entwicklung und Implementierung von KI Modellen sind anspruchsvoll und kostenintensiv. Die Entwicklung des Modells GPT-4 hinter der beliebten Anwendung [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) hat laut CEO der entwickelnden Firma mehr als $100 Millionen gekostet.Gerade die großen KI-Modelle wie GPT verbrauchen **enorme Strom- und Wasserressourcen**. Mehr dazu könnt ihr in diesem [Blog Post](https://civic-data.de/klimafaktor-ki/) erfahren.
 
 ## Mehr zu KI
 
 Trotz oder gerade wegen des Hypes um KI setzen sich viele Akteur\*innen kritisch mit KI auseinander, v.a. mit bestimmten Anwendungsfällen, die große Risiken für die Gesellschaft und/oder Menschengruppen haben könnten. Diese Debatte findet unter den Schlagwörtern Ethical AI / AI Ethics (de: ethische KI / KI-Ethik) und Accountable AI (de: verantwortliche KI bzw. KI, die zur Verantwortung gezogen werden kann) statt.
 
 Die Möglichkeiten, die sich durch den Einsatz von KI-Software eröffnen, sind vielfältig. KI wird heutzutage als Sammelbegriff für viele Themen verwendet. Wir verlinken dir hier auch andere Themen, die mehr Informationen zu einzelnen Themen bieten.
-
-### Vorteile von KI
-
-- Wiederkehrende Aufgaben können schneller und präziser erledigt werden. Häufig wird hierfür [Machine Learning (ML)](https://civic-data.de/selbstlernmaterial/#ml) verwendet.
-
-- Heutzutage existieren für vielen Problemstellungen schon vorgefertige KI Systeme, auf die man eigene Lösungen aufbauen kann
-
-  - z.B. [Large Language Models](https://civic-data.de/selbstlernmaterial/#llm), die in Chatbots wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) eingesetzt werden
-
-  - Generative KI Modelle, die Bilder erzeugen können, wie z.B. [Midjourney](https://www.midjourney.com/home) helfen z.B. bei der Erstellung von Social Media Beiträgen. Lest hierzu in unserem Kapitel über [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki) mehr.
-
-### Nachteile von KI
-
-- KI-Systeme benötigen oft sehr große Datenmengen; Datenschutz und Datensicherheit sind kritische Themen.
-
-- Außerdem kann KI auch für Straftaten verwendet werden, wie das Versenden von real aussehenden Betrugs-E-Mails oder für das Erstellen von gefälschten Videos (sogenannte [Deepfakes](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/Deepfakes/deepfakes_node.html)). Es könnte in Zukunft also unmöglich werden, gefälschte Informationen zu identifizieren.
-
-- Eine gängige Redewendung unter KI-Wissenschaftler\*innen ist “Garbage in, garbage out”. Das bedeutet, das KI-System kann nur so gut sein, wie die Daten, von denen es gelernt hat.
-
-- Schlechte oder unausgewogene Daten können zu fehlerhaften, verzerrten Ergebnissen führen. Ein berühmtes Beispiel ist ein KI-gestütztes System für die Auswertung von Gerichtsverfahren in den USA. Es ordnete systematisch Menschen bestimmter Ethnizitäten höhere Strafen zu, unabhängig von der eigentlichen Straftat.
-
-- Komplexe KI-Systeme (insbesondere Deep Learning) und die Entscheidungen, die sie treffen, sind oft schwer nachvollziehbar. Hierfür wird häufig der englische Begriff „Black Box"" (deutsch: “schwarze Box”) verwendet. Es muss besonderer Aufwand betrieben werden, um Systeme transparenter zu machen, was bei fremd betriebener Software eventuell gar nicht möglich sein könnte.
-
-- KI Modelle scheitern häufig an Problemen, die für Menschen absolut einfach sind. Es ist relativ unvorhersehbar, welche diese Themen sind, die für KI Modelle besonders schwer sind. Ein Beispiel ist, dass viele KI Sprachmodelle daran scheitern, zu zählen, wie oft der Buchstabe “r” im Wort “strawberry” vorkommt (s. dazu diesen [Artikel](https://www.inc.com/kit-eaton/how-many-rs-in-strawberry-this-ai-cant-tell-you.html)).
-
-- Forschung, Entwicklung und Implementierung von KI Modellen sind anspruchsvoll und kostenintensiv. Die Entwicklung des Modells GPT-4 hinter der beliebten Anwendung [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) hat laut CEO der entwickelnden Firma mehr als $100 Millionen gekostet.Gerade die großen KI-Modelle wie GPT verbrauchen enorme Strom- und Wasserressourcen. Mehr dazu könnt ihr in diesem [Blog Post](https://civic-data.de/klimafaktor-ki/) erfahren.
 
 ### Verwandte Begriffe
 
@@ -2604,15 +2625,15 @@ Deutsche Übersetzung: Maschinelles Lernen
 
 ### Definition
 
-Machine Learning (ML) ist ein Teilgebiet der Künstlichen Intelligenz ([KI](https://civic-data.de/selbstlernmaterial/#ki)). Machine Learning Methoden lernen Muster aus Beispieldaten und können diese Muster für die Einordnung neuer Daten verwenden. Ein Standard-Beispiel dafür ist ein Spam-Filter: Ein ML-Modell lernt aus unzähligen als Spam markierten und “normalen” E-Mails, was eine Spam-Mail auszeichnet und nutzt dieses Muster, um zukünftige Mails automatisch als Spam zu flaggen. Diese Mustererkennung wird oft auch “Training” genannt und basiert auf statistischen Verfahren. Die anschließende Zuordnung von neu ankommenden Mails als Spam ist der zweite Schritt und wird als “Inferenz” bezeichnet.
+Machine Learning (ML) ist ein Teilgebiet der Künstlichen Intelligenz ([KI](https://civic-data.de/selbstlernmaterial/#ki)). Machine Learning Methoden **lernen Muster aus Beispieldaten** und können diese Muster für die **Einordnung neuer Daten** verwenden. Ein Standard-Beispiel dafür ist ein Spam-Filter: Ein ML-Modell lernt aus unzähligen als Spam markierten und “normalen” E-Mails, was eine Spam-Mail auszeichnet und nutzt dieses Muster, um zukünftige Mails automatisch als Spam zu flaggen. Das **Lernen der Muster** wird oft auch **“Training”** genannt und basiert auf statistischen Verfahren. Die anschließende Zuordnung von neu ankommenden Mails als Spam ist der zweite Schritt und wird als “**Inferenz**” bezeichnet.
 
 ### Beispiele
 
 - Viele [KI](https://civic-data.de/selbstlernmaterial/#ki) Systeme wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) basieren auf Methoden der Machine Learning Familie.
 
-- Die Wettervorhersage ist ein einfaches Anwendungsbeispiel von prädiktivem Machine Learning. Vergangene Temperaturdaten sowie Daten von unterschiedlichen Sensoren werden genutzt, um die Temperatur in der Zukunft zu schätzen.
+- Die Wettervorhersage ist ein einfaches Anwendungsbeispiel von **prädiktivem (vorhersagendem) Machine Learning**. Vergangene Temperaturdaten sowie Daten von unterschiedlichen Sensoren werden genutzt, um die Temperatur in der Zukunft zu schätzen.
 
-- ML Modelle können auch für die Lösung von Klassifikationsaufgaben eingesetzt werden. Das Ziel ist es, eine Beobachtung zu klassifizieren, d.h. Sie einer Kategorie zuzuweisen. Zum Beispiel wie in dem eingangs erwähnten Beispiel des Spam-Filters: eine Mail wird entweder der Kategorie “Spam” oder der Kategorie “in Ordnung” zugewiesen bzw. klassifiziert.
+- ML Modelle können auch für die Lösung von **Klassifikationsaufgaben** eingesetzt werden. Das Ziel ist es, eine Beobachtung zu klassifizieren, d.h. Sie einer Kategorie zuzuweisen. Zum Beispiel wie in dem eingangs erwähnten Beispiel des Spam-Filters: eine Mail wird entweder der Kategorie “Spam” oder der Kategorie “in Ordnung” zugewiesen bzw. klassifiziert.
 
 - In der Zivilgesellschaft werden ML Methoden zum Beispiel benutzt, um Imker zu warnen, wenn ihr Bienen ausschwärmen (in diesem Fall lernt das ML Modell von Sensordaten aus dem Bienenstock) - weiterführende Informationen zum BeeObserver findet ihr [hier](https://www.correlaid.org/daten-nutzen/projektdatenbank/2019-10-BEE/)
 
@@ -2622,15 +2643,15 @@ Machine Learning (ML) ist ein Teilgebiet der Künstlichen Intelligenz ([KI](http
 
 Maschinelles Lernen ist für euch relevant, wenn …
 
-- … ihr prognostische Werte für die Zukunft basierend auf vergangenen Daten schätzen wollt
+- … ihr **prognostische Werte für die Zukunft** basierend auf vergangenen Daten schätzen wollt
 
-- … verborgene, euch noch unbekannte Muster in euren Daten finden wollt
+- … verborgene, euch **noch unbekannte Muster** in euren Daten finden wollt
 
-- … bestimmte, technisch komplexere Tätigkeiten automatisieren wollt, beispielsweise das Auslesen von Rechnungen oder die Kodierung von Antworten auf offene Fragen
+- … bestimmte, **technisch komplexere Tätigkeiten automatisieren** wollt, beispielsweise das Auslesen von Rechnungen oder die Kodierung von Antworten auf offene Fragen
 
-- … Bilder und Videos als Daten habt und Informationen aus diesen extrahieren möchtet
+- … **Bilder und Videos als Daten** habt und Informationen aus diesen extrahieren möchtet
 
-- … Medien wie Texte, Bilder und Videos mit Hilfe von [generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki) erstellen wollt.
+- … **Medien** wie Texte, Bilder und Videos mit Hilfe von [generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki) **erstellen** wollt.
 
 Außerdem ist Machine Learning immer mehr im Alltag präsent - viele Software-Anwendungen haben inzwischen Elemente, die auf Machine Learning zurückgreifen (häufig als “[KI](https://civic-data.de/selbstlernmaterial/#ki)” vermarktet).
 
@@ -2638,55 +2659,55 @@ Außerdem ist Machine Learning immer mehr im Alltag präsent - viele Software-An
 
 *Hinweis: Da Machine Learning ein Teilgebiet von Künstlicher Intelligenz ist, gibt es viele Implikationen, die sich Machine Learning mit KI teilt. Diese werden hier nicht wiederholt, sondern wir verweisen auf den entsprechenden Absatz beim Begriff [KI](https://civic-data.de/selbstlernmaterial/#ki).*
 
-- Um Machine Learning nutzen zu können, benötigt ihr hochwertige und diverse Daten. Viele Modelle benötigen eine bestimmte Menge an Daten, um valide Ergebnisse zu liefern. Gerade bei einer kleinen Anzahl von Beobachtungen in euren Daten solltet ihr euch daher fragen, ob es nicht sinnvoller ist, auf weniger komplexe Methoden zurückzugreifen, um Wissen zu extrahieren.
+- Um Machine Learning nutzen zu können, benötigt ihr **hochwertige und diverse Daten**. Viele Modelle benötigen eine bestimmte Menge an Daten, um valide Ergebnisse zu liefern. Gerade bei einer **kleinen Anzahl von Beobachtungen** in euren Daten solltet ihr euch daher fragen, ob es nicht sinnvoller ist, auf **weniger komplexe Methoden** zurückzugreifen, um Wissen zu extrahieren.
 
 - Um den Prozess der Methodenfindung einzugrenzen, muss in jedem Fall eine [deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik) erstellt werden, bevor die Modellierung mit ML beginnt.
 
-- Wenn ihr selbst Machine Learning anwenden möchtet, sind Programmierkenntnisse (insbesondere in den [Programmiersprachen](https://civic-data.de/selbstlernmaterial/#programmiersprache) Python oder R) von Vorteil. Einfache Modellierungen könnt ihr aber auch mit Software wie [Excel](https://www.microsoft.com/de-de/microsoft-365/excel?market=de), [KNIME](https://www.knime.com/) oder [Tableau](https://www.tableau.com/de-de) durchführen.
+- Wenn ihr selbst Machine Learning anwenden möchtet, sind **Programmierkenntnisse** (insbesondere in den [Programmiersprachen](https://civic-data.de/selbstlernmaterial/#programmiersprache) Python oder R) von Vorteil. Einfache Modellierungen könnt ihr aber auch mit Software wie [Excel](https://www.microsoft.com/de-de/microsoft-365/excel?market=de), [KNIME](https://www.knime.com/) oder [Tableau](https://www.tableau.com/de-de) durchführen.
 
-- Um ein eigenes ML-Modell zu trainieren, benötigt ihr Rechenkapazitäten wie Arbeitsspeicher (RAM) und Speicherplatz. Die Anforderungen sind abhängig von der Datenmenge, dem Datentyp und der Komplexität des Modells.
+- Um ein eigenes ML-Modell zu trainieren, benötigt ihr **Rechenkapazitäten** wie Arbeitsspeicher (RAM) und Speicherplatz. Die Anforderungen sind abhängig von der Datenmenge, dem Datentyp und der Komplexität des Modells.
 
   - Kleinere, technisch weniger komplexe Modelle wie z.B. Klassifikationen und Regressionen lassen sich gut auf dem eigenen Rechner trainieren und nutzen.
 
   - Für das Training von großen Modellen wird meistens auf [Cloud](https://civic-data.de/selbstlernmaterial/#cloud)-Kapazitäten zurückgegriffen. Die großen [Cloud](https://civic-data.de/selbstlernmaterial/#cloud)-Anbieter haben spezielle Machine-Learning-Angebote, die den Einstieg ins Machine Learning erleichtern sollen. Hier entstehen je nach Verbrauch Kosten.
 
-- Für Standard-Anwendungsfälle wie die Verarbeitung von Text und Bildern gibt es inzwischen viele vortrainierte Open-Source-Modelle, auf die ihr zurückgreifen könnt. So umfasst die Plattform [Hugging Face](https://huggingface.com) über 1 Million vortrainierte Modelle und 300.000 Datensätze (Stand: Februar 2025). Diese Modelle könnt ihr entweder direkt nutzen oder auf ihnen aufbauen und sie mit euren eigenen Daten anpassen (en: “finetuning”).
+- Für **Standard-Anwendungsfälle** wie die Verarbeitung von Text und Bildern gibt es inzwischen viele **vortrainierte Open-Source-Modelle**, auf die ihr zurückgreifen könnt. So umfasst die Plattform [Hugging Face](https://huggingface.com) über 1 Million vortrainierte Modelle und 300.000 Datensätze (Stand: Februar 2025). Diese Modelle könnt ihr entweder direkt nutzen oder auf ihnen aufbauen und sie mit euren eigenen Daten anpassen (en: “finetuning”).
 
-- Um ein trainiertes ML-Modell in der Praxis dann auch zu benutzen, sind je nach Anwendungsfall weitere Schritte nötig, z.B. das Programmieren einer [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) oder eines [Backends](https://civic-data.de/selbstlernmaterial/#frontend-backend) oder die Integration in bestehende Software-Lösungen. Hier entstehen meistens weitere Kosten, z.B. für die Software-Entwicklung und das [Hosting](https://civic-data.de/selbstlernmaterial/#hosting) der entstandenen Modelle und Anwendungen.
+- Um ein trainiertes ML-Modell in der Praxis dann auch zu benutzen, sind **je nach Anwendungsfall** **weitere Schritte** **nötig**, z.B. das Programmieren einer [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) oder eines [Backends](https://civic-data.de/selbstlernmaterial/#frontend-backend) oder die Integration in bestehende Software-Lösungen. Hier entstehen meistens weitere Kosten, z.B. für die Software-Entwicklung und das [Hosting](https://civic-data.de/selbstlernmaterial/#hosting) der entstandenen Modelle und Anwendungen.
 
 ## Mehr zu ML
 
-Machine Learning basiert auf Modellen, die aus Erfahrungen lernen. Je mehr Daten, desto präziser werden die Vorhersagen. Es gibt verschiedene Lernansätze wie überwachtes (en: supervised), unüberwachtes (en: unsupervised) und verstärkendes (en: reinforcement) Lernen.
+Machine Learning basiert auf Modellen, die aus Erfahrungen lernen. **Je mehr Daten, desto präziser werden die Vorhersagen**. Es gibt **verschiedene Lernansätze** wie überwachtes (en: **supervised**), unüberwachtes (en: **unsupervised**) und verstärkendes (en: **reinforcement**) **Lernen**.
 
 ### Vorteile von ML
 
-- Zeitersparnis & Schnelligkeit: ML Algorithmen können repetitive Aufgaben automatisieren; generative Modelle können euch dabei helfen, Texte zu verfassen oder Bilder zu erstellen, die ihr z.B. für Social Media nutzen könnt
+- **Zeitersparnis & Schnelligkeit**: ML Algorithmen können repetitive Aufgaben automatisieren; generative Modelle können euch dabei helfen, Texte zu verfassen oder Bilder zu erstellen, die ihr z.B. für Social Media nutzen könnt
 
-- Ermöglichung neuer Anwendungsfelder: gerade unstrukturierte Daten wie Bilder oder Texte waren ohne ML Methoden nicht gut mit Programmen verarbeitbar - heute sind dank ML Methoden z.B. die automatisierte Erfassung relevanter Informationen einer abfotografierten Rechnung oder die Zusammenfassung eines langen Textes einfach möglich
+- **Ermöglichung neuer Anwendungsfelder**: gerade unstrukturierte Daten wie Bilder oder Texte waren ohne ML Methoden nicht gut mit Programmen verarbeitbar - heute sind dank ML Methoden z.B. die automatisierte Erfassung relevanter Informationen einer abfotografierten Rechnung oder die Zusammenfassung eines langen Textes einfach möglich
 
-- Große Menge kostenlos verfügbarer Tools: Ein großer Teil der programmierten Methoden und Modelle sind kostenlos und Open Source (das bedeutet der Quellcode ist frei einsehbar) im Internet verfügbar, z.B. in der Python Toolbox [scikit-learn](https://scikit-learn.org/) oder [HuggingFace](https://huggingface.co/).
+- Große Menge **kostenlos verfügbarer Tools**: Ein großer Teil der programmierten Methoden und Modelle sind kostenlos und Open Source (das bedeutet der Quellcode ist frei einsehbar) im Internet verfügbar, z.B. in der Python Toolbox [scikit-learn](https://scikit-learn.org/) oder [HuggingFace](https://huggingface.co/).
 
 ### Nachteile von ML
 
-- Starke Abhängigkeit von den verwendeten Daten: Auf schlechten Daten trainierte Modelle können sich nach dem Training als unbrauchbar erweisen. Eine gründliche [deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik) und explorative [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) können dieser Gefahr vorbeugen.
+- Starke **Abhängigkeit von den verwendeten Daten**: Auf schlechten Daten trainierte Modelle können sich nach dem Training als unbrauchbar erweisen – bekannt durch die Redewendung “Garbage in, Garbage out” (de: Müll rein, Müll raus). Eine gründliche [deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik) und explorative [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) können dieser Gefahr vorbeugen.
 
-- Voreingenommenheit der Modelle: Bestehende Verzerrungen (en: Bias) in den Daten übertragen sich auf die Prognose des ML Modells (quasi eine ""Voreingenommenheit des Modells”). Man muss darum die Ergebnisse mit Vorsicht interpretieren oder ggf. aktiv gegen bestehende Verzerrungen aus der Vergangenheit korrigieren.
+- Voreingenommenheit der Modelle: **Bestehende Verzerrungen** (en: **Bias**) in den Daten **übertragen sich auf die Prognose des ML Modells** (quasi eine ""Voreingenommenheit des Modells”). Man muss darum die Ergebnisse mit Vorsicht interpretieren oder ggf. aktiv gegen bestehende Verzerrungen aus der Vergangenheit korrigieren.
 
-- Schlechte Interpretierbarkeit: Große Modelle mit vielen Parametern, wie etwa ein Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)), sind schwierig in der Interpretierbarkeit. Sie werden häufig als “Black Box” bezeichnet, weil Entscheidungsprozesse nicht mehr nachvollziehbar sind - das ist besonders dann fragwürdig, wenn die Entscheidungen eines ML Modells direkten Einfluss auf Menschenleben haben (z.B. ML Recruiting Algorithmen, die automatisiert Lebensläufe analysieren und Kandidat\*innen ablehnen oder ML Banking Algorithmen, die aufgrund der bisherigen Ausgaben über den Kreditrahmen einer\*s Kund\*in entscheiden ).
+- Schlechte Interpretierbarkeit: Große Modelle mit vielen Parametern, wie etwa ein Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)), sind **schwierig in der Interpretierbarkeit**. Sie werden häufig als “**Black Box**” bezeichnet, weil **Entscheidungsprozesse nicht mehr nachvollziehbar** sind - das ist besonders dann fragwürdig, wenn die Entscheidungen eines ML Modells direkten Einfluss auf Menschenleben haben (z.B. ML Recruiting Algorithmen, die automatisiert Lebensläufe analysieren und Kandidat\*innen ablehnen oder ML Banking Algorithmen, die aufgrund der bisherigen Ausgaben über den Kreditrahmen einer\*s Kund\*in entscheiden ).
 
 - Mögliche Daten-Lecks: Da die Daten, aus denen ein ML Modell gelernt hat, in dieses Modell eingeflossen sind, kann es möglich sein, mit gezielten Angriffen auf das Modell diese Daten wieder zu rekonstruieren. So könnten z.B. die Anfragen, die ihr einem [LLM](https://civic-data.de/selbstlernmaterial/#llm) wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) schickt, in den Antworten, die das Modell anderen Nutzern gibt, wieder auftauchen.
 
-- Potentiell hohe Entwicklungs-Kosten: Ein ML Modell zu trainieren kann sehr teuer sein. Die Firma OpenAI gab bekannt, dass das Training eines ihrer LLMs etwa $100 Millionen gekostet habe. Daher kann auch die Nutzung solcher Modelle mit hohen Kosten verbunden sein.
+- Potentiell **hohe Entwicklungskosten**: Ein ML Modell zu trainieren kann sehr teuer sein. Die Firma OpenAI gab bekannt, dass das Training eines ihrer LLMs etwa $100 Millionen gekostet habe. Daher kann auch die Nutzung solcher Modelle mit hohen Kosten verbunden sein.
 
 ### Verwandte Begriffe
 
-- [KI](https://civic-data.de/selbstlernmaterial/#ki) (Künstliche Intelligenz): Systeme, die speziell für das Nachahmen von menschlichem Verhalten erstellt und genutzt werden. Häufig werden hierfür ML Methoden verwendet.
+- [**KI**](https://civic-data.de/selbstlernmaterial/#ki) (Künstliche Intelligenz): Systeme, die speziell für das Nachahmen von menschlichem Verhalten erstellt und genutzt werden. Häufig werden hierfür ML Methoden verwendet.
 
-- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): Teilbereich von Machine Learning, bei dem das Ziel ist, Daten (z.B. Text oder Bilder) durch spezifische Anweisungen zu erstellen.
+- [**Generative KI**](https://civic-data.de/selbstlernmaterial/#generative-ki): Teilbereich von Machine Learning, bei dem das Ziel ist, Daten (z.B. Text oder Bilder) durch spezifische Anweisungen zu erstellen.
 
-- Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)): Teilbereich von Machine Learning und Generativer KI, bei der auf eine Textanfrage eine Antwort generiert wird.
+- **Large Language Model** ([LLM](https://civic-data.de/selbstlernmaterial/#llm)): Teilbereich von Machine Learning und Generativer KI, bei der auf eine Textanfrage eine Antwort generiert wird.
 
-- Small Language Model ([SLM](https://civic-data.de/selbstlernmaterial/#slm)): Kleinere (aber immernoch große) Version von LLM.
+- **Small Language Model** ([SLM](https://civic-data.de/selbstlernmaterial/#slm)): Kleinere (aber immernoch große) Version von LLM.
 
 ## Weiterführende Materialien
 
@@ -2707,7 +2728,7 @@ Auch bekannt unter: Beschreibende Statistik
 
 ### Definition
 
-Unter deskriptiver Statistik versteht man mathematische Methoden, mit denen man Daten strukturiert und aussagekräftig zusammenfasst. Dazu gehören üblicherweise die folgenden Werte:
+Unter deskriptiver Statistik versteht man **mathematische Methoden, mit denen man Daten strukturiert und aussagekräftig zusammenfasst**. Dazu gehören üblicherweise die folgenden Werte:
 
 - **Lagemaße**: Mittelwert (Durchschnitt), Median
 
@@ -2717,55 +2738,53 @@ Unter deskriptiver Statistik versteht man mathematische Methoden, mit denen man 
 
 - **Verteilungs-Darstellungen:** Tabellen, Diagramme (Histogramme, Boxplots, Balkendiagramme)
 
-Diese Kennzahlen und Visualisierungen helfen dabei, große Datenmengen auf das Wesentliche zu reduzieren und verständlich zu präsentieren. Deskriptive Statistik grenzt sich von dem Begriff der Inferenzstatistik ab, indem sie keine Prognosen oder Aussagen über kausale Zusammenhänge liefert, sondern rein beschreibend ist.
+Diese Kennzahlen und Visualisierungen helfen dabei, große **Datenmengen auf das Wesentliche zu reduzieren und verständlich zu präsentieren**. Deskriptive Statistik grenzt sich von dem Begriff der Inferenzstatistik ab, indem sie keine Prognosen oder Aussagen über kausale Zusammenhänge liefert, sondern **rein beschreibend** ist.
 
 ### Beispiele
 
-- Das durchschnittliche Alter wäre ein fester Bestandteil einer deskriptiven Statistik zum Alter der Einwohner\*innen von Deutschland.
+- Das **durchschnittliche** **Alter** wäre ein fester Bestandteil einer deskriptiven Statistik zum Alter der Einwohner\*innen von Deutschland.
 
-- Verkaufszahlen von bestimmten Gegenständen können an bestimmten Wochen- oder Jahrestagen graphisch dargestellt werden. So kann auf einen Blick festgestellt werden, dass z.B. über viele Jahre hinweg viele Blumensträuße am Valentinstag gekauft werden.
+- Verkaufszahlen von bestimmten Gegenständen können an bestimmten Wochen- oder Jahrestagen **graphisch dargestellt** werden. So kann auf einen Blick festgestellt werden, dass z.B. über viele Jahre hinweg viele Blumensträuße am Valentinstag gekauft werden.
 
-- Für einen gemeinnützigen Verein könnte auch die mittlere Anzahl neuer Mitglieder pro Monat interessant sein, um zu sehen, in welchem Maß der Verein wächst.
+- Für einen gemeinnützigen Verein könnte auch die **mittlere Anzahl neuer Mitglieder pro Monat** interessant sein, um zu sehen, in welchem Maß der Verein wächst.
 
-- Ein anderes Beispiel ist der Zusammenhang zwischen der Summe der Spenden, die eine NPO erhält, und der Anzahl ihrer Spendenaufrufe in den sozialen Medien - hier könnte man erwarten, dass bei mehr Spendenaufrufen eine höhere Summe der Spenden sichtbar würde. Eine positive Korrelation würde diesen Verdacht unterstützen.
+- Ein anderes Beispiel ist der **Zusammenhang** zwischen der Summe der Spenden, die eine NPO erhält, und der Anzahl ihrer Spendenaufrufe in den sozialen Medien - hier könnte man erwarten, dass bei mehr Spendenaufrufen eine höhere Summe der Spenden sichtbar würde. Eine positive Korrelation würde diesen Verdacht unterstützen.
 
 - Ein ausführliches Beispiel zum Mitrechnen findest du im Abschnitt [Mehr zu deskriptiver Statistik](#mehr-zu-deskriptiver-statistik).
 
 ## Wann ist eine deskriptive Statistik für euch relevant? 
 
-Deskriptive Statistik ist für euch fast immer relevant, wenn ihr Daten auswerten wollt, da sie wichtige Einblicke in eure Daten liefert und am Anfang von komplexeren datenbasierten Verfahren und Ansätzen steht.
+Deskriptive Statistik ist für euch fast immer relevant, wenn ihr Daten auswerten wollt, da sie **wichtige Einblicke in eure Daten liefert und am Anfang von komplexeren datenbasierten Verfahren und Ansätzen** steht.
 
-- Deskriptive Statistiken sind ein essenzieller Bestandteil von Monitoring, z.B. von Outputs oder Outcomes in eurer Arbeit. Visuelle Darstellungen über Zeit machen Veränderungen sichtbar und statistische Kennzahlen wie Mittelwerte und Varianz geben euch Aufschluss über eure Arbeit.
+- Deskriptive Statistiken sind ein essenzieller **Bestandteil von Monitoring**, z.B. von Outputs oder Outcomes in eurer Arbeit. Visuelle Darstellungen über Zeit machen Veränderungen sichtbar und statistische Kennzahlen wie Mittelwerte und Varianz geben euch Aufschluss über eure Arbeit.
 
-- Es ist wichtig, vor der Entwicklung oder Anwendung von komplexeren statistischen Methoden (z.B. [ML](https://civic-data.de/selbstlernmaterial/#ml) oder [KI](https://civic-data.de/selbstlernmaterial/#ki)-Modellen) deskriptive Statistiken zu berechnen. Sie zeigen euch, ob eure Daten die Voraussetzungen erfüllen, ob sie womöglich verzerrt sind oder ob Probleme mit der Datenqualität bestehen.
+- Es ist wichtig, vor der Entwicklung oder Anwendung von komplexeren statistischen Methoden (z.B. [ML](https://civic-data.de/selbstlernmaterial/#ml) oder [KI](https://civic-data.de/selbstlernmaterial/#ki)-Modellen) deskriptive Statistiken zu berechnen. Sie zeigen euch, ob eure Daten die **Voraussetzungen erfüllen,** ob sie womöglich **verzerrt** sind oder ob **Probleme mit der Datenqualität** bestehen.
 
-- Wenn ihr noch keine konkrete Fragestellung oder Anwendungsfall für eure Daten habt, ist eine explorative Datenanalyse (EDA) eine gute Wahl. In einer EDA berechnet ihr deskriptive Statistiken und erstellt Darstellungen eurer Daten mit dem Ziel, einen Überblick über die Daten zu bekommen, sie besser kennenzulernen und potenziell unbekannte, interessante Zusammenhänge zu finden.
+- Wenn ihr noch keine konkrete Fragestellung oder Anwendungsfall für eure Daten habt, ist eine **explorative Datenanalyse (EDA)** eine gute Wahl. In einer EDA berechnet ihr deskriptive Statistiken und erstellt Darstellungen eurer Daten mit dem Ziel, einen Überblick über die Daten zu bekommen, sie besser kennenzulernen und potenziell unbekannte, interessante Zusammenhänge zu finden.
 
 ## Was sind die Implikationen von deskriptiver Statistik für euch? 
 
-- Werte aus der deskriptiven Statistik können Informationen kaschieren oder dazu verleiten, Schlüsse zu ziehen, die nicht zulässig sind. Zum Beispiel könnte ein beispielhafter Wert aus einer deskriptiven Statistik das Durchschnittsalter in Deutschland sein. Es betrug im Jahr 2023 laut statistischem Bundesamt 44,6 Jahre. Aus unserer Erfahrung wissen wir, dass es in Deutschland Menschen mit jedem Alter zwischen 0 und 100 gibt. Ohne unsere Erfahrung könnten wir aber auch vermuten, dass alle Menschen genau 44,6 Jahre alt sind. Oder dass die Hälfte der Personen 22,3 und die andere Hälfte 66,9 Jahre alt sind. Diese Informationen lassen sich aus dem Mittelwert nicht ableiten, hierfür müssten Informationen zur Streuung (z.B. Varianz) herangezogen werden.
+- Werte aus der deskriptiven Statistik können **Informationen kaschieren** oder dazu verleiten, **unzulässige Schlüsse** zu ziehen. Zum Beispiel könnte ein beispielhafter Wert aus einer deskriptiven Statistik das Durchschnittsalter in Deutschland sein. Es betrug im Jahr 2023 laut statistischem Bundesamt 44,6 Jahre. Aus unserer Erfahrung wissen wir, dass es in Deutschland Menschen mit jedem Alter zwischen 0 und 100 gibt. Ohne unsere Erfahrung könnten wir aber auch vermuten, dass alle Menschen genau 44,6 Jahre alt sind. Oder dass die Hälfte der Personen 22,3 und die andere Hälfte 66,9 Jahre alt sind. Diese Informationen lassen sich aus dem Mittelwert nicht ableiten, hierfür müssten Informationen zur Streuung (z.B. Varianz) herangezogen werden.
 
-- Mit Tabellenkalkulationsprogrammen (z.B. Excel, Google Sheets, OnlyOffice) könnt ihr selbst Mittelwerte berechnen oder einfache Grafiken erstellen. Solche Analysen sind kostengünstig und nach einer Einarbeitung meistens gut selbst durchführbar.
+- Mit Tabellenkalkulationsprogrammen (z.B. Excel, Google Sheets, OnlyOffice) könnt ihr selbst Mittelwerte berechnen oder einfache Grafiken erstellen. Solche Analysen sind **kostengünstig** und nach einer Einarbeitung meistens **gut selbst durchführbar**.
 
-- Neben Tabellenkalkulationsprogrammen sind Anwendungen aus dem Bereich [Datenvisualisierung](https://civic-data.de/selbstlernmaterial/#datenvisualisierung) und Business Intelligence auch häufig darauf ausgelegt, deskriptive Statistiken zu erstellen und explorative Datenanalysen durchzuführen.
+- Neben Tabellenkalkulationsprogrammen sind **Anwendungen aus dem Bereich [Datenvisualisierung](https://civic-data.de/selbstlernmaterial/#datenvisualisierung) und Business Intelligence** auch häufig darauf ausgelegt, deskriptive Statistiken zu erstellen und explorative Datenanalysen durchzuführen.
 
 ## Mehr zu deskriptiver Statistik
 
-Deskriptive Statistik ist oft ein vorgeschalteter Prozess, um festzustellen, ob Daten für die Modellierung [ML](https://civic-data.de/selbstlernmaterial/#ml) oder [KI](https://civic-data.de/selbstlernmaterial/#ki) genutzt werden könnten. Dort können grobe Fehler in den Daten auffallen.
+Deskriptive Statistik ist oft ein **vorgeschalteter Prozess**, um festzustellen, ob Daten für die Modellierung [ML](https://civic-data.de/selbstlernmaterial/#ml) oder [KI](https://civic-data.de/selbstlernmaterial/#ki) genutzt werden könnten. Dort können grobe Fehler in den Daten auffallen.
 
 ### Vorteile von deskriptiver Statistik
 
-- Komplexe Datensätze werden in wenigen Kennzahlen oder Diagrammen zusammengefasst.
+- **Verringerung von Komplexität**: Komplexe Datensätze werden in wenigen Kennzahlen oder Diagrammen zusammengefasst. Dadurch können Werte und Grafiken aus deskriptiver Statistik besonders gut in **Berichten oder Präsentationen** genutzt werden.
 
-- Dadurch können sie besonders gut in Berichten oder Präsentationen genutzt werden.
-
-- Grobe Fehler in den Daten werden in der Verteilung sichtbar und können korrigiert werden.
+- **Grobe** **Fehler** in den Daten werden **sichtbar** und können korrigiert werden.
 
 ### Nachteile von deskriptiver Statistik
 
-- Jede Vereinfachung der Daten lässt einen Teil der Geschichte weg. Die Aussagekraft von einzelnen Kennzahlen wie dem Mittelwert ist limitiert. In vielen Situationen ist es sinnvoll, der deskriptiven Statistik eine tiefergehende [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) anzuschließen.
+- Jede Vereinfachung der Daten lässt einen Teil der Geschichte weg. Die **Aussagekraft von einzelnen Kennzahlen** wie dem Mittelwert ist **limitiert**. In vielen Situationen ist es sinnvoll, der deskriptiven Statistik eine tiefergehende [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) anzuschließen.
 
-- Es kann naheliegend wirken, aus Zusammenhängen wie Korrelationen Aussagen zur Ursache-Wirkung abzuleiten (z.B. “mehr Spendenaufrufe führen zu mehr Spenden”). Solche kausalen Interpretationen sind jedoch theoretisch häufig nicht zulässig, sollten nur mit Vorsicht getroffen und kritisch hinterfragt werden (siehe z.B. [diese Sammlung](https://www.tylervigen.com/spurious-correlations) von Beispielgrößen mit hoher Korrelation).
+- Es kann naheliegend wirken, aus Zusammenhängen wie Korrelationen Aussagen zur Ursache-Wirkung abzuleiten (z.B. “mehr Spendenaufrufe führen zu mehr Spenden”). Solche **kausalen Interpretationen** sind jedoch **theoretisch häufig nicht zulässig**, sollten nur mit Vorsicht getroffen und **kritisch hinterfragt** werden (siehe z.B. [diese Sammlung](https://www.tylervigen.com/spurious-correlations) von Beispielgrößen mit hoher Korrelation).
 
 **Ein ausführlicheres Beispiel zum Mitrechnen:**
 
@@ -2816,8 +2835,8 @@ Wenn wir uns nun fragen, mit wie viel ehrenamtlicher Unterstützung der Verein i
 Dazu können wir uns die Verteilung der Daten anschauen: wir stellen die Daten als Histogramm dar: die geleisteten Stunden sind auf der horizontalen Achse und die Anzahl der Wochen, in denen diese Stundenanzahl erreicht wurde, wird auf der vertikalen Achse eingetragen:
 
 ![](https://civic-data.de/app/uploads/deskriptive-statistik-balkendiagramm.png)  
-
-
+  
+  
 Wir erkennen am Diagramm, dass in den meisten Wochen zwischen 0 und 10 Stunden ehrenamtliche Arbeit geleistet wurde. Hier sehen wir sehr gut, dass es einen Ausreißer (en: Outlier) gibt: in einer Woche wurden 50 ehrenamtliche Stunden geleistet - das sind viel mehr, als in allen anderen Wochen (vielleicht aufgrund einer besonderen Aktion des Vereins?). Diese eine Woche hat den Mittelwert deutlich nach oben verschoben, so dass dieser für die “normalen” Wochen nun nicht mehr repräsentativ ist. Stattdessen bietet es sich bei Daten mit Ausreißern an, statt des Mittelwerts den Median zu berechnen: dieser beträgt hier 5,5 Stunden. In einer durchschnittlichen Woche können wir also mit 5,5 Stunden ehrenamtlicher Unterstützung rechnen.
 
 Eine andere Fragestellung, die uns interessieren könnte, ist der zeitliche Verlauf: Gibt es bestimmte Regelmäßigkeiten bei ehrenamtlichen Tätigkeiten? Um diese Frage zu beantworten, können wir ein Diagramm erstellen. Dieses mal tragen wir auf der horizontalen Achse die Kalenderwochen auf und auf der vertikalen Achse die geleisteten Ehrenamtsstunden:  
@@ -2829,9 +2848,9 @@ Hier sehen wir direkt noch einmal die Ausreißer-Woche in KW20. Außerdem kann m
 
 ### Verwandte Begriffe
 
-- Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)): Methodenfamilie aus der Informatik zum Schätzen von Mustern in Daten. Schwieriger und umfangreicher als eine deskriptive Statistik.
+- **Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml))**: Methodenfamilie aus der Informatik zum Schätzen von Mustern in Daten. Schwieriger und umfangreicher als eine deskriptive Statistik.
 
-- Explorative Datenanalyse (EDA): Deskriptive Statistik ist zwar fester Bestandteil einer explorativen Datenanalyse, jedoch im Umfang wesentlich kürzer und für gewöhnlich nicht ausreichend, um Interpretationen und Zusammenhänge in den Daten herzustellen.
+- **Explorative Datenanalyse (EDA)**: Deskriptive Statistik ist zwar fester Bestandteil einer explorativen Datenanalyse, jedoch im Umfang wesentlich kürzer und für gewöhnlich nicht ausreichend, um Interpretationen und Zusammenhänge in den Daten herzustellen.
 
 ## Weiterführende Materialien
 
@@ -2860,9 +2879,9 @@ Abkürzung: GenAI
 
 ### Definition
 
-Generative KI bezeichnet ML-Modelle, die anhand großer Datenmengen lernen, neue Daten zu produzieren. Es werden bestehende Muster in Daten genutzt, um (theoretisch) unendlich viele Variationen innerhalb eines bestimmten Aufgabenbereichs zu produzieren. Bekannte Beispiele sind Sprachmodelle, die statistisch passende Antworten auf Eingabetexte verfassen.
+**Generative KI bezeichnet [KI](https://civic-data.de/selbstlernmaterial/#ki)-Modelle, die anhand großer Datenmengen lernen, neue Daten zu produzieren**. Es werden bestehende Muster in Daten genutzt, um (theoretisch) unendlich viele Variationen innerhalb eines bestimmten Aufgabenbereichs zu generieren. Bekannte Beispiele sind Sprachmodelle, die statistisch passende Antworten auf Eingabetexte verfassen.
 
-Der Text, den die Nutzer\*innen einem generativen Modell als Anleitung zur Generierung geben, nennt sich “Prompt”. Dieser Text, den man in der Eingabe an das Modell sendet, ist eine kritische Stelle im Optimierungsprozess und wird oft aufwändig zurecht gefeilt (en: “Prompt Engineering”) - das ist oft mehr Kunst als Wissenschaft.
+Der Text, den die Nutzer\*innen einem generativen Modell als Anleitung zur Generierung geben, nennt sich “**Prompt**”. Dieser Text, den man in der Eingabe an das Modell sendet, ist eine kritische Stelle im Optimierungsprozess und wird oft aufwändig zurecht gefeilt (en: “**Prompt Engineering**”) - das ist oft mehr Kunst als Wissenschaft.
 
 ### Beispiele
 
@@ -2880,7 +2899,7 @@ Der Text, den die Nutzer\*innen einem generativen Modell als Anleitung zur Gener
 
 Generative KI als Technologie kann für euch relevant sein, …
 
-- … wenn ihr Unterstützung bei Aufgaben benötigt, die ihr sonst mithilfe eurer eigenen Kreativität und Zeit oder mit der Kreativität und Zeit einer anderen Person (z.B. externe Designer\*in, Texter\*in) angehen würdet. Gerade unter der Voraussetzung von knappen zeitlichen und finanziellen Ressourcen kann Generative KI hier unterstützen, z.B. bei
+- … wenn ihr **Unterstützung bei Aufgaben** benötigt, die ihr sonst **mithilfe eurer eigenen Kreativität** und Zeit oder mit der Kreativität und Zeit einer anderen Person (z.B. externe Designer\*in, Texter\*in) angehen würdet. Gerade unter der Voraussetzung von knappen zeitlichen und finanziellen Ressourcen kann Generative KI hier unterstützen, z.B. bei
 
 - … der Erstellung, dem Umformulieren oder dem Zusammenfassen von Texten, z.B. für Anträge oder für eure Website. Es gibt auch Tools, die eure Meetings für euch zusammenfassen können.
 
@@ -2888,9 +2907,9 @@ Generative KI als Technologie kann für euch relevant sein, …
 
 - … der Erstellung von Musik oder Videos
 
-- … wenn ihr einen Überblick über bestimmte Themen oder Antworten auf Fragen benötigt. Da hinter generativer KI häufig sehr große Modelle stecken, die auf vielen Quellen trainiert wurden, eignet sich textbasierte generative KI auch als Rechercheinstrument (siehe allerdings Nachteile)
+- … wenn ihr einen **Überblick über bestimmte Themen** oder Antworten auf Fragen benötigt. Da hinter generativer KI häufig sehr große Modelle stecken, die auf vielen Quellen trainiert wurden, eignet sich textbasierte generative KI auch als Rechercheinstrument (siehe allerdings Nachteile)
 
-- … wenn ihr eine Anwendung bauen möchtet, die eine oder mehrere dieser Aufgaben für ein bestimmtes Thema oder eine bestimmte Zielgruppe abbilden können soll.
+- … wenn ihr eine **Anwendung bauen möchtet**, die eine oder mehrere dieser Aufgaben für ein bestimmtes Thema oder eine bestimmte Zielgruppe abbilden können soll.
 
   - Eine [RAG](https://civic-data.de/selbstlernmaterial/#rag)-Anwendung kombiniert eure eigenen Wissensquellen mit Generativer KI und Sprachmodellen ([SLMs](https://civic-data.de/selbstlernmaterial/#slm) oder [LLMs](https://civic-data.de/selbstlernmaterial/#llm)). Mehr dazu lest ihr bei [Retrieval Augmented Generation](https://civic-data.de/selbstlernmaterial/#rag).
 
@@ -2900,13 +2919,13 @@ Ob und wie ihr das wollt und könnt, hängt davon ab, wie ihr die Implikationen 
 
 ## Was sind die Implikationen von generativer KI für euch? 
 
-- Generell hat die Verwendung von generativer KI politische, soziale und ethische Dimensionen, die ihr für euch als Individuum und kollektiv als Organisation durchdenken solltet, um eine eigene Position und Umgang zu finden. Zum Beispiel kann ein Wert wie Solidarität (mit der Kreativbranche) für euch wichtig sein, allerdings habt ihr kein Budget, ein neues Logo in Auftrag zu geben. Das Projekt [Demokratische KI](https://demokratische-ki.de/) versucht hier Orientierung zu schaffen, wie ihr solche Diskurse führen könnt.
+- Generell hat die Verwendung von generativer KI **politische, soziale und ethische Dimensionen**, die ihr für euch als Individuum und kollektiv als Organisation durchdenken solltet, um eine eigene Position und Umgang zu finden. Zum Beispiel kann ein Wert wie Solidarität (mit der Kreativbranche) für euch wichtig sein, allerdings habt ihr kein Budget, ein neues Logo in Auftrag zu geben. Das Projekt [Demokratische KI](https://demokratische-ki.de/) versucht hier Orientierung zu schaffen, wie ihr solche Diskurse führen könnt.
 
-- Generierte Inhalte können täuschend echt sein. Falschinformationen oder missbräuchliche Anwendungen ([Deepfakes](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/Deepfakes/deepfakes_node.html)) sind möglich, da hinter generativer KI keine wirkliche Intelligenz steckt, sondern mathematische Wahrscheinlichkeitsmodelle. Deshalb solltet ihr entstandene Texte und andere Inhalte immer kritisch überprüfen. Wenn ihr generative KI als Rechercheinstrument verwendet, ist es wichtig, nach Quellen zu fragen und diese zu prüfen.
+- **Generierte Inhalte können täuschend echt sein**. Falschinformationen oder missbräuchliche Anwendungen ([Deepfakes](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/Deepfakes/deepfakes_node.html)) sind möglich, da hinter generativer KI keine wirkliche Intelligenz steckt, sondern mathematische Wahrscheinlichkeitsmodelle. Deshalb solltet ihr entstandene Texte und andere Inhalte immer kritisch überprüfen. Wenn ihr generative KI als Rechercheinstrument verwendet, ist es wichtig, nach Quellen zu fragen und diese zu prüfen.
 
-- Wenn ihr Generative-KI-Software von Anbietern nutzt, ist es wichtig, verantwortungsbewusst Datensicherheit und -schutz mitzudenken: Ihr solltet keine personenbezogenen oder anderweitig sensiblen Daten in Prompts verwenden, ohne euch vorher gut informiert zu haben, wie die Daten verarbeitet und ggf. weiterverwendet werden.
+- Wenn ihr Generative-KI-Software von Anbietern nutzt, ist es wichtig, verantwortungsbewusst **Datensicherheit und -schutz** mitzudenken: Ihr solltet keine personenbezogenen oder anderweitig sensiblen Daten in Prompts verwenden, ohne euch vorher gut informiert zu haben, wie die Daten verarbeitet und ggf. weiterverwendet werden.
 
-- Wenn ihr selbst eine Anwendung entwickeln (lassen) wollt, die die Möglichkeiten von generativer KI nutzt, benötigt ihr ein [Backend](https://civic-data.de/selbstlernmaterial/#frontend-backend), welches das Generative-KI-Modell bereitstellt. Hier gibt es zwei Strategien:
+- Wenn ihr **selbst eine Anwendung entwickeln (lassen) wollt,** die die Möglichkeiten von generativer KI nutzt, benötigt ihr ein [Backend](https://civic-data.de/selbstlernmaterial/#frontend-backend), welches das Generative-KI-Modell bereitstellt. Hier gibt es zwei Strategien:
 
   - Schnittstellen ([APIs](https://civic-data.de/selbstlernmaterial/#api)) von Anbietern wie OpenAI nutzen: Ihr sprecht mit eurer Anwendung direkt die Schnittstelle eines externen Anbieters an. Hierbei entstehen monatliche Kosten, die davon abhängen, wie stark eure Anwendung genutzt wird. Ihr solltet euch gut damit auseinandersetzen, welche Daten eure Nutzer\*innen in die Anwendung geben und wo und wie diese durch kommerzielle Anbieter verarbeitet werden.
 
@@ -2914,23 +2933,23 @@ Ob und wie ihr das wollt und könnt, hängt davon ab, wie ihr die Implikationen 
 
 ## Mehr zu generativer KI
 
-Spezifische Bereiche generativer KI könnt ihr auch in den Kapiteln zu [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt), [LLM](https://civic-data.de/selbstlernmaterial/#llm), [SLM](https://civic-data.de/selbstlernmaterial/#slm) und [RAG](https://civic-data.de/selbstlernmaterial/#rag) nachlesen.
+*Hinweis: Spezifische Bereiche generativer KI könnt ihr auch in den Kapiteln zu [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt), [LLM](https://civic-data.de/selbstlernmaterial/#llm), [SLM](https://civic-data.de/selbstlernmaterial/#slm) und [RAG](https://civic-data.de/selbstlernmaterial/#rag) nachlesen.*
 
 ### Vorteile von generativer KI
 
-- Generative KI kann Menschen bei Standardaufgaben entlasten und schafft Raum für neue, innovative Ideen.
+- Generative KI **kann Menschen bei Standardaufgaben entlasten** und schafft Raum für neue, innovative Ideen.
 
-- Inhalte können zielgerichtet und individuell erstellt werden, beispielsweise auf Basis persönlicher Vorlieben.
+- **Inhalte können zielgerichtet und individuell erstellt werden**, beispielsweise auf Basis persönlicher Vorlieben.
 
-- Auch Personen ohne tiefes Fachwissen können hochwertige Texte, Bilder oder andere Medien erstellen (z. B. mithilfe von benutzerfreundlichen [KI-](https://civic-data.de/selbstlernmaterial/#ki)Tools).
+- Auch Personen **ohne tiefes Fachwissen können hochwertige Texte, Bilder oder andere Medien erstellen** (z. B. mithilfe von benutzerfreundlichen [KI-](https://civic-data.de/selbstlernmaterial/#ki)Tools).
 
 ### Nachteile von generativer KI
 
-- Täuschend echte Falschinformationen oder Spam-Inhalte können bestehende gesellschaftliche Probleme verstärken.
+- Täuschend echte **Falschinformationen** oder **Spam-Inhalte** können bestehende gesellschaftliche Probleme verstärken.
 
-- Ob KI-generierte Werke das Urheberrecht der Originalarbeiten (z. B. Trainingsdaten) verletzen, ist oft unklar.
+- Ob KI-generierte Werke das **Urheberrecht** der Originalarbeiten (z. B. Trainingsdaten) verletzen, ist oft unklar.
 
-- Die von einer generativen KI erzeugten Inhalte sind nicht immer korrekt oder sicher. Oft bedarf es vieler Versuche, bis ein gutes Ergebnis erzielt werden kann.
+- Die von einer generativen KI erzeugten **Inhalte sind nicht immer korrekt oder sicher**. Oft bedarf es vieler Versuche, bis ein gutes Ergebnis erzielt werden kann.
 
 ### Verwandte Begriffe
 
@@ -2965,13 +2984,13 @@ Auch bekannt unter: Retrieval Augmented Generation, Retrieval-based Generation, 
 
 ### Definition
 
-Retrieval-Augmented Generation (RAG) ist eine Erweiterung von Large Language Models ([LLM](https://civic-data.de/selbstlernmaterial/#llm)s). Das Prinzip von RAG ist, dass zusätzliche Informationen in die Text-Anfrage (en: Prompt) an eine [generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki) einbezogen werden. Dadurch entsteht eine Lösung, die deutlich flexibler und aktueller ist als ein reines Sprachmodell.
+**Retrieval-Augmented Generation** (RAG) ist eine Erweiterung von Large Language Models ([LLM](https://civic-data.de/selbstlernmaterial/#llm)s). Das Prinzip von RAG ist, dass **zusätzliche Informationen aus einer Wissensdatenbank in die Text-Anfrage** (en: Prompt) **an eine [generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki) einbezogen werden**. Dadurch entsteht eine Lösung, die deutlich flexibler und aktueller ist als ein reines Sprachmodell.
 
 Die beiden Phasen des RAG Systems sind:
 
-1.  “Retrieval” (de: Abruf): Ein Modell oder Algorithmus durchsucht externe Quellen (z. B. Datenbanken, Websites, Textsammlungen), um relevante Informationen zu einer Anfrage zu finden.
+1.  **“Retrieval”** (de: Abruf): Ein Modell oder Algorithmus durchsucht externe Quellen (z. B. Datenbanken, Websites, Textsammlungen), um relevante Informationen zu einer Anfrage zu finden.
 
-2.  “Augmented Generation” (de: erweiterte Erzeugung): Ein [Generatives KI Modell](https://civic-data.de/selbstlernmaterial/#generative-ki) nutzt sowohl erlerntes Wissen als auch die abgerufenen Informationen, um eine passende Antwort oder einen Text zu verfassen.
+2.  **“Augmented Generation”** (de: erweiterte Erzeugung): Ein [Generatives KI Modell](https://civic-data.de/selbstlernmaterial/#generative-ki) nutzt sowohl erlerntes Wissen als auch die abgerufenen Informationen, um eine passende Antwort oder einen Text zu verfassen.
 
 ![](https://civic-data.de/app/uploads/rag.svg)
 
@@ -2989,35 +3008,27 @@ Die Grafik illustriert das RAG Verfahren. Die Schritte 2 und 3 in der Grafik zei
 
 ## Wann ist RAG für euch relevant? 
 
-- Wenn ihr auf verteilte oder aktuelle Daten angewiesen seid
+- Wenn ihr auf **verteilte oder aktuelle Daten angewiesen** seid
 
-- Wenn fundierte, kontextbezogene Antworten gefragt sind, etwa in spezialisierten Fachgebieten oder basierend auf Firmen-spezifischen Daten.
+- Wenn **fundierte, kontextbezogene Antworten gefragt sind**, etwa in spezialisierten Fachgebieten oder basierend auf Firmen-spezifischen Daten.
 
 ## Was sind die Implikationen von RAG für euch? 
 
-- Unternehmen müssen die Datenquellen, die das System durchsucht, kontinuierlich pflegen und aktualisieren.
+- Unternehmen müssen die **Datenquellen**, die das System durchsucht, kontinuierlich **pflegen und aktualisieren**
 
-- RAG kann bei Bedarf strengere Datenschutz- oder Sicherheitsvorschriften erfüllen, indem nur bestimmte, freigegebene Datenquellen durchsucht werden. Andererseits gibt es durch die hohe Komplexität bei nicht sachgemäßer Einrichtung hier auch eine Schwachstelle, bei der sensible Daten nach außen gelangen können. Man spricht dann von “Leakage” (englisch für “Leckage”).
+- Informationen, die das Sprachmodell nutzt, können aktualisiert werden, ohne dass das Modell neu trainiert werden muss. Wenn Systeme ständig aktuell gehalten werden müssen, können durch RAG System Ressourcen gespart werden, da das **Aktualisieren der Wissensdatenbank weniger aufwändig** ist, **als das Anpassen eines großen Sprachmodells**..
 
-- RAG Systeme lohnen sich erst bei großen Datenmengen, weil die Erstellung und Instandhaltung mit regelmäßigen Kosten verbunden ist. Während [LLM](https://civic-data.de/selbstlernmaterial/#llm)s üblicherweise für einzelne Abfragen bezahlt werden ist eine Datenbank für einen langfristigen Gebrauch ausgelegt.
+- Sprachmodelle neigen dazu, falsche Informationen (sogenannte “Halluzinationen”) zu produzieren. Spezifische Verweise auf Quellen wie bei RAG können **Antworten nachvollziehbar und überprüfbar** machen.
+
+- **RAG Systeme lohnen sich erst bei großen Datenmengen**, weil die Erstellung und Instandhaltung des Systems und der angekoppelten Wissensdatenbank mit r**egelmäßigen Kosten** verbunden ist. Während [LLM](https://civic-data.de/selbstlernmaterial/#llm)s üblicherweise für einzelne Abfragen bezahlt werden ist eine Datenbank für einen langfristigen Gebrauch ausgelegt.
+
+- RAG **kann bei Bedarf strengere Datenschutz- oder Sicherheitsvorschriften erfüllen**, indem nur bestimmte, freigegebene Datenquellen durchsucht werden. Andererseits gibt es durch die hohe Komplexität bei nicht sachgemäßer Einrichtung hier auch eine Schwachstelle, bei der sensible Daten nach außen gelangen können. Man spricht dann von “Leakage” (englisch für “Leckage”).
+
+- Eine weitere Gefahr besteht in einer **möglichen böswilligen Manipulation der Daten in der Wissensdatenbank**, die von dem RAG System abgerufen werden. Dieses Verfahren wird RAG “poisoning” (englisch für “Vergiftung”) genannt.
+
+- Vor der Generierung der finalen Antwort des KI-Sprachmodells muss ein zusätzlicher Abruf-Schritt erfolgen, was insgesamt zu einer **längeren Antwortdauer** führt.
 
 ## Mehr zu RAG
-
-### Vorteile von RAG
-
-- Informationen, die das Sprachmodell nutzt, können aktualisiert werden, ohne dass das Modell neu trainiert werden muss. Wenn Systeme ständig aktuell gehalten werden müssen, können durch RAG System Ressourcen gespart werden, da das Aktualisieren der Wissensdatenbank weniger aufwändig ist, als das Anpassen eines großen Sprachmodells.
-
-- Effiziente Datenbanken können große Mengen an Daten sichern, ohne dass sie Teil des Sprachmodells ([LLM](https://civic-data.de/selbstlernmaterial/#llm) oder [SLM](https://civic-data.de/selbstlernmaterial/#slm)) sein müssen.
-
-- Sprachmodelle neigen dazu, falsche Informationen (sogenannte “Halluzinationen”) zu produzieren. Spezifische Verweise auf Quellen können Antworten nachvollziehbar und überprüfbar machen.
-
-### Nachteile von RAG
-
-- Eine private Wissensdatenbank ist ein weiteres Produkt, welches individuell an bestehende Datenquellen angebunden, gewartet und bezahlt werden muss.
-
-- Eine weitere Gefahr besteht in einer möglichen böswilligen Manipulation der Daten in der Wissensdatenbank, die von dem RAG System abgerufen werden. Dieses Verfahren wird RAG “poisoning” (englisch für “Vergiftung”) genannt.
-
-- Vor der Generierung der finalen Antwort des KI-Sprachmodells muss ein zusätzlicher Abruf-Schritt erfolgen, was insgesamt zu einer längeren Antwortdauer führt.
 
 ### Verwandte Begriffe
 
@@ -3194,21 +3205,21 @@ SLMs sind für euch relevant, wenn...
 
 ### Definition
 
-[ChatGPT](http://chatgpt.com) ist ein [Chatbot](https://civic-data.de/selbstlernmaterial/#chatbot), der von der Firma OpenAI entwickelt wurde. ChatGPT ahmt Unterhaltungen von Menschen nach. Im Hintergrund wird dafür ein [KI](https://civic-data.de/selbstlernmaterial/#ki) Sprachmodell, ein sogenanntes Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)) verwendet. Die Veröffentlichung von ChatGPT im Jahr 2022 hat große Wellen in der breiten Öffentlichkeit geschlagen und [LLM](https://civic-data.de/selbstlernmaterial/#llm)s schlagartig populär gemacht. ChatGPT kann mit unterschiedlichen LLMs als Grundlage ausgeführt werden.
+**ChatGPT ist ein [Chatbot](https://civic-data.de/selbstlernmaterial/#chatbot)**, der von der Firma OpenAI entwickelt wurde. **ChatGPT ahmt Unterhaltungen von Menschen nach**. Im Hintergrund wird dafür ein [KI](https://civic-data.de/selbstlernmaterial/#ki) Sprachmodell, ein sogenanntes Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)) verwendet. Die Veröffentlichung von ChatGPT im Jahr 2022 hat große Wellen in der breiten Öffentlichkeit geschlagen und [LLM](https://civic-data.de/selbstlernmaterial/#llm)s schlagartig populär gemacht. ChatGPT kann mit unterschiedlichen LLMs als Grundlage ausgeführt werden.
 
 ### Beispiele
 
-- [DeepSeek](https://www.deepseek.com/), [Google Gemini](https://gemini.google.com/app/), [Microsoft Copilot](https://copilot.microsoft.com/) und [Anthropic Claude](https://claude.ai/) sind beliebte Konkurrenzprodukte von ChatGPT.
+- DeepSeek, Google Gemini, Microsoft Copilot und Anthropic Claude sind beliebte Konkurrenzprodukte von ChatGPT.
 
 ## Wann ist ChatGPT für euch relevant? 
 
-Siehe Relevanz von [LLM](https://civic-data.de/selbstlernmaterial/#llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
+*Hinweis: Da ChatGPT auf Basis von Generativen KI Modellen wie Large Language Modesl beruht findest du mehr zur Relevanz in den jeweiligen Artikeln zu [LLM](https://civic-data.de/selbstlernmaterial/#llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).*
 
 ## Was sind die Implikationen von ChatGPT für euch? 
 
-Siehe Implikationen von [LLM](https://civic-data.de/selbstlernmaterial/#llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
+*Hinweis: Da ChatGPT auf Basis von Generativen KI Modellen wie Large Language Modesl beruht findest du mehr zu Implikationen in den jeweiligen Artikeln zu [LLM](https://civic-data.de/selbstlernmaterial/#llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).*
 
-- Gerade weil ChatGPT so gut funktioniert, ist es verlockend, viel damit zu machen und sich die Arbeit zu erleichtern. Gerade personenbezogene oder anderweitig sensible Daten (z.B. Finanzpläne) solltet ihr aber nicht in ChatGPT verarbeiten.
+- Gerade weil ChatGPT so gut funktioniert, ist es **verlockend**, viel damit zu machen und sich die Arbeit zu erleichtern. **Gerade personenbezogene oder anderweitig sensible Daten (z.B. Finanzpläne) solltet ihr aber NICHT in ChatGPT verarbeiten.**
 
 ## Mehr zu ChatGPT
 
@@ -3222,7 +3233,7 @@ Siehe Implikationen von [LLM](https://civic-data.de/selbstlernmaterial/#llm)s un
 
 - Siehe Nachteile von [LLM](https://civic-data.de/selbstlernmaterial/#llm).
 
-- Nur in reduziertem Umfang kostenlos und ohne Anmeldung nutzbar. Nach Erreichen des Limits kostenpflichtig, anders als Konkurrenzprodukte wie z.B. [DeepSeek](https://www.deepseek.com/) (Stand Februar 2025).
+- Nur in reduziertem Umfang kostenlos und ohne Anmeldung nutzbar. Nach Erreichen des Limits kostenpflichtig, anders als Konkurrenzprodukte wie z.B. DeepSeek (Stand Februar 2025).
 
 ### Verwandte Begriffe
 

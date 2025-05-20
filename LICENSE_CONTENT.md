@@ -26,7 +26,6 @@
 - "Frontend und Backend" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Local vs Remote" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Chatbot" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
-- "Datenbank" in CDL Selbstlernmaterial von Asim Alsabagh, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Data Warehouse (DWH)" in CDL Selbstlernmaterial von Asim Alsabagh, Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Data Lake" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "ETL" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).

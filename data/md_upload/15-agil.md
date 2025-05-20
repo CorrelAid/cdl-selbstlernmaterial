@@ -9,7 +9,7 @@
 
 ### Definition
 
-“Agil” ist ein Projektmanagement-Konzept, das ursprünglich für die Softwareentwicklung entwickelt wurde, heute aber in unterschiedlichsten Bereichen angewendet wird. Ziel der agilen Arbeitsweise ist es, **Transparenz und Flexibilität** zu erhöhen sowie Risiken im Entwicklungsprozess zu minimieren.
+“Agil” ist ein **Projektmanagement-Konzept**, das ursprünglich für die Softwareentwicklung entwickelt wurde, heute aber in unterschiedlichsten Bereichen angewendet wird. Ziel der agilen Arbeitsweise ist es, **Transparenz und Flexibilität** zu erhöhen sowie Risiken im Entwicklungsprozess zu minimieren.
 
 Im Gegensatz zu klassischen Methoden wie dem [**Wasserfallmodell**](https://civic-data.de/selbstlernmaterial/#wasserfall), die lange Konzeptions- und Planungsphasen voranstellen, wird bei agilen Ansätzen **iterativ** und **inkrementell** gearbeitet. Typische Grundprinzipien sind kurze, sich wiederholende Entwicklungszyklen deren Ziel es ist, möglichst früh ein funktionierendes “Produktinkrement” (z.B. einen funktionierender Prototypen einer Software oder einen Entwurf eines Dokuments) bereitzustellen. Diese Prinzipien lassen sich auch auf Projekte außerhalb der Softwareentwicklung übertragen, bei denen schrittweise Ergebnisse mit relevanten Stakeholdern (de: Teilhaber\*innen, z. B. Geldgeber\*innen, Kund\*innen) diskutiert und weiterentwickelt werden.
 
@@ -31,7 +31,7 @@ Agil kann für euch relevant sein, wenn…
 
 ## Was sind die Implikationen von *agil* für euch? 
 
-Mit agilen Methoden zu arbeiten bedeutet, Projekte flexibel und iterativ zu planen und umzusetzen. Statt starrer Planungsmodelle wie dem [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall) wird in kurzen Entwicklungszyklen, den sogenannten [Sprints](https://civic-data.de/selbstlernmaterial/#sprint), gearbeitet. Der Fokus liegt auf regelmäßigem Feedback, enger Zusammenarbeit und kontinuierlicher Verbesserung. Agile Teams reagieren flexibel auf Veränderungen und legen besonderen Wert auf die Bedürfnisse von Stakeholdern.  
+Mit agilen Methoden zu arbeiten bedeutet, **Projekte flexibel und iterativ zu planen und umzusetzen**. Statt starrer Planungsmodelle wie dem [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall) wird in kurzen Entwicklungszyklen, den sogenannten [Sprints](https://civic-data.de/selbstlernmaterial/#sprint), gearbeitet. Der Fokus liegt auf **regelmäßigem Feedback**, **enger Zusammenarbeit** und **kontinuierlicher Verbesserung**. Agile Teams reagieren flexibel auf Veränderungen und legen besonderen Wert auf die Bedürfnisse von Stakeholdern.  
 In der Praxis kombinieren Organisationen oft Elemente verschiedener Methoden, um ihre eigene Vorgehensweise zu entwickeln. Dabei orientieren sie sich häufig an den Prinzipien agiler Frameworks wie SCRUM, passen diese jedoch flexibel an ihre spezifischen Anforderungen und Projektkontexte an.
 
 ### Was braucht man für agiles Arbeiten?

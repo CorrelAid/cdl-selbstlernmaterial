@@ -9,7 +9,7 @@ Englische Übersetzung: Data Analysis, Data Analytics
 
 ### Definition
 
-Datenanalyse ist der Prozess, bei dem Rohdaten untersucht, bereinigt, umgewandelt und ausgewertet werden, um nützliche Informationen zu gewinnen, Schlussfolgerungen zu ziehen und Entscheidungen zu unterstützen. Es geht darum, aus Daten Erkenntnisse und Wissen zu generieren.
+Datenanalyse ist der **Prozess**, bei dem Rohdaten **untersucht, bereinigt, umgewandelt und ausgewertet** werden, um nützliche Informationen zu gewinnen, Schlussfolgerungen zu ziehen und Entscheidungen zu unterstützen. Es geht darum, **aus** **Daten Erkenntnisse und Wissen zu generieren**.
 
 Datenanalyse umfasst sowohl den Bereich der [deskriptiven Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik) (z.B. die Berechnung von Mittelwerten) als auch den Einsatz von Verfahren der [Künstlichen Intelligenz](https://civic-data.de/selbstlernmaterial/#ki) oder des [Maschinellen Lernens](https://civic-data.de/selbstlernmaterial/#ml).
 
@@ -25,7 +25,7 @@ Datenanalyse umfasst sowohl den Bereich der [deskriptiven Statistik](https://civ
 
 ## Wann ist Datenanalyse für euch relevant?
 
-Generell ist Datenanalyse immer dann für euch relevant, wenn ihr Daten habt, aus denen ihr Erkenntnisse ziehen möchtet.
+Generell ist Datenanalyse immer dann für euch relevant, wenn ihr Daten habt, aus denen ihr **Erkenntnisse ziehen** möchtet.
 
 Das kann z.B. der Fall sein, wenn…
 
@@ -43,7 +43,7 @@ Das kann z.B. der Fall sein, wenn…
 
 ## Was sind die Implikationen von Datenanalyse für euch? 
 
-- In Daten können wichtige Erkenntnisse für eure Arbeit stecken, deshalb lohnt es sich, Zeit in die Analyse zu stecken. Trotzdem gilt: Eine Datenanalyse ist kein Allheilmittel, sondern nur ein Werkzeug, um …
+- In Daten können wichtige Erkenntnisse für eure Arbeit stecken, deshalb lohnt es sich, Zeit in die Analyse zu stecken. Trotzdem gilt: Eine Datenanalyse ist kein Allheilmittel, sondern nur **ein Werkzeug**, um …
 
   - … fundierte, datenbasierte strategische und operative Entscheidungen zu treffen
 
@@ -59,17 +59,17 @@ Das kann z.B. der Fall sein, wenn…
 
   - … eure Förderanträge mit Zahlen zu untermauern oder eure Verhandlungsposition mit Förderern zu stärken
 
-- Je sauberer und qualitätsvoller eure Daten, desto aussagekräftiger eure Analyse -&gt; schon bei der Datenerhebung und -erfassung auf die Qualität der Daten achten.
+- Je **sauberer und qualitätsvoller eure Daten, desto aussagekräftiger eure Analyse**. Achtet daher schon bei der Datenerhebung und -erfassung auf die Qualität der Daten.
 
-- Achtet auf den Grundsatz der Datenminimierung (vgl. DSGVO) und erhebt möglichst wenig personenbezogene Daten. Stellt sicher, dass ihr eine Rechtsgrundlage für die Analyse von personenbezogenen Daten habt (siehe [Webinar "Datenschutz im Ehrenamt: Datenbestände rechtskonform nutzen"](https://stiftungdatenschutz.org/ehrenamt/webinare/webinare-detailseite/datenschutz-im-ehrenamt-datenbestaende-rechtskonform-nutzen-293))
+- Achtet auf den **Grundsatz der Datenminimierung** (vgl. DSGVO) und erhebt möglichst wenig personenbezogene Daten. Stellt sicher, dass ihr eine Rechtsgrundlage für die Analyse von personenbezogenen Daten habt (siehe [Webinar "Datenschutz im Ehrenamt: Datenbestände rechtskonform nutzen"](https://stiftungdatenschutz.org/ehrenamt/webinare/webinare-detailseite/datenschutz-im-ehrenamt-datenbestaende-rechtskonform-nutzen-293))
 
 - Einfache Analysen – zählen, Mittelwerte berechnen, Kreuztabellen etc. – könnt ihr mit ein bisschen Einarbeitung selbst in einem Tabellenkalkulationsprogramm wie Excel umsetzen.
 
 - Wenn ihr häufiger Daten analysiert oder komplexere Methoden (z.B. Machine Learning) einsetzen möchtet, kann es notwendig und sinnvoll sein, ein leistungsstärkeres Tool einzurichten (siehe unten) oder eine Programmiersprache zu lernen.
 
-- Bei der Interpretation können Fehler passieren, wenn der Datenkontext sehr komplex wird oder wenn ihr über typische logische Fehlschlüsse (z.B. Ökologischer Fehlschluss; Schließen von Korrelation auf Kausalität) stolpert. Es ist wichtig, bei der Interpretation den Entstehungsprozess der Daten zu berücksichtigen: auf welcher Ebene habt ihr eure Daten erhoben (individueller Ebene, Gruppenebene,...)? Ist es wahrscheinlich, dass Verzerrungen vorliegen (z.B. weil nur Leute teilgenommen haben, denen das Event gefallen hat)?
+- Bei der **Interpretation** können **Fehler** passieren, wenn der Datenkontext sehr komplex wird oder wenn ihr über typische logische Fehlschlüsse (z.B. Ökologischer Fehlschluss; Schließen von Korrelation auf Kausalität) stolpert. Es ist wichtig, bei der Interpretation den Entstehungsprozess der Daten zu berücksichtigen: auf welcher Ebene habt ihr eure Daten erhoben (individueller Ebene, Gruppenebene,...)? Ist es wahrscheinlich, dass Verzerrungen vorliegen (z.B. weil nur Leute teilgenommen haben, denen das Event gefallen hat)?
 
-- Auch wenn es naheliegend und verlockend erscheint: KI-Chatbots wie ChatGPT und Co. eignen sich nicht für die Analyse von Daten, da die darunterliegenden [Large-Language-Models](https://civic-data.de/selbstlernmaterial/#llm) (LLMs) nicht rechnen können, sondern nur wahrscheinlichkeitsbasierte Vorhersagen für den nächsten Buchstaben treffen (siehe dieser [Blog-Artikel](https://hackernoon.com/lang/de/warum-kann-eine-KI-die-Anzahl-der-rs-im-Wort-Erdbeere-nicht-z%C3%A4hlen))
+- Auch wenn es naheliegend und verlockend erscheint: **KI-Chatbots wie ChatGPT und Co. eignen sich nicht für die Analyse von Daten**, da die darunterliegenden [Large-Language-Models](https://civic-data.de/selbstlernmaterial/#llm) (LLMs) nicht rechnen können, sondern nur wahrscheinlichkeitsbasierte Vorhersagen für das nächste Wort treffen (siehe dieser [Blog-Artikel](https://hackernoon.com/lang/de/warum-kann-eine-KI-die-Anzahl-der-rs-im-Wort-Erdbeere-nicht-z%C3%A4hlen))
 
 ## Mehr zu Datenanalyse 
 
@@ -109,13 +109,13 @@ Hier ist eine Liste von nützlichen Tools für die Datenanalyse:
 
   - Ideal für: Einfache Analysen (siehe auch [Deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik)), Kreuztabellen, grundlegende Visualisierungen, geeignet für Einsteiger\*innen
 
-  - Bsp: Microsoft Excel, Google Sheets, Apple Numbers, LibreOffice Calc
+  - z.B. Microsoft Excel, Google Sheets, Apple Numbers, LibreOffice Calc
 
 - Interaktive Datenvisualisierungstools (siehe auch [Datenvisualisierung](https://civic-data.de/selbstlernmaterial/#datenvisualisierung))
 
   - Ideal für: Umfassendere Visualisierungen und Analysen, Verbindung zu verschiedenen Datenquellen, Interaktive Dashboards
 
-  - Bsp: Tableau, PowerBI, LookerStudio, QlikView, DataWrapper, Metabase, RAWgraphs, scimago Graphica
+  - z.B. Tableau, PowerBI, LookerStudio, QlikView, DataWrapper, Metabase, RAWgraphs, scimago Graphica
 
   - Tipp: Interaktive Datenvisualisierungstools finden sich häufig auch unter dem Begriff “Business Intelligence”
 
@@ -123,13 +123,13 @@ Hier ist eine Liste von nützlichen Tools für die Datenanalyse:
 
   - Ideal für: visuelle Workflows, fortgeschrittene Analyse bis hin zum Machine Learning
 
-  - Bsp: KNIME (Open-Source-Tool)
+  - z.B. KNIME (Open-Source-Tool)
 
 - [Programmiersprachen](https://civic-data.de/selbstlernmaterial/#programmiersprache)
 
   - Ideal für: Statistische Analysen, benutzerdefinierte Visualisierungen, Flexible Datenanalyse und maschinelles Lernen, erfordert Programmierkenntnisse
 
-  - Bsp: Python, R, SPSS, Stata
+  - z.B. Python, R, SPSS, Stata
 
   - Tipp: Mit Frameworks wie Quarto (Python/R), Jupyter Notebooks (Python) und RMarkdown (R) könnt ihr Text, Analysen und Datenvisualisierung in einer Datei kombinieren und reproduzierbare Berichte erstellen. Als Output-Formate stehen z.B. PDF oder HTML-Dateien zur Verfügung.
 
@@ -139,11 +139,11 @@ Hier ist eine Liste von nützlichen Tools für die Datenanalyse:
 
 - Oft ist es hilfreich für die Datenanalyse, [Programmiersprachen](https://civic-data.de/selbstlernmaterial/#programmiersprache) wie Python oder R zu verstehen und zu beherrschen.
 
-- Für das Zusammentragen der Daten für die Analyse aus verschiedenen Quellen können bei fortgeschrittenen Setups Prozesse wie Extract, Transform, Load ( [ETL](https://civic-data.de/selbstlernmaterial/#etl)) zum Einsatz kommen.
+- Für das Zusammentragen der Daten für die Analyse aus verschiedenen Quellen können bei fortgeschrittenen Anwendungsfällen Prozesse wie Extract, Transform, Load ([ETL](https://civic-data.de/selbstlernmaterial/#etl)) zum Einsatz kommen.
 
 - [Deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik): Der Begriff Deskriptive Statistik umfasst mathematische Methoden, mit denen man Daten strukturiert und aussagekräftig zusammenfasst. Eine solche Zusammenfassung ist fast immer der erste Schritt einer Datenanalyse.
 
-- Künstliche Intelligenz ([KI](https://civic-data.de/selbstlernmaterial/#ki)) und Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)): Künstliche Intelligenz und Machine Learning sind Begriffe, die jeweils bestimmte Technologien umfassen, die menschliche Fähigkeiten nachahmen können (KI) oder aus Mustern lernen können (ML). KI- und ML-Technologien können Teil einer Datenanalyse sein (z.B. eine Analyse, die mithilfe von Computer Vision auf Bildern Vogelarten erkennt), müssen sie aber nicht. Viele Erkenntnisse können mit “klassischen” statistischen Methoden der deskriptiven Statistik und der Datenvisualisierung aus Daten gewonnen werden.
+- Künstliche Intelligenz ([KI](https://civic-data.de/selbstlernmaterial/#ki)) und Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)): Künstliche Intelligenz und Machine Learning sind Begriffe, die jeweils bestimmte Technologien umfassen, die menschliche Fähigkeiten nachahmen können (KI) oder aus Mustern lernen können (ML). KI- und ML-Technologien können Teil einer Datenanalyse sein (z.B. eine Analyse, die mithilfe von Computer Vision auf Bildern Vogelarten erkennt), müssen sie aber nicht. **Viele Erkenntnisse können mit “klassischen” statistischen Methoden der deskriptiven Statistik und der Datenvisualisierung aus Daten gewonnen werden**.
 
 - Business Intelligence (BI): Business Intelligence (BI) ist ein Geschäftsbereich, der Technologien, Anwendungen und Praktiken zur Sammlung, Integration, Analyse und Präsentation von Unternehmensdaten umfasst. Der Begriff fokussiert auf den Unternehmenskontext und ist umfassender als Datenanalyse. Datenanalysen sind Teil von Business Intelligence, somit können viele BI-Tools auch für die Umsetzung von Datenanalysen im NPO-Kontext relevant sein.
 

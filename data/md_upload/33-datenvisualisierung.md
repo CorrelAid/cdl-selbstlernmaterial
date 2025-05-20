@@ -7,7 +7,7 @@ Englische Übersetzung: Data Visualization, Abkürzung: DataViz
 
 ### Definition
 
-Datenvisualisierung ist die grafische Darstellung von Informationen und Daten. Mittels visueller Elemente wie Diagramme, Grafiken und Karten werden Daten in einer Weise aufbereitet, die komplexe Zusammenhänge verständlich macht und Muster, Trends sowie Ausreißer leichter erkennbar werden lässt.
+Datenvisualisierung ist die **grafische Darstellung von Informationen und Daten**. Mittels visueller Elemente wie **Diagramme**, **Grafiken** und **Karten** werden Daten in einer Weise aufbereitet, die komplexe Zusammenhänge verständlich macht und Muster, Trends sowie Ausreißer leichter erkennbar werden lässt.
 
 ### Beispiele
 
@@ -27,37 +27,37 @@ Datenvisualisierung ist die grafische Darstellung von Informationen und Daten. M
 
 ## Wann ist Datenvisualisierung für euch relevant? 
 
-Datenvisualisierungen sind erst einmal relevant, weil sie euch im Rahmen eurer Arbeit oder eures Engagements begegnen werden – in wissenschaftlichen Berichten und Studien, journalistischen Artikeln, auf Webseiten, in Newslettern, in den sozialen Medien oder in digitalen Tools. Datenvisualisierungen “lesen” und verstehen zu können, ist daher eine zentrale Dimension von Datenkompetenz (en: Data Literacy). In der [Civic Data Academy](https://civic-data.de/lernen/) findet ihr zahlreiche Lernangebote zum Thema.
+Datenvisualisierungen sind erst einmal relevant, weil sie euch im Rahmen eurer Arbeit oder eures Engagements begegnen werden – in wissenschaftlichen Berichten und Studien, journalistischen Artikeln, auf Webseiten, in Newslettern, in den sozialen Medien oder in digitalen Tools. **Datenvisualisierungen “lesen” und verstehen zu können, ist daher eine zentrale Dimension von Datenkompetenz (en: Data Literacy)**. In der [Civic Data Academy](https://civic-data.de/lernen/) findet ihr zahlreiche Lernangebote zum Thema.
 
-Neben dem “Konsum” von Datenvisualisierungen kann es für euch auch relevant sein, selbst Daten zu visualisieren, insbesondere wenn es darum geht, komplexe Informationen verständlich und wirkungsvoll zu kommunizieren. Zum Beispiel könnt ihr Datenvisualisierungen erstellen und verwenden, …
+Neben dem “Konsum” von Datenvisualisierungen kann es für euch auch relevant sein, **selbst Daten zu visualisieren**, insbesondere wenn es darum geht, komplexe Informationen verständlich und wirkungsvoll zu kommunizieren. Zum Beispiel könnt ihr Datenvisualisierungen erstellen und verwenden, …
 
-- … um im Sinne der Wirkungsmessung Kennzahlen zur Wirkung eurer Arbeit darzustellen (z.B. Output- oder Outcome-Kennzahlen wie Anzahl erreichter Personen). Solche Visualisierungen könnt ihr in Präsentationen und Berichten für Stakeholder und Fördermittelgeber\*innen einbinden
+- … um im Sinne der **Wirkungsmessung** Kennzahlen zur Wirkung eurer Arbeit darzustellen (z.B. Output- oder Outcome-Kennzahlen wie Anzahl erreichter Personen). Solche Visualisierungen könnt ihr in Präsentationen und Berichten für Stakeholder und Fördermittelgeber\*innen einbinden
 
-- … um zu zeigen wie Spendengelder verwendet werden
+- … um zu zeigen wie **Spendengelder** verwendet werden
 
-- … um eure Ausgaben für die Mitgliederversammlung aufzuschlüsseln
+- … um eure **Ausgaben** für die Mitgliederversammlung **aufzuschlüsseln**
 
-- … um auf gesellschaftliche Missstände aufmerksam zu machen und Bewusstsein zu schaffen für Probleme
+- … um **auf gesellschaftliche Missstände aufmerksam zu machen** und Bewusstsein zu schaffen für Probleme
 
-- … um Entscheidungen vorzubereiten und datenbasierter entscheiden zu können
+- … um **Entscheidungen vorzubereiten** und datenbasierter entscheiden zu können
 
-- ... um Projekte datenbasiert zu planen und zu evaluieren
+- ... um **Projekte datenbasiert zu planen** und zu evaluieren
 
-- … um Statistiken über Engagement und Wachstum eurer Organisation darzustellen
+- … um Statistiken über **Engagement und Wachstum eurer Organisation darzustellen**
 
 ## Was sind die Implikationen von Datenvisualisierung für euch? 
 
-- Ihr braucht ein passendes Tool und eine Datenquelle ([Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank), [Data Warehouse](https://civic-data.de/selbstlernmaterial/#data-warehouse), Excel), um eine Datenvisualisierung zu erstellen
+- Ihr braucht ein **passendes Tool** und **eine Datenquelle** ([Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank), [Data Warehouse](https://civic-data.de/selbstlernmaterial/#data-warehouse), Excel), um eine Datenvisualisierung zu erstellen
 
-- Bei der Nutzung von Tools entstehen ggf. monatliche Lizenzkosten (z. B. Tableau, Power BI Pro)
+- Bei der Nutzung von Tools entstehen **ggf. monatliche Lizenzkosten** (z. B. Tableau, Power BI Pro)
 
-- Wie viel Zeit und Ressourcen ihr in die Erstellung von Datenvisualisierungen steckt, hängt maßgeblich von der Art ihrer Verwendung ab. Auf der einen Seite könnt ihr Datenvisualisierung als Werkzeug nutzen, um schnell und iterativ Erkenntnisse zu gewinnen. Auf der anderen Seite steht die Verwendung als bewusst gestaltetes Kommunikationsmittel, um Informationen gezielt an eure Zielgruppen zu vermitteln.
+- Wie viel **Zeit und Ressourcen** ihr in die Erstellung von Datenvisualisierungen steckt, hängt maßgeblich von der Art ihrer Verwendung ab. Auf der einen Seite könnt ihr Datenvisualisierung als Werkzeug nutzen, um schnell und iterativ Erkenntnisse zu gewinnen. Auf der anderen Seite steht die Verwendung als bewusst gestaltetes Kommunikationsmittel, um Informationen gezielt an eure Zielgruppen zu vermitteln.
 
-  - In vielen Fällen dient eine Visualisierung einfach dazu, Daten verständlicher zu machen, Muster zu erkennen oder erste Analysen durchzuführen (z.B. im Rahmen einer ersten [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) oder als Teil von [deskriptiver Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik)). In solchen Fällen ist die Visualisierung eher kurzfristig und zweckgebunden – hier sind die von eurem Tool vorgeschlagenen Darstellungsarten, Farben und Einstellungen häufig schon ausreichend.
+  - **Werkzeug zum Erkenntnisgewinn**: In vielen Fällen dient eine Visualisierung einfach dazu, Daten verständlicher zu machen, Muster zu erkennen oder erste Analysen durchzuführen (z.B. im Rahmen einer ersten [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) oder als Teil von [deskriptiver Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik)). In solchen Fällen ist die Visualisierung eher kurzfristig und zweckgebunden – hier sind die von eurem Tool vorgeschlagenen Darstellungsarten, Farben und Einstellungen häufig schon ausreichend.
 
-  - Wenn ihr eine Datenvisualisierung gezielt für die externe Kommunikation nutzen wollt, ist das anders. Hier ist das Ziel, eine Geschichte zu erzählen, Zusammenhänge klar darzustellen oder eine Botschaft überzeugend zu vermitteln. Hier solltet ihr mehr Zeit in die bewusste Gestaltung, Informationsauswahl und Anpassung stecken, damit eure Visualisierung ihre Wirkung entfalten kann.
+  - **Kommunikationsmittel**: Wenn ihr eine Datenvisualisierung gezielt für die externe Kommunikation nutzen wollt, ist das anders. Hier ist das Ziel, eine Geschichte zu erzählen, Zusammenhänge klar darzustellen oder eine Botschaft überzeugend zu vermitteln. Hier solltet ihr mehr Zeit in die bewusste Gestaltung, Informationsauswahl und Anpassung stecken, damit eure Visualisierung ihre Wirkung entfalten kann.
 
-- Daten müssen sauber aufbereitet sein, sonst sind die Grafiken irreführend. Aber auch bei faktisch richtigen Daten können Datenvisualisierungen (unbeabsichtigt) in die Irre führen oder manipulativ sein. Gerade wenn ihr Visualisierungen für die externe Kommunikation verwendet, solltet ihr darauf achten, dass sie möglichst verständlich und nicht überfrachtet sind.
+- **Daten müssen sauber aufbereitet sein**, sonst sind die Grafiken irreführend. Aber auch bei faktisch richtigen Daten können Datenvisualisierungen (unbeabsichtigt) in die Irre führen oder manipulativ sein. Gerade wenn ihr Visualisierungen für die externe Kommunikation verwendet, solltet ihr darauf achten, dass sie möglichst verständlich und nicht überfrachtet sind.
 
 ## Mehr zu Datenvisualisierung 
 
@@ -87,11 +87,11 @@ Um eine effektive Datenvisualisierung zu erstellen, solltet ihr einen strukturie
 
 **Data Storytelling**
 
-Ein weiterer Begriff, der oft im Zusammenhang mit Datenvisualisierungen fällt, ist der Begriff Data Storytelling (de: Geschichten mit Daten erzählen). Data Storytelling bezeichnet das Vorgehen, Daten in einer Erzählstruktur zu präsentieren, um komplexe Informationen verständlich und anschaulich zu vermitteln. Durch die Kombination von Daten, Visualisierungen und Erzählstrukturen werden Zusammenhänge deutlich und Entscheidungen unterstützt. Ziel ist es, die Zielgruppe zu informieren und zum Handeln anzuregen.
+Ein weiterer Begriff, der oft im Zusammenhang mit Datenvisualisierungen fällt, ist der Begriff **Data Storytelling** (de: Geschichten mit Daten erzählen). Data Storytelling bezeichnet das Vorgehen, **Daten in einer Erzählstruktur zu präsentieren, um komplexe Informationen verständlich und anschaulich zu vermitteln**. Durch die Kombination von Daten, Visualisierungen und Erzählstrukturen werden Zusammenhänge deutlich und Entscheidungen unterstützt. Ziel ist es, die Zielgruppe zu informieren und zum Handeln anzuregen.
 
 **Tools für die Datenvisualisierung**
 
-Eine Übersicht über einige Tools für die Datenvisualisierung und -analyse findet ihr im Artikel zum Thema [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse).
+*Hinweis: Eine Übersicht über einige Tools für die Datenvisualisierung und -analyse findet ihr im Artikel zum Thema [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse).*
 
 ### Verwandte Begriffe
 

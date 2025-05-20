@@ -9,9 +9,9 @@ Abkürzung: GenAI
 
 ### Definition
 
-Generative KI bezeichnet ML-Modelle, die anhand großer Datenmengen lernen, neue Daten zu produzieren. Es werden bestehende Muster in Daten genutzt, um (theoretisch) unendlich viele Variationen innerhalb eines bestimmten Aufgabenbereichs zu produzieren. Bekannte Beispiele sind Sprachmodelle, die statistisch passende Antworten auf Eingabetexte verfassen.
+**Generative KI bezeichnet [KI](https://civic-data.de/selbstlernmaterial/#ki)-Modelle, die anhand großer Datenmengen lernen, neue Daten zu produzieren**. Es werden bestehende Muster in Daten genutzt, um (theoretisch) unendlich viele Variationen innerhalb eines bestimmten Aufgabenbereichs zu generieren. Bekannte Beispiele sind Sprachmodelle, die statistisch passende Antworten auf Eingabetexte verfassen.
 
-Der Text, den die Nutzer\*innen einem generativen Modell als Anleitung zur Generierung geben, nennt sich “Prompt”. Dieser Text, den man in der Eingabe an das Modell sendet, ist eine kritische Stelle im Optimierungsprozess und wird oft aufwändig zurecht gefeilt (en: “Prompt Engineering”) - das ist oft mehr Kunst als Wissenschaft.
+Der Text, den die Nutzer\*innen einem generativen Modell als Anleitung zur Generierung geben, nennt sich “**Prompt**”. Dieser Text, den man in der Eingabe an das Modell sendet, ist eine kritische Stelle im Optimierungsprozess und wird oft aufwändig zurecht gefeilt (en: “**Prompt Engineering**”) - das ist oft mehr Kunst als Wissenschaft.
 
 ### Beispiele
 
@@ -29,7 +29,7 @@ Der Text, den die Nutzer\*innen einem generativen Modell als Anleitung zur Gener
 
 Generative KI als Technologie kann für euch relevant sein, …
 
-- … wenn ihr Unterstützung bei Aufgaben benötigt, die ihr sonst mithilfe eurer eigenen Kreativität und Zeit oder mit der Kreativität und Zeit einer anderen Person (z.B. externe Designer\*in, Texter\*in) angehen würdet. Gerade unter der Voraussetzung von knappen zeitlichen und finanziellen Ressourcen kann Generative KI hier unterstützen, z.B. bei
+- … wenn ihr **Unterstützung bei Aufgaben** benötigt, die ihr sonst **mithilfe eurer eigenen Kreativität** und Zeit oder mit der Kreativität und Zeit einer anderen Person (z.B. externe Designer\*in, Texter\*in) angehen würdet. Gerade unter der Voraussetzung von knappen zeitlichen und finanziellen Ressourcen kann Generative KI hier unterstützen, z.B. bei
 
 - … der Erstellung, dem Umformulieren oder dem Zusammenfassen von Texten, z.B. für Anträge oder für eure Website. Es gibt auch Tools, die eure Meetings für euch zusammenfassen können.
 
@@ -37,9 +37,9 @@ Generative KI als Technologie kann für euch relevant sein, …
 
 - … der Erstellung von Musik oder Videos
 
-- … wenn ihr einen Überblick über bestimmte Themen oder Antworten auf Fragen benötigt. Da hinter generativer KI häufig sehr große Modelle stecken, die auf vielen Quellen trainiert wurden, eignet sich textbasierte generative KI auch als Rechercheinstrument (siehe allerdings Nachteile)
+- … wenn ihr einen **Überblick über bestimmte Themen** oder Antworten auf Fragen benötigt. Da hinter generativer KI häufig sehr große Modelle stecken, die auf vielen Quellen trainiert wurden, eignet sich textbasierte generative KI auch als Rechercheinstrument (siehe allerdings Nachteile)
 
-- … wenn ihr eine Anwendung bauen möchtet, die eine oder mehrere dieser Aufgaben für ein bestimmtes Thema oder eine bestimmte Zielgruppe abbilden können soll.
+- … wenn ihr eine **Anwendung bauen möchtet**, die eine oder mehrere dieser Aufgaben für ein bestimmtes Thema oder eine bestimmte Zielgruppe abbilden können soll.
 
   - Eine [RAG](https://civic-data.de/selbstlernmaterial/#rag)-Anwendung kombiniert eure eigenen Wissensquellen mit Generativer KI und Sprachmodellen ([SLMs](https://civic-data.de/selbstlernmaterial/#slm) oder [LLMs](https://civic-data.de/selbstlernmaterial/#llm)). Mehr dazu lest ihr bei [Retrieval Augmented Generation](https://civic-data.de/selbstlernmaterial/#rag).
 
@@ -49,13 +49,13 @@ Ob und wie ihr das wollt und könnt, hängt davon ab, wie ihr die Implikationen 
 
 ## Was sind die Implikationen von generativer KI für euch? 
 
-- Generell hat die Verwendung von generativer KI politische, soziale und ethische Dimensionen, die ihr für euch als Individuum und kollektiv als Organisation durchdenken solltet, um eine eigene Position und Umgang zu finden. Zum Beispiel kann ein Wert wie Solidarität (mit der Kreativbranche) für euch wichtig sein, allerdings habt ihr kein Budget, ein neues Logo in Auftrag zu geben. Das Projekt [Demokratische KI](https://demokratische-ki.de/) versucht hier Orientierung zu schaffen, wie ihr solche Diskurse führen könnt.
+- Generell hat die Verwendung von generativer KI **politische, soziale und ethische Dimensionen**, die ihr für euch als Individuum und kollektiv als Organisation durchdenken solltet, um eine eigene Position und Umgang zu finden. Zum Beispiel kann ein Wert wie Solidarität (mit der Kreativbranche) für euch wichtig sein, allerdings habt ihr kein Budget, ein neues Logo in Auftrag zu geben. Das Projekt [Demokratische KI](https://demokratische-ki.de/) versucht hier Orientierung zu schaffen, wie ihr solche Diskurse führen könnt.
 
-- Generierte Inhalte können täuschend echt sein. Falschinformationen oder missbräuchliche Anwendungen ([Deepfakes](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/Deepfakes/deepfakes_node.html)) sind möglich, da hinter generativer KI keine wirkliche Intelligenz steckt, sondern mathematische Wahrscheinlichkeitsmodelle. Deshalb solltet ihr entstandene Texte und andere Inhalte immer kritisch überprüfen. Wenn ihr generative KI als Rechercheinstrument verwendet, ist es wichtig, nach Quellen zu fragen und diese zu prüfen.
+- **Generierte Inhalte können täuschend echt sein**. Falschinformationen oder missbräuchliche Anwendungen ([Deepfakes](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Kuenstliche-Intelligenz/Deepfakes/deepfakes_node.html)) sind möglich, da hinter generativer KI keine wirkliche Intelligenz steckt, sondern mathematische Wahrscheinlichkeitsmodelle. Deshalb solltet ihr entstandene Texte und andere Inhalte immer kritisch überprüfen. Wenn ihr generative KI als Rechercheinstrument verwendet, ist es wichtig, nach Quellen zu fragen und diese zu prüfen.
 
-- Wenn ihr Generative-KI-Software von Anbietern nutzt, ist es wichtig, verantwortungsbewusst Datensicherheit und -schutz mitzudenken: Ihr solltet keine personenbezogenen oder anderweitig sensiblen Daten in Prompts verwenden, ohne euch vorher gut informiert zu haben, wie die Daten verarbeitet und ggf. weiterverwendet werden.
+- Wenn ihr Generative-KI-Software von Anbietern nutzt, ist es wichtig, verantwortungsbewusst **Datensicherheit und -schutz** mitzudenken: Ihr solltet keine personenbezogenen oder anderweitig sensiblen Daten in Prompts verwenden, ohne euch vorher gut informiert zu haben, wie die Daten verarbeitet und ggf. weiterverwendet werden.
 
-- Wenn ihr selbst eine Anwendung entwickeln (lassen) wollt, die die Möglichkeiten von generativer KI nutzt, benötigt ihr ein [Backend](https://civic-data.de/selbstlernmaterial/#frontend-backend), welches das Generative-KI-Modell bereitstellt. Hier gibt es zwei Strategien:
+- Wenn ihr **selbst eine Anwendung entwickeln (lassen) wollt,** die die Möglichkeiten von generativer KI nutzt, benötigt ihr ein [Backend](https://civic-data.de/selbstlernmaterial/#frontend-backend), welches das Generative-KI-Modell bereitstellt. Hier gibt es zwei Strategien:
 
   - Schnittstellen ([APIs](https://civic-data.de/selbstlernmaterial/#api)) von Anbietern wie OpenAI nutzen: Ihr sprecht mit eurer Anwendung direkt die Schnittstelle eines externen Anbieters an. Hierbei entstehen monatliche Kosten, die davon abhängen, wie stark eure Anwendung genutzt wird. Ihr solltet euch gut damit auseinandersetzen, welche Daten eure Nutzer\*innen in die Anwendung geben und wo und wie diese durch kommerzielle Anbieter verarbeitet werden.
 
@@ -63,23 +63,23 @@ Ob und wie ihr das wollt und könnt, hängt davon ab, wie ihr die Implikationen 
 
 ## Mehr zu generativer KI
 
-Spezifische Bereiche generativer KI könnt ihr auch in den Kapiteln zu [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt), [LLM](https://civic-data.de/selbstlernmaterial/#llm), [SLM](https://civic-data.de/selbstlernmaterial/#slm) und [RAG](https://civic-data.de/selbstlernmaterial/#rag) nachlesen.
+*Hinweis: Spezifische Bereiche generativer KI könnt ihr auch in den Kapiteln zu [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt), [LLM](https://civic-data.de/selbstlernmaterial/#llm), [SLM](https://civic-data.de/selbstlernmaterial/#slm) und [RAG](https://civic-data.de/selbstlernmaterial/#rag) nachlesen.*
 
 ### Vorteile von generativer KI
 
-- Generative KI kann Menschen bei Standardaufgaben entlasten und schafft Raum für neue, innovative Ideen.
+- Generative KI **kann Menschen bei Standardaufgaben entlasten** und schafft Raum für neue, innovative Ideen.
 
-- Inhalte können zielgerichtet und individuell erstellt werden, beispielsweise auf Basis persönlicher Vorlieben.
+- **Inhalte können zielgerichtet und individuell erstellt werden**, beispielsweise auf Basis persönlicher Vorlieben.
 
-- Auch Personen ohne tiefes Fachwissen können hochwertige Texte, Bilder oder andere Medien erstellen (z. B. mithilfe von benutzerfreundlichen [KI-](https://civic-data.de/selbstlernmaterial/#ki)Tools).
+- Auch Personen **ohne tiefes Fachwissen können hochwertige Texte, Bilder oder andere Medien erstellen** (z. B. mithilfe von benutzerfreundlichen [KI-](https://civic-data.de/selbstlernmaterial/#ki)Tools).
 
 ### Nachteile von generativer KI
 
-- Täuschend echte Falschinformationen oder Spam-Inhalte können bestehende gesellschaftliche Probleme verstärken.
+- Täuschend echte **Falschinformationen** oder **Spam-Inhalte** können bestehende gesellschaftliche Probleme verstärken.
 
-- Ob KI-generierte Werke das Urheberrecht der Originalarbeiten (z. B. Trainingsdaten) verletzen, ist oft unklar.
+- Ob KI-generierte Werke das **Urheberrecht** der Originalarbeiten (z. B. Trainingsdaten) verletzen, ist oft unklar.
 
-- Die von einer generativen KI erzeugten Inhalte sind nicht immer korrekt oder sicher. Oft bedarf es vieler Versuche, bis ein gutes Ergebnis erzielt werden kann.
+- Die von einer generativen KI erzeugten **Inhalte sind nicht immer korrekt oder sicher**. Oft bedarf es vieler Versuche, bis ein gutes Ergebnis erzielt werden kann.
 
 ### Verwandte Begriffe
 

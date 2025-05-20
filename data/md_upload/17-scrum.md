@@ -9,9 +9,9 @@ Der Begriff Scrum ist aus dem Rugby entlehnt, wo er ein Gedränge bezeichnet, be
 
 ### Definition
 
-Scrum ist ein [agiles](https://civic-data.de/selbstlernmaterial/#agil) Vorgehensmodell für Projektmanagement, Software- und Produktentwicklung, das auf kurzen Arbeitszyklen ([Sprints](https://civic-data.de/selbstlernmaterial/#sprint)), klaren Rollen und regelmäßigem Feedback basiert. Im Gegensatz zum linearen [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall) ermöglicht Scrum durch sein iteratives Vorgehen ein hohes Maß an Flexibilität und Anpassungsfähigkeit.
+**Scrum** ist ein **[agiles](https://civic-data.de/selbstlernmaterial/#agil) Vorgehensmodell für Projektmanagement, Software- und Produktentwicklung**, das auf kurzen Arbeitszyklen ([Sprints](https://civic-data.de/selbstlernmaterial/#sprint)), klaren Rollen und regelmäßigem Feedback basiert. Im Gegensatz zum linearen [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall) ermöglicht Scrum durch sein iteratives Vorgehen ein hohes Maß an Flexibilität und Anpassungsfähigkeit.
 
-Im Vergleich zu traditionellen Projektmanagementmethoden wie dem PMBOK (Project Management Body of Knowledge), die umfangreiche Vorgaben für jede Projektphase, Rollen, Prozesse und Deliverables machen, ist Scrum bewusst minimalistisch gehalten. Der Scrum Guide umfasst nur rund 20 Seiten und definiert nur die wesentlichen Elemente:
+Im Vergleich zu traditionellen Projektmanagementmethoden wie dem PMBOK (Project Management Body of Knowledge), die umfangreiche Vorgaben für jede Projektphase, Rollen, Prozesse und Deliverables machen, ist **Scrum bewusst minimalistisch gehalten**. Der Scrum Guide umfasst nur rund 20 Seiten und definiert nur die wesentlichen Elemente:
 
 - Drei **Rollen**: Product Owner (priorisiert Anforderungen), Scrum Master (moderiert den Prozess), Entwicklungsteam (setzt Aufgaben um).
 
@@ -41,13 +41,29 @@ Nach jedem Sprint findet ein Review statt, bei dem das Team ein fertiges, nutzba
 
 ## Wann ist Scrum für euch relevant? 
 
-Scrum kann für euch relevant sein, wenn ihr [agile](https://civic-data.de/selbstlernmaterial/#agil) Methoden einsetzen wollt und besonders von kurzen Planungszyklen, klaren Rollen und regelmäßigem Feedback profitieren wollt. Insbesondere für dynamische Projekte und interdisziplinäre Teams bietet Scrum einen schlanken, aber effektiven Rahmen. Auch wenn ihr mit Dienstleister\*innen, gerade im IT-Kontext, zusammenarbeitet, werden euch Scrum oder Elemente daraus wahrscheinlich begegnen.
+- Scrum kann für euch relevant sein, wenn ihr **[agile](https://civic-data.de/selbstlernmaterial/#agil) Methoden einsetzen wollt** und besonders von kurzen Planungszyklen, klaren Rollen und regelmäßigem Feedback profitieren wollt.
+
+- Insbesondere für **dynamische Projekte und interdisziplinäre Teams** bietet Scrum einen schlanken, aber effektiven Rahmen.
+
+- Auch wenn ihr mit **Dienstleister\*innen, gerade im IT-Kontext, zusammenarbeitet,** werden euch Scrum oder Elemente daraus wahrscheinlich begegnen.
 
 Als wohl populärste agile Methode in der Softwareentwicklung dient Scrum vielen anderen Ansätzen als Vorbild. Durch Zertifizierungen und externe Unterstützungsmöglichkeiten (z.B. durch zertifizierte Scrum Master, die den Prozess professionell moderieren) kann Scrum sowohl intern als auch in Zusammenarbeit mit externen Dienstleistern effizient umgesetzt werden.
 
 ## Was sind die Implikationen von Scrum für euch? 
 
-Mit Scrum zu arbeiten bedeutet, Projekte in Teams von **maximal 10 Personen** in kurzen [Sprints](https://civic-data.de/selbstlernmaterial/#agil) (meist 1-4 Wochen) zu planen und dabei auf klare Rollenverteilungen, feste Prozesse und transparente Arbeitsweisen zu setzen. Scrum fördert Selbstorganisation und Eigenverantwortung, indem es auf geteilte Verantwortung statt auf eine zentrale Führungsperson setzt. Scrum definiert konkrete **Rollen**, **Prozesse** und **Artefakte**.
+*Hinweis: Grundsätzlich gelten die allgemeinen Vor- und Nachteile [agiler](https://civic-data.de/selbstlernmaterial/#agil) Methoden. Zusätzliche Implikationen von Scrum sind unter anderem::*
+
+- Mit Scrum zu arbeiten bedeutet, Projekte in Teams von **maximal 10 Personen** in kurzen [Sprints](https://civic-data.de/selbstlernmaterial/#agil) (meist 1-4 Wochen) zu planen und dabei auf **klare Rollenverteilungen, feste Prozesse und transparente Arbeitsweisen** zu setzen.
+
+- **Struktur durch feste Rollen, Artefakte und Prozesse:** Scrum gibt dem Team einen klaren Rahmen, ohne die Flexibilität zu verlieren.
+
+- **Geteilte Verantwortung statt zentraler Führung**: Erhöht die Resilienz des Teams, da Entscheidungen nicht von einer Person abhängen.
+
+- **Minimalistischer Ansatz und Umstellung**: Der Scrum Guide gibt nur einen Rahmen vor, aber wenig konkrete Anweisungen. Teams müssen selbst entscheiden, wie genau sie die definierten Prozesse umsetzen. Gerade wenn Scrum neu ist, kann das zu Unklarheiten in den Verantwortungen führen. Gerade bei der Umstellung von klassischen Projektmethoden kann es für klassische Projektleiter\*innen herausfordernd sein, die Kontrolle abzugeben und die Rolle des Scrum Masters oder Product Owners zu übernehmen.
+
+##  Mehr zu Scrum
+
+Scrum wurde in den 90er Jahren von Ken Schwaber und Jeff Sutherland entwickelt. Inspiriert wurden sie durch den Artikel "The New New Product Development Game" von Takeuchi und Nonaka (1986), die den Begriff Scrum aus dem Rugby entlehnten, wo ein Scrum (Gedränge) für die enge Zusammenarbeit im Team steht. Seitdem hat sich Scrum als agiles Framework vor allem in der Softwareentwicklung, aber auch in vielen anderen Branchen etabliert. Der regelmäßig aktualisierte Scrum Guide bildet die Grundlage für die weltweite Anwendung und Weiterentwicklung der Methode.
 
 Rollen in Scrum
 
@@ -88,28 +104,6 @@ Scrum selbst macht keine festen Vorgaben für Werkzeuge und Infrastruktur. Statt
 - **Kommunikationsplattformen**: Slack, Microsoft Teams für tägliche Meetings und laufende Abstimmungen.
 
 - **Aufgabenverwaltung**: Physische oder digitale Kanban Boards zur Visualisierung des Fortschritts (z.B. „To Do“, „In Progress“, „Done“).
-
-## Mehr zu Scrum
-
-Scrum wurde in den 90er Jahren von Ken Schwaber und Jeff Sutherland entwickelt. Inspiriert wurden sie durch den Artikel "The New New Product Development Game" von Takeuchi und Nonaka (1986), die den Begriff Scrum aus dem Rugby entlehnten, wo ein Scrum (Gedränge) für die enge Zusammenarbeit im Team steht. Seitdem hat sich Scrum als agiles Framework vor allem in der Softwareentwicklung, aber auch in vielen anderen Branchen etabliert. Der regelmäßig aktualisierte Scrum Guide bildet die Grundlage für die weltweite Anwendung und Weiterentwicklung der Methode.
-
-### Vorteile von Scrum
-
-Grundsätzlich gelten die allgemeinen Vorteile [agiler](https://civic-data.de/selbstlernmaterial/#agil) Methoden wie Flexibilität, regelmäßige Ergebnisse, Motivation, Transparenz und Zufriedenheit der Stakeholder.
-
-Scrum bietet im Vergleich zu anderen agilen Methoden
-
-- **Struktur durch feste Rollen, Artefakte und Prozesse:** Scrum gibt dem Team einen klaren Rahmen, ohne die Flexibilität zu verlieren.
-
-- **Geteilte Verantwortung statt zentraler Führung**: Erhöht die Resilienz des Teams, da Entscheidungen nicht von einer Person abhängen.
-
-### Nachteile von Scrum
-
-Analog gelten die gleichen Nachteile wie erhöhter Kommunikationsaufwand, Komplexität bei großen Projekten, Overhead bei zu kleinen Projekten und schwierige Kostenschätzung.
-
-Zusätzliche Herausforderungen insbesondere bei Scrum:
-
-- **Minimalistischer Ansatz und Umstellung**: Der Scrum Guide gibt nur einen Rahmen vor, aber wenig konkrete Anweisungen. Teams müssen selbst entscheiden, wie genau sie die definierten Prozesse umsetzen. Gerade wenn Scrum neu ist, kann das zu Unklarheiten in den Verantwortungen führen. Gerade bei der Umstellung von klassischen Projektmethoden kann es für klassische Projektleiter\*innen herausfordernd sein, die Kontrolle abzugeben und die Rolle des Scrum Masters oder Product Owners zu übernehmen.
 
 ### Verwandte Begriffe
 

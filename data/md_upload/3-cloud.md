@@ -19,7 +19,7 @@ Die Cloud wird häufig in drei Hauptkategorien unterteilt, je nachdem, was an Di
 
 1.  **Infrastructure as a Service** (IaaS, de: Infrastruktur als Dienstleistung): Grundlegende Rechenressourcen wie Server, Netzwerke und Speicherplatz (HDD/SSD) werden als Dienst bereitgestellt. Sämtliche Anwendungen und z.B. das Betriebssystem, das auf dieser Infrastruktur läuft, müssen von der Nutzerin installiert und gewartet werden.
 
-2.  **Platform as a Service** (PaaS, de: Plattform als Dienstleistung): Platform as a Service stellt Entwicklungsumgebungen für eigene Anwendungen bereit. Das beinhaltet neben der Infrastruktur auch Betriebssysteme wie Linux und z.B. [Datenbankmanagementsysteme](https://civic-data.de/selbstlernmaterial/#dbms).
+2.  **Platform as a Service** (PaaS, de: Plattform als Dienstleistung): Platform as a Service stellt Entwicklungsumgebungen für eigene Anwendungen bereit. Das beinhaltet neben der Infrastruktur auch Betriebssysteme wie Linux und z.B. [Datenbankmanagementsysteme](https://civic-data.de/selbstlernmaterial/#datenbank).
 
 3.  **Software as a Service** (SaaS, de: Software als Dienstleistung): Software as a Service sind fertige Anwendungen, die über das Internet bereitgestellt werden. Die Cloud-Anbieter [hosten](https://civic-data.de/selbstlernmaterial/#hosting) und verwalten die Anwendung und kümmern sich bei Bedarf um Software-Updates.
 

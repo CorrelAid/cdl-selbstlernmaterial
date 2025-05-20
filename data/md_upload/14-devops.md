@@ -7,9 +7,9 @@
 
 ### Definition
 
-**DevOps** ist ein Ansatz in der Softwareentwicklung und IT, bei dem die enge Zusammenarbeit zwischen **Entwicklung** („Development“) und **IT-Betrieb** („Operations“) im Vordergrund steht. In der klassischen Softwareentwicklung (z.B. [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall)) sind Entwicklung und Betrieb meist stark voneinander getrennt und werden oft von unterschiedlichen Abteilungen oder Auftragnehmern durchgeführt. Die Software wird zunächst vollständig entwickelt, abgenommen und anschließend in den Betrieb überführt.
+**DevOps** ist ein Ansatz in der Softwareentwicklung und IT, bei dem die **enge Zusammenarbeit zwischen** **Entwicklung** („Development“) **und IT-Betrieb** („Operations“) im Vordergrund steht. In der klassischen Softwareentwicklung (z.B. [Wasserfallmodell](https://civic-data.de/selbstlernmaterial/#wasserfall)) sind Entwicklung und Betrieb meist stark voneinander getrennt und werden oft von unterschiedlichen Abteilungen oder Auftragnehmern durchgeführt. Die Software wird zunächst vollständig entwickelt, abgenommen und anschließend in den Betrieb überführt.
 
-Bei DevOps hingegen werden Entwicklung und Betrieb in gemeinsamen, agilen Teams integriert. So ergänzt DevOps [agile Methoden](https://civic-data.de/selbstlernmaterial/#agil), indem der Betrieb stärker in den Entwicklungsprozess eingebunden wird und erste fertige Funktionalitäten schnell an die Nutzer\*innen bereitgestellt werden, um frühzeitig Feedback aus der Anwendung zu erhalten. Ziel von DevOps ist es, die Softwarequalität zu erhöhen, Entwicklungszyklen zu verkürzen und Updates schneller bereitzustellen. Zentrale Prinzipien sind die kontinuierliche Integration (Continuous Integration), die kontinuierliche Bereitstellung (Continuous Delivery) und eine weitgehende Automatisierung (siehe auch [CI/CD](https://civic-data.de/selbstlernmaterial/#cicd)).
+Bei DevOps hingegen werden Entwicklung und Betrieb in gemeinsamen, agilen Teams integriert. So ergänzt DevOps [agile Methoden](https://civic-data.de/selbstlernmaterial/#agil), indem der Betrieb stärker in den Entwicklungsprozess eingebunden wird und erste fertige Funktionalitäten schnell an die Nutzer\*innen bereitgestellt werden, um frühzeitig Feedback aus der Anwendung zu erhalten. **Ziel von DevOps** ist es, die **Softwarequalität** zu **erhöhen**, **Entwicklungszyklen** zu **verkürzen** und **Updates** **schneller** **bereitzustellen**. Zentrale Prinzipien sind die kontinuierliche Integration (Continuous Integration), die kontinuierliche Bereitstellung (Continuous Delivery) und eine weitgehende Automatisierung (siehe auch [CI/CD](https://civic-data.de/selbstlernmaterial/#cicd)).
 
 ![](https://civic-data.de/app/uploads/devops.svg)
 
@@ -27,9 +27,9 @@ Bei DevOps hingegen werden Entwicklung und Betrieb in gemeinsamen, agilen Teams 
 
 DevOps ist für euch relevant, wenn...
 
-- … ihr ein eigenes IT-Team habt und Software selbst nach [agilen Methoden](https://civic-data.de/selbstlernmaterial/#agil) entwickelt und betreibt. DevOps hilft, Entwicklungsprozesse zu automatisieren und neue Funktionen und Updates schneller bereitzustellen.
+- … ihr ein **eigenes IT-Team habt** und Software selbst nach [agilen Methoden](https://civic-data.de/selbstlernmaterial/#agil) entwickelt und betreibt. DevOps hilft, Entwicklungsprozesse zu automatisieren und neue Funktionen und Updates schneller bereitzustellen.
 
-- ...eine enge Zusammenarbeit zwischen Softwareentwicklung und IT-Betrieb wichtig ist, um schnell auf Nutzerfeedback, Bugs oder Sicherheitsprobleme reagieren zu können.
+- ...eine **enge Zusammenarbeit zwischen Softwareentwicklung und IT-Betrieb** wichtig ist, um schnell auf Nutzerfeedback, Bugs oder Sicherheitsprobleme reagieren zu können.
 
 Weniger relevant, wenn man die IT komplett an externe Dienstleister auslagert und keinen direkten Einfluss auf Entwicklungs- und Betriebsprozesse hat. Hier hängt die Relevanz von der Fähigkeit des Dienstleisters ab, DevOps-Prinzipien anzuwenden.
 
@@ -39,7 +39,7 @@ Die Einführung von DevOps bedeutet eine enge Verzahnung von Entwicklung und Bet
 
 ### Was braucht man für DevOps?
 
-- **Rahmenbedingungen**:
+- **Rahmenbedingungen**
 
   - Teams müssen kontinuierlich zusammenarbeiten, um eine schnelle Bereitstellung und hohe Softwarequalität zu gewährleisten.
 
@@ -47,7 +47,7 @@ Die Einführung von DevOps bedeutet eine enge Verzahnung von Entwicklung und Bet
 
   - Eine gute und offene Fehlerkultur, um gemeinsam aus Fehlern zu lernen
 
-- **Tools & Infrastruktur**:
+- **Tools & Infrastruktur**
 
   - [Versionskontrolle](https://civic-data.de/selbstlernmaterial/#git) (z.B. Git), [CI/CD](https://civic-data.de/selbstlernmaterial/#cicd)-Pipelines (z.B. GitHub Actions, GitLab CI/CD, Jenkins).
 

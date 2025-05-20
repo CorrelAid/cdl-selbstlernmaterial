@@ -7,11 +7,9 @@ Englische Übersetzung: database
 
 ### Definition
 
-Eine Datenbank ist ein **strukturierter Speicherort** für Daten, damit diese schnell und einfach wieder abgerufen und bearbeitet werden können. Eine Datenbank **speichert** **unterschiedliche Daten und verknüpft sie miteinander**.
+Eine Datenbank ist ein **strukturierter Speicherort** für Daten, damit diese schnell und einfach wieder abgerufen und bearbeitet werden können. Eine Datenbank **speichert** **unterschiedliche Daten und verknüpft sie miteinander**. Eine Datenbank eines gemeinnützigen Vereins könnte z.B. in drei Tabellen Informationen über die Vereinsmitglieder, die von ihnen erhaltenen Spenden und die aktuellen Projekte, für die Spenden gesammelt werden, enthalten.
 
-Eine Datenbank eines gemeinnützigen Vereins könnte z.B. je eine Tabelle für die Vereinsmitglieder, die empfangenen Spenden und die aktuellen Projekte, die der Verein unterstützt, enthalten.
-
-Man kann zwischen verschiedenen Arten von Datenbanken unterscheiden, z.B. relationalen [SQL](https://civic-data.de/selbstlernmaterial/#sql)-Datenbanken und NoSQL Datenbanken. Mehr dazu lernst du im Abschnitt “Mehr zu Datenbanken”.
+Für die Erstellung und Verwaltung einer Datenbank benötigt ihr ein **Datenbank-Management-System (DBMS)**. Mit einem DBMS können Administrator\*innen **Datenbanken erstellen, strukturieren, ändern und verwalten**. Es regelt Zugriffsrechte, kümmert sich um Datensicherheit und sorgt für korrekte sowie konsistente Speicherung. In der Praxis werden die Begriffe Datenbank und DBMS häufig synonym verwendet.
 
 ### Beispiele
 
@@ -19,11 +17,11 @@ Beispiele für Datenbanken sind unter anderem:
 
 - Vereinsmitglieder-Datenbank (Liste aller Vereinsmitglieder mit Kontaktdaten)
 
-- Spendendatenbank für NGOs
+- Spendendatenbank in CiviCRM
 
 - Projektdatenbank aller laufenden und abgeschlossenen Projekte inkl. Status, verantwortlicher Person, etc.
 
-- <span class="mark">Populäre Datenbank-Technologien sind derzeit (Stand April 2025): Oracle, MySQL, PostgreSQL, MongoDB, Redis, SQLite</span>
+Populäre Datenbank-Management-Systeme sind derzeit (Stand April 2025): Oracle, MySQL, PostgreSQL, MongoDB, Redis, SQLite
 
 ## Wann sind Datenbanken für euch relevant? 
 
@@ -45,13 +43,13 @@ Datenbanken können dann relevant sein, …
 
 - Um eine Datenbank nutzen zu können, benötigt ihr meistens **Kenntnisse der Programmiersprache [SQL](https://civic-data.de/selbstlernmaterial/#sql)**.
 
-- Die meisten Datenbanken benötigen einen **[Server](https://civic-data.de/selbstlernmaterial/#server),** auf dem ein [Datenbank-Management-System (DBMS)](https://civic-data.de/selbstlernmaterial/#dbms) (z.B. PostgreSQL, MySQL, Oracle, Microsoft SQL Server) läuft.
+- Die meisten Datenbanken benötigen einen **[Server](https://civic-data.de/selbstlernmaterial/#server),** auf dem das Datenbank-Management-System (DBMS) (z.B. PostgreSQL, MySQL, Oracle, Microsoft SQL Server) läuft.
 
-  - Wenn ihr selbst eine Datenbank in der Cloud hosten möchtet, benötigt ihr Kompetenzen in Datenbank- und Server-Administration (vgl. Self-Hosting bei [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)). Ihr seid außerdem verantwortlich für die Datensicherheit eurer Datenbank. Es fallen meistens Kosten für das Hosting des Servers an.
+  - Wenn ihr selbst eine Datenbank in der Cloud betreiben möchtet, benötigt ihr Kompetenzen in Datenbank- und Server-Administration (vgl. Self-Hosting bei [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)). Ihr seid außerdem verantwortlich für die Datensicherheit eurer Datenbank. Es fallen meistens Kosten für das Hosting des Servers an.
 
   - Es gibt die meisten Datenbanken auch als **gehostetes Angebot** (vgl. Managed Hosting bei [Hosting](https://civic-data.de/selbstlernmaterial/#hosting)). Es gibt meistens kostenlose Einstiegsangebote und Bezahlmodelle, falls ihr mehr Speicherplatz oder fortgeschrittene Funktionen benötigt.
 
-- Es gibt auch **Datenbanken, die keinen Server benötigen**. Diese haben weniger Funktionen (z.B. kaum Möglichkeiten, Zugriffsrechte zu konfigurieren), dafür entfällt der Aufwand für Server-Administration. Beispiele für solche Datenbanken sind SQLite und DuckDB. Sie eignen sich besonders gut für **kleinere, weniger komplexe Anwendungen** und lokale Anwendungen.
+- Es gibt auch Datenbank-Management-Systeme, die keinen Server benötigen, sondern **in einer einzelnen Datei verpackt** sind (z.B. SQLite, DuckDB). Diese haben weniger Funktionen (z.B. kaum Möglichkeiten, Zugriffsrechte zu konfigurieren), dafür entfällt der Aufwand für Server-Administration. Sie eignen sich besonders gut für **kleinere, weniger komplexe Anwendungen** und lokale Anwendungen.
 
 - Auch wenn es immer mehr grafische Benutzeroberflächen für Datenbanken gibt, sind sie in der Regel noch nicht so benutzerfreundlich und intuitiv wie Excel & Co. Es kann z.B. nötig sein, das [Terminal](https://civic-data.de/selbstlernmaterial/#terminal) zu verwenden, um mit der Datenbank zu interagieren. Technologien wie Airtable, Baserow und NocoDB versuchen, die Vorteile von Datenbanken mit einer intuitiveren grafischen Benutzeroberfläche zu verbinden.
 
@@ -59,7 +57,7 @@ Datenbanken können dann relevant sein, …
 
 ## Mehr zu Datenbanken
 
-Die am weitesten verbreitete Art von Datenbanken sind die **relationalen Datenbanken**. Diese speichern Daten in Tabellen, die miteinander verknüpft werden. Die Meta-Informationen, wie die Tabellen aussehen und wie sie miteinander verknüpft sind, nennt man **Schema**. Diese Festlegung der Datenstruktur ist ein großer Vorteil von relationalen Datenbanken, da sie Sicherheit schafft.
+Man kann zwischen verschiedenen Arten von Datenbanken unterscheiden, z.B. relationalen [SQL](https://civic-data.de/selbstlernmaterial/#sql)-Datenbanken und NoSQL Datenbanken. Die am weitesten verbreitete Art von Datenbanken sind die **relationalen Datenbanken**. Diese speichern Daten in Tabellen, die miteinander verknüpft werden. Die Meta-Informationen, wie die Tabellen aussehen und wie sie miteinander verknüpft sind, nennt man **Schema**. Diese Festlegung der Datenstruktur ist ein großer Vorteil von relationalen Datenbanken, da sie Sicherheit schafft.
 
 ![](https://civic-data.de/app/uploads/datenbank-schema.svg)
 
@@ -73,8 +71,6 @@ Für spezielle Anwendungsfälle gibt es auch unterschiedliche Arten von **nicht-
 
 ### Verwandte Begriffe
 
-- Für die Erstellung und Verwaltung einer Datenbank benötigt ihr ein Datenbank-Management-System ([DBMS](https://exampl.com/dbms)). Häufig wird der Begriff Datenbank synonym verwendet für das verwendete DBMS, z.B. spricht man von einer PostgreSQL-Datenbank, obwohl es sich bei PostgreSQL um ein DBMS handelt.
-
 - Ein [Data Warehouse](https://civic-data.de/selbstlernmaterial/#data-warehouse) ist ein Datenbanksystem, das speziell für betriebswirtschaftliche Analysen eingesetzt wird und aufbereitete Daten enthält
 
 - Ein [Data Lake](https://civic-data.de/selbstlernmaterial/#data-lake) ist ein Speichersystem für alle möglichen Arten von Daten, hauptsächlich eingesetzt zum Speichern von noch nicht aufbereiteten Daten (sog. Rohdaten)
@@ -83,13 +79,15 @@ Für spezielle Anwendungsfälle gibt es auch unterschiedliche Arten von **nicht-
 
 ## Weiterführende Materialien
 
-Wenn du noch mehr über Datenbanken erfahren möchtest, schaue dir die folgenden Ressourcen an:
+Wenn du noch mehr über Datenbanken und Datenbank-Management-Systeme erfahren möchtest, schaue dir die folgenden Ressourcen an:
 
-- [Wikipedia Eintrag](https://de.wikipedia.org/wiki/Datenbank)
+- [Wikipedia Eintrag - Datenbank](https://de.wikipedia.org/wiki/Datenbank) (de)
 
 - [What is a database?](https://www.youtube.com/watch?v=hRulZhTtUTg) (YouTube, englisch)
 
 - [Database vs Data Warehouse vs Data Lake | What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM) (YouTube, englisch)
 
 - [Datenbank Grundlagen einfach erklärt](https://www.youtube.com/watch?v=-LJYaXfR2X4) (YouTube, deutsch)
+
+- [What is a DBMS?](https://www.youtube.com/watch?v=wM-4U0zpM8g) (YouTube, englisch)
 

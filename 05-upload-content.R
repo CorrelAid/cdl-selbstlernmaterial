@@ -73,11 +73,11 @@ upload <- joined %>%
 # id	slug	title	category	prio	authors	cc 	md	html	links_to
 
 # make sure no term is missing
-max_id <- kanban %>% 
+ids <- kanban %>% 
   filter(status != "Backlog") %>% 
-  pull(id) %>% max()
+  pull(id)
 
-missing_terms <- setdiff(1:max_id, upload$id)
+missing_terms <- setdiff(ids, upload$id)
 if (length(missing_terms) > 0) print(glue::glue("Term {kanban$slug[kanban$id %in% missing_terms]} missing"))
 stopifnot(length(missing_terms) == 0)
 

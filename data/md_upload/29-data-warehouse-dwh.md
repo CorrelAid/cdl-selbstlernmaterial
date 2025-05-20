@@ -9,25 +9,25 @@ Auch bekannt unter: DWH
 
 ### Definition
 
-Ein Data Warehouse (DWH) ist ein spezielles System zur langfristigen Speicherung und Analyse großer Datenmengen aus unterschiedlichen Quellen. Vereinfacht lässt es sich als Sammlung mehrerer [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank) betrachten.
+Ein Data Warehouse (DWH) ist ein spezielles **System zur langfristigen Speicherung und Analyse großer Datenmengen aus unterschiedlichen Quellen**. Vereinfacht lässt es sich als Sammlung mehrerer [Datenbanken](https://civic-data.de/selbstlernmaterial/#datenbank) betrachten.
 
-In einem Data Warehouse werden Daten aus verschiedenen Systemen zusammengeführt, bereinigt, umgeformt und historisiert gespeichert. Damit können Anwender\*innen umfassende Analysen durchführen und Trends über lange Zeiträume beobachten.
+In einem Data Warehouse werden Daten aus verschiedenen Systemen zusammengeführt, bereinigt, umgeformt und historisiert gespeichert. Damit können Anwender\*innen **umfassende Analysen** durchführen und **Trends über lange Zeiträume** beobachten.
 
 ### Beispiele
 
 - Data Warehouses in Unternehmen (z. B. für Finanzreporting, Vertriebsanalysen)
 
-- Hypothetisch: NGO-Data-Warehouse, das Spender\*innen-Daten, Kampagnen- und Projektdaten aus verschiedenen Tools zusammenführt
+- Hypothetisch: NPO-Data-Warehouse, das Spender\*innen-Daten, Kampagnen- und Projektdaten aus verschiedenen Tools zusammenführt
 
 - Momentan sind uns keine realen Anwendungsbeispiele in der Zivilgesellschaft bekannt
 
 ## Wann sind Data Warehouses für euch relevant? 
 
-- Wenn ihr schon mehrere Datenbanken habt und die Daten aus diesen Datenbanken verknüpfen, zusammenführen und analysieren wollt
+- Wenn ihr schon **mehrere Datenbanken** habt und die Daten aus diesen Datenbanken verknüpfen, zusammenführen und analysieren wollt
 
-- Wenn ihr die Daten aus einer zentralen, wichtigen Datenbank analysieren möchtet und es wichtig ist, die Datenbank nicht mit der Analyse zu belasten.
+- Wenn ihr die Daten aus einer zentralen, wichtigen Datenbank analysieren möchtet und es wichtig ist, diese Datenbank nicht mit der Analyse zu belasten.
 
-- Data Warehouses sind wahrscheinlich nicht relevant für euch, wenn ihr wenig Daten und / oder wenige Datenbanken habt
+- Data Warehouses sind wahrscheinlich **nicht relevant** für euch, wenn ihr **wenig Daten und / oder wenige Datenbanken** habt
 
 ## Was sind die Implikationen von Data Warehouses für euch? 
 
@@ -60,8 +60,6 @@ Data Warehouses werden oft zusammen genutzt mit Business-Intelligence- oder [Dat
 - Pflegeintensiv
 
 ### Verwandte Begriffe
-
-- Im Gegensatz zum Data Warehouse liegt das Hauptaugenmerk einer [Datenbank](https://civic-data.de/selbstlernmaterial/#datenbank) meistens auf dem Speichern von Daten zum Ermöglichen von Geschäftsabläufen (z.B. Online-Bestellungen) und nicht auf der Ermöglichung der Analyse
 
 - Im Vergleich zu einem Data Warehouse ist ein [Data Lake](https://civic-data.de/selbstlernmaterial/#data-lake) sehr viel weniger strukturiert und hat einen starken Fokus auf die Ablage von Rohdaten
 
